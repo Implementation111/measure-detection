@@ -1,0 +1,832 @@
+code,libelle,etat,insee_commune,nom_commune,mo_raison_sociale,x,y,precision_coord,categorie,puissance_maximum,productible_moyen,debit,coef_energetique,nb_turbines,type_turbine,titre,date_echeance_titre,hauteur_de_chute
+9004001,Centrale d'Albies,EXPL,9004,Albiès,ENERGIE ELECTRIQUE DE PALOUMA,593335.0,6187410.0,0,Ouvrage fonctionnant au fil de l'eau,1.888,3127132.0,,,,,Autorisée,2024-08-04,10.69
+9014001,MOULIN DE ROQUES,EXPL,9014,Argein,SARL DU MOULIN DE ROQUES,535762.0,6205450.0,0,Ouvrage fonctionnant au fil de l'eau,0.13,228122.0,,,,,,,4.7
+9015001,Centrale d'Arignac,EXPL,9015,Arignac,MOULIN D'ARIGNAC,585909.0,6197060.0,0,Ouvrage fonctionnant au fil de l'eau,,346776.0,,,,,,,13.6
+9015002,Moulin de la Calviere,EXPL,9015,Arignac,SNC CALVIERE,585010.0,6198010.0,0,Ouvrage fonctionnant au fil de l'eau,,531075.0,,,,,,,12.0
+9018001,ARROUT,EXPL,9018,Arrout,DEPARTEMENT DE L'ARIEGE,539348.0,6206780.0,0,Ouvrage fonctionnant au fil de l'eau,0.8,2675187.0,6.6,"0,041000",2.0,Francis,Autorisée,1994-10-16,19.5
+9024001,LAPARAN,EXPL,9024,Aston,ELECTRICITE DE FRANCE,590524.0,6179330.0,0,Ouvrage de type Lac,43.8,90662000.0,11.7,"0,983000",1.0,Francis,Concédée,2058-12-31,442.0
+9024002,ASTON,EXPL,9024,Aston,ELECTRICITE DE FRANCE,591625.0,6187260.0,0,Ouvrage fonctionnant par éclusées,105.9,310564992.0,24.2,"1,160000",4.0,Pelton,Concédée,2023-12-31,519.8
+9026001,Centrale DUPUY,EXPL,9026,Audressein,EURL MICROENERGIE,538565.06,6205544.0,0,Ouvrage fonctionnant au fil de l'eau,0.1,,6.0,,1.0,,Autorisée,2031-05-07,1.8
+9030001,SOULCEM,EXPL,9030,Auzat,ELECTRICITE DE FRANCE,570972.0,6180270.0,0,Ouvrage de type Lac,26.2,46515200.0,7.0,"0,900000",1.0,Francis,Concédée,2060-12-31,410.6
+9030002,BASSIES,EXPL,9030,Auzat,ELECTRICITE DE FRANCE,573359.0,6184240.0,0,Ouvrage de type Lac,3.0,14871933.0,0.8,"0,955000",1.0,Pelton,Concédée,1994-10-16,439.0
+9030003,PRADIERES Basse Chute,EXPL,9030,Auzat,ELECTRICITE DE FRANCE,576195.0,6180610.0,0,Ouvrage de type Lac,10.0,18570532.0,3.4,"0,994000",1.0,Pelton,Concédée,2006-12-31,458.4
+9030004,AUZAT,EXPL,9030,Auzat,ELECTRICITE DE FRANCE,575280.0,6185840.0,0,Ouvrage fonctionnant au fil de l'eau,52.2,158036928.0,16.3,"0,913000",2.0,Francis double,Concédée,1994-10-16,415.1
+9030005,PRADIERES Haute Chute,EXPL,9030,Auzat,ELECTRICITE DE FRANCE,576209.0,6180610.0,0,Ouvrage de type Lac,23.3,51718200.0,5.1,"1,400000",2.0,Pelton,Concédée,2047-12-31,648.8
+9032001,LE TEICH,EXPL,9032,Ax-les-Thermes,ELECTRICITE DE FRANCE,604979.0,6180570.0,0,Ouvrage fonctionnant par éclusées,6.1,22323800.0,9.0,"0,210000",1.0,Francis,Concédée,2017-12-31,93.8
+9041001,Centrale de Labastide,EXPL,9041,La Bastide-du-Salat,COMPAGNIE PYRENEENNE HYDROELECTRIQUE,535691.9,6219462.0,0,Ouvrage fonctionnant au fil de l'eau,0.968,2431058.0,33.0,,,,Autorisée,2008-07-27,2.99
+9045001,LES ESPINASSIERES,EXPL,9045,Bédeilhac-et-Aynat,DU SAURAT,582326.0,6198500.0,0,Ouvrage fonctionnant au fil de l'eau,0.178,521973.0,,,,,,,
+9047001,BELOT,EXPL,9047,Bélesta,SARL HERREROS HYDROELECTRICITE,612857.0,6200880.0,0,Ouvrage fonctionnant au fil de l'eau,0.188,261373.0,,,,,,,5.5
+9047002,LA FORGE,EXPL,9047,Bélesta,SARL LA FORGE,612583.0,6200700.0,0,Ouvrage fonctionnant au fil de l'eau,0.11,221270.0,,,,,,,6.0
+9049001,CENTRALE DE GAYNES,EXPL,9049,Bénac,DH ENERGIES,580106.0,6208350.0,0,Ouvrage fonctionnant au fil de l'eau,0.103,26778.0,,,,,,,
+9050001,Centrale de Guilhot,EXPL,9050,Benagues,SOCIETE HYDROELECTRIQUE DE LA MOYENNE ARIEGE,587539.0,6220820.0,0,Ouvrage fonctionnant au fil de l'eau,3.255,9803111.0,33.0,,,,Autorisée,2025-10-27,10.5
+9060001,PEBERNAT,EXPL,9060,Bonnac,ELECTRICITE DE FRANCE,585538.0,6231120.0,0,Ouvrage fonctionnant au fil de l'eau,8.0,38358600.0,50.0,"0,050000",2.0,Kaplan,Concédée,2025-12-31,21.3
+9062001,BORDES,EXPL,9062,Bordes-Uchentein,ELECTRICITE DE FRANCE,538887.0,6201470.0,0,Ouvrage fonctionnant au fil de l'eau,9.0,39159400.0,8.0,"0,277000",2.0,Francis,Concédée,2025-12-31,140.0
+9070001,PONT DE VERDUN,HORS,9070,Les Cabannes,ELECTRICITE DE FRANCE,592619.0,6188600.0,0,Ouvrage fonctionnant au fil de l'eau,0.1,300000.0,3.5,"0,007000",1.0,Kaplan,Autorisée,1994-10-16,4.9
+9070002,Centrale du Foussat,EXPL,9070,Les Cabannes,EXPLOITATION GESTION D'ENERGIES RENOUVELABLES PYRENEENNES,593035.0,6187750.0,0,Ouvrage fonctionnant au fil de l'eau,,1321888.0,,,,,,,4.0
+9085001,Centrale de Castillon,EXPL,9026,Audressein,PYRENEES HYDRO,538852.0,6203660.0,0,Ouvrage fonctionnant par éclusées,3.3,12553370.0,,,,,Concédée (autorisable),,43.5
+9096001,CHATEAU VERDUN,EXPL,9096,Château-Verdun,CENTRALE HYDROELECTRIQUE DE CHATEAU VERDUN,591617.0,6187780.0,0,Ouvrage fonctionnant au fil de l'eau,4.414,12688303.0,,,,,,,30.0
+9100001,SALAU,HORS,9100,Couflens,ELECTRICITE DE FRANCE,551691.0,6185880.0,0,,,,,,,,,,113.0
+9103001,Centrale de Crampagna,EXPL,9103,Crampagna,SOCIETE HYDROELECTRIQUE DE LA MOYENNE ARIEGE,586282.0,6215560.0,0,Ouvrage fonctionnant au fil de l'eau,1.692,6405632.0,28.0,,,,Autorisée,2025-10-13,6.0
+9111001,Centrale des Papeteries Leon Martin,EXPL,9111,Engomer,PAPETERIES LEON MARTIN,542054.0,6207250.0,0,Ouvrage fonctionnant au fil de l'eau,0.36,1642311.0,4.6,,,,Autorisée,,8.0
+9113001,ERCE,EXPL,9113,Ercé,DEPARTEMENT DE L'ARIEGE,560410.0,6194140.0,0,Ouvrage fonctionnant au fil de l'eau,0.2,1147219.0,0.7,"0,010000",1.0,Francis,Autorisée,1994-10-16,53.5
+9119001,Usine de la Moulasse,EXPL,9119,Eycheil,ARIEGE ENERGIES NOUVELLES,550658.0,6208900.0,0,Ouvrage fonctionnant au fil de l'eau,,,,,,,Autorisée,,3.8
+9119002,LES PORTES DE FER,OCCA,9119,Eycheil,S.A.R.L. LA PORTE DE FER,551034.0,6208100.0,0,Ouvrage fonctionnant au fil de l'eau,0.48,,,,,,,,
+9121001,FERRIERES,EXPL,9121,Ferrières-sur-Ariège,ELECTRICITE DE FRANCE,587088.0,6204990.0,0,Ouvrage fonctionnant par éclusées,38.0,135397600.0,72.9,"0,070000",3.0,Francis,Concédée,2060-12-31,68.1
+9122001,MOULIN DE FOIX,EXPL,9122,Foix,ELECTRICITE DE FRANCE,586661.0,6207860.0,0,Ouvrage fonctionnant au fil de l'eau,1.236,2130000.0,28.0,,2.0,Kaplan,Autorisée,,4.5
+9122002,LABARRE,EXPL,9122,Foix,ELECTRICITE DE FRANCE,586904.0,6211750.0,0,Ouvrage fonctionnant au fil de l'eau,4.7,22608132.0,59.0,"0,024000",1.0,Kaplan,Concédée,2021-12-31,14.7
+9122003,Centrale de Ruffie,EXPL,9122,Foix,TOURNO QUANT PLAOU,584673.0,6207620.0,0,Ouvrage fonctionnant au fil de l'eau,,753042.0,,,,,,,10.0
+9122004,CHUTE DE MOULINERY,EXPL,9122,Foix,SARL FOURNIE DU MOULINERY,585088.0,6207870.0,0,Ouvrage fonctionnant au fil de l'eau,0.186,330111.0,,,,,,,
+9128001,Moulin de Gajan,EXPL,9128,Gajan,SNC DUMONT INVESTISSEMENT,546477.0,6215240.0,0,Ouvrage fonctionnant au fil de l'eau,0.653,2124333.0,,,,,Autorisée,2026-01-24,3.0
+9139001,HOSPITALET Basse Chute,EXPL,9139,L'Hospitalet-près-l'Andorre,ELECTRICITE DE FRANCE,601112.0,6166120.0,0,Ouvrage de type Lac,14.1,5736467.0,3.27,"1,230000",1.0,Pelton,Concédée,2040-12-31,545.1
+9139002,HOSPITALET Haute Chute,EXPL,9139,L'Hospitalet-près-l'Andorre,ELECTRICITE DE FRANCE,601116.0,6166120.0,0,Ouvrage de type Lac,93.3,71879000.0,,,,,Concédée,,769.0
+9141001,ILLARTEIN,EXPL,9141,Illartein,EURL CAZALE,533719.0,6206370.0,0,Ouvrage fonctionnant au fil de l'eau,0.118,271349.0,,,,,,,
+9148001,Centrale de Lacave,EXPL,9148,Lacave,SOCIETE HYDROELECTRIQUE DE LACAVE,536537.0,6217650.0,0,Ouvrage fonctionnant au fil de l'eau,0.874,2161513.0,,,,,Autorisée,2028-09-24,2.6
+9149001,LACOURT,EXPL,9149,Lacourt,ELECTRICITE DE FRANCE,551009.0,6205980.0,0,Ouvrage fonctionnant au fil de l'eau,3.6,17541468.0,17.0,"0,059000",2.0,Francis,Concédée,2005-12-31,35.3
+9149002,MOULIN DE MOURLASSE,EXPL,9149,Lacourt,MOULIN DE MOURLASSE,550945.0,6206510.0,0,Ouvrage fonctionnant au fil de l'eau,1.126,,22.5,,,,Autorisée,2037-10-26,5.1
+9165001,CHUTE DE CAMP REDON,EXPL,9165,Lesparrou,MICRO CENTRALE DE CAMPREDON,610224.0,6205400.0,0,Ouvrage fonctionnant au fil de l'eau,0.37,317617.0,,,,,,,7.5
+9176001,Centrale La Forge,EXPL,9176,Luzenac,ENERGIE ELECTRIQUE DE PALOUMA,598098.0,6185820.0,0,Ouvrage fonctionnant au fil de l'eau,1.532,1639489.0,,,,,,2026-01-25,9.95
+9182001,Centrale Le Port,EXPL,9231,Le Port,COMPAGNIE PYRENEENNE HYDROELECTRIQUE,566941.2,6197555.5,0,Ouvrage fonctionnant au fil de l'eau,0.8,3468631.0,,,,,Autorisée,2037-12-31,138.0
+9185001,Centrale Municipale de Mazeres Village,EXPL,9185,Mazères,REGIE MUNICIPALE D'ELECTRICITE DE MAZERES,592577.0,6240340.0,0,Ouvrage fonctionnant au fil de l'eau,0.413,870759.0,,,,,,,3.5
+9188001,FERRIERES (Groupe de Restitution),EXPL,9188,Mercus-Garrabet,ELECTRICITE DE FRANCE,588051.0,6200300.0,0,Ouvrage fonctionnant au fil de l'eau,0.5,3697000.0,,,,,,,32.0
+9189001,MERENS,EXPL,9189,Mérens-les-Vals,ELECTRICITE DE FRANCE,604031.0,6172170.0,0,Ouvrage de type Lac,42.0,67844736.0,83.0,"0,695000",2.0,Pelton,Concédée,2040-12-31,327.9
+9200001,Usine de Montbel amont,EXPL,9200,Montbel,I.I.A. DU BARRAGE DE MONTBEL,614270.0,6208010.0,0,Ouvrage fonctionnant au fil de l'eau,0.6,524641.0,6.0,,,,,,9.0
+9200002,Usine de Montbel aval (barrage),EXPL,9200,Montbel,I.I.A. DU BARRAGE DE MONTBEL,615042.0,6211200.0,0,Ouvrage fonctionnant au fil de l'eau,,1758000.0,,,,,,,30.0
+9206001,Centrale des Talcs,EXPL,9206,Montferrier,S.N.C. LES TALCS,601842.0,6200640.0,0,Ouvrage fonctionnant au fil de l'eau,0.24,698642.0,,,,,,,18.0
+9206002,Centrale Peyregade,EXPL,9206,Montferrier,PROLEC,598637.0,6197810.0,0,Ouvrage fonctionnant au fil de l'eau,,1548126.0,,,,,,,45.0
+9206003,Centrale Moulinette,EXPL,9206,Montferrier,PROLEC,600333.0,6199800.0,0,Ouvrage fonctionnant au fil de l'eau,0.3,1056555.0,,,,,,,29.0
+9206004,CHUTE DE CARRIAL,EXPL,9206,Montferrier,S.A.R.L. LES FORGES DE GAYNES,600893.0,6199970.0,0,Ouvrage fonctionnant au fil de l'eau,0.098,,,,,,,,0.0
+9206006,FOUNT SICRE,EXPL,9206,Montferrier,PRODUCTION D'ELECTRICITE DU PAYS D'OLMES,601295.0,6200120.0,0,Ouvrage fonctionnant au fil de l'eau,0.095,164224.0,,,,,Autorisée,,4.86
+9206007,FRUITIERE,EXPL,9206,Montferrier,S.A.R.L. LES FORGES DE GAYNES,600661.0,6199920.0,0,Ouvrage fonctionnant au fil de l'eau,0.075,,,,,,,,4.0
+9206008,GARROS,EXPL,9206,Montferrier,SARL HERREROS HYDROELECTRICITE,601437.0,6200270.0,0,Ouvrage fonctionnant au fil de l'eau,0.25,489920.0,,,,,,,12.7
+9206009,Chute de Manon,EXPL,9206,Montferrier,E.U.R.L. DE MANON,602355.0,6200850.0,0,Ouvrage fonctionnant au fil de l'eau,,662228.0,,,,,,,8.6
+9207001,Centrale de Tramezaygues,EXPL,9121,Ferrières-sur-Ariège,S.A. CALYPSO,587360.0,6205760.0,0,Ouvrage fonctionnant au fil de l'eau,1.5,5115347.0,,,,,,,3.6
+9213001,MINOTERIE DE MOULIN NEUF,EXPL,9213,Moulin-Neuf,S.A.R.L. CLERCY HYDRO ELECTRIC,613924.0,6219840.0,0,Ouvrage fonctionnant au fil de l'eau,0.13,,,,,,,,5.46
+9214001,Moulin de Luzenac,EXPL,9214,Moulis,SARL DE LUZENAC,543299.0,6207790.0,0,Ouvrage fonctionnant au fil de l'eau,1.532,1347891.0,,,,,Autorisée,2024-08-04,4.6
+9217001,FORGES DE NIAUX,HORS,9217,Niaux,FORGES DE NIAUX,584548.0,6192220.0,0,Ouvrage fonctionnant au fil de l'eau,0.185,,,,,,,,
+9218001,ORGEIX,EXPL,9218,Orgeix,ELECTRICITE DE FRANCE,606839.0,6179640.0,0,Ouvrage fonctionnant par éclusées,5.53,20000000.0,2.7,"0,530000",2.0,Pelton,Concédée,2021-12-31,264.0
+9219001,AUGISTROU,EXPL,9219,Orgibet,SOCIETE CIVILE IMMOBILIERE ROBIN'S,532133.0,6205840.0,0,Ouvrage fonctionnant au fil de l'eau,0.176,,,,,,,,
+9220001,ORLU,EXPL,9220,Orlu,ELECTRICITE DE FRANCE,610678.0,6177230.0,0,Ouvrage de type Lac,88.6,95205936.0,11.0,"2,200000",2.0,Pelton,Concédée,2035-12-31,972.9
+9223001,LE BOCARD,EXPL,9223,Oust,SARL LE BOCARD,555464.0,6197560.0,0,Ouvrage fonctionnant au fil de l'eau,0.12,,,,,,,,4.5
+9228001,CASTELET,EXPL,9228,Perles-et-Castelet,ELECTRICITE DE FRANCE,600714.0,6183140.0,0,Ouvrage fonctionnant au fil de l'eau,2.4,7118667.0,14.0,"0,056000",4.0,Francis,Autorisée,1994-10-16,31.0
+9235001,Moulin Aragon,EXPL,9235,Prat-Bonrepaux,MOULIN DES ILLES,539271.0,6217650.0,0,Ouvrage fonctionnant au fil de l'eau,0.392,1782852.0,20.0,,,,Autorisée,2036-02-20,2.0
+9235002,Usine De Bonrepaux,EXPL,9235,Prat-Bonrepaux,S.A.R.L. EXPL. DE L'USINE DE BONREPAUX,540014.0,6217490.0,0,Ouvrage fonctionnant au fil de l'eau,0.46,1860025.0,,,,,,,3.4
+9240001,SABART,EXPL,9240,Quié,ELECTRICITE DE FRANCE,585410.0,6193910.0,0,Ouvrage fonctionnant au fil de l'eau,29.0,129692200.0,17.0,"0,495000",2.0,Pelton,Concédée,2004-12-31,227.3
+9241001,Centrale La Farge,EXPL,9136,Gourbit,S.A.S. LA FARGE,578647.0,6194990.0,0,Ouvrage fonctionnant par éclusées,0.8,3222299.0,,,,,Concédée (autorisable),2028-12-31,105.0
+9241002,Moulin de Lour,EXPL,9241,Rabat-les-Trois-Seigneurs,BABY LASSERE SOLANGE,581580.0,6196010.0,0,Ouvrage fonctionnant au fil de l'eau,,1147018.0,,,,,,,21.0
+9241003,Centrale La Freyte,EXPL,9241,Rabat-les-Trois-Seigneurs,SEFIREG SA,580478.0,6195630.0,0,Ouvrage fonctionnant par éclusées,1.145,3900119.0,1.5,,,,Concédée (autorisable),2028-12-31,85.0
+9245001,Centrale de Las Mijanes,EXPL,9245,Rieux-de-Pelleport,SOCIETE HYDROELECTRIQUE DE LA MOYENNE ARIEGE,587505.0,6219140.0,0,Ouvrage fonctionnant au fil de l'eau,1.7,6098012.0,,,,,,,4.8
+9261001,Centrale Paletes,EXPL,9261,Saint-Girons,FORCES MOTRICES DE PALETES,549969.0,6210040.0,0,Ouvrage fonctionnant au fil de l'eau,,2887273.0,,,,,,,5.2
+9261002,Centrale de Ledar,EXPL,9261,Saint-Girons,PYRENEES HYDRO,547359.0,6210660.0,0,Ouvrage fonctionnant par éclusées,3.0,13909903.0,,,,,Concédée (autorisable),,36.85
+9261003,Centrale Martinet,EXPL,9261,Saint-Girons,SARL LA CENTRALE DU MARTINET,547692.0,6211140.0,0,Ouvrage fonctionnant au fil de l'eau,0.24,930787.0,,,,,,,3.0
+9261004,Centrale L'Arial (aval),EXPL,9261,Saint-Girons,FORCES HYDROELECTRIQUES DE L'ARIAL,548820.0,6210500.0,0,Ouvrage fonctionnant au fil de l'eau,0.283,,17.0,,,,,,1.7
+9261005,Centrale de l'Arial amont,EXPL,9261,Saint-Girons,4EME MITAN,548850.0,6210370.0,0,Ouvrage fonctionnant au fil de l'eau,0.169,,10.0,,,,Autorisée,,1.72
+9264001,Centrale de la Societe du Vieux Moulin,EXPL,9264,Saint-Jean-de-Verges,SOCIETE DU VIEUX MOULIN,586553.0,6213590.0,0,Ouvrage fonctionnant au fil de l'eau,0.441,2942225.0,,,,,Autorisée,2013-12-24,4.2
+9267001,BUSCARECH,EXPL,9267,Saint-Lary,ESTAQUE Gilberte,527755.0,6205380.0,0,Ouvrage fonctionnant au fil de l'eau,0.098,361264.0,,,,,,,
+9268001,Centrale de Tondut,EXPL,9268,Saint-Lizier,COMPAGNIE PYRENEENNE HYDROELECTRIQUE,547858.56,6212957.5,0,Ouvrage fonctionnant au fil de l'eau,0.63,3026831.0,25.8,,,,Autorisée et fondée en titre,,4.05
+9268002,Usine du Pont du Baup,EXPL,9268,Saint-Lizier,SARL FAGELEC,548372.0,6211940.0,0,Ouvrage fonctionnant au fil de l'eau,0.12,508739.0,,,,,,,1.0
+9268003,Centrale Amont de Saint-Lizier,EXPL,9268,Saint-Lizier,COMPAGNIE PYRENEENNE HYDROELECTRIQUE,547937.0,6212693.0,0,Ouvrage fonctionnant au fil de l'eau,1.04,,28.0,,,,Autorisée,2038-10-13,3.8
+9282001,Centrales regie municipale Saverdun,EXPL,9282,Saverdun,REGIE MUNICIPALE D'ELECTRICITE,584288.0,6238440.0,0,Ouvrage fonctionnant au fil de l'eau,,3116953.0,,,,,,,3.0
+9282002,Usine du moulin,EXPL,9282,Saverdun,REGIE MUNICIPALE D'ELECTRICITE,584317.0,6238520.0,0,Ouvrage fonctionnant au fil de l'eau,,775712.0,,,,,,,2.8
+9285001,Centrale de L'Arros,EXPL,9285,Seix,SOCIETE HYDRO ELECTRIQUE DE L'ARROS,548702.0,6193710.0,0,Ouvrage fonctionnant au fil de l'eau,0.5,1905228.0,,,,,,,200.0
+9285002,Centrale d'Estours,EXPL,9285,Seix,JACQUES TARRENE INVESTISSEMENTS,548916.0,6193740.0,0,Ouvrage fonctionnant au fil de l'eau,,9262310.0,,,,,,,107.6
+9285003,Moulin Lauga,EXPL,9285,Seix,S.A.R.L. VEREL,551723.0,6195420.0,0,Ouvrage fonctionnant au fil de l'eau,,634281.0,,,,,,,9.0
+9289001,Centrale de Pourlande,EXPL,9268,Saint-Lizier,SNC DUMONT INVESTISSEMENT,547535.0,6213440.0,0,Ouvrage fonctionnant au fil de l'eau,,1109938.0,,,,,,,3.8
+9289002,Centrale de Lorp,EXPL,9289,Lorp-Sentaraille,SNC DUMONT INVESTISSEMENT,547070.0,6214190.0,0,Ouvrage fonctionnant au fil de l'eau,,974400.0,,,,,,,4.0
+9290001,BOCARD,EXPL,9290,Sentein,ELECTRICITE DE FRANCE,531240.0,6195790.0,0,Ouvrage fonctionnant au fil de l'eau,0.3,1553667.0,0.5,"0,270000",1.0,,Autorisée,1994-10-16,129.4
+9290002,EYLIE,EXPL,9290,Sentein,ELECTRICITE DE FRANCE,531287.0,6194940.0,0,Ouvrage de type Lac,37.3,30410668.0,3.6,"2,220000",3.0,Pelton,Concédée,2010-12-31,1045.5
+9295001,Centrale de Sabaneich,EXPL,9295,Siguer,CC DE LA HAUTE ARIEGE REGIE SABANEICH EXPLOITATION CENTRALE,582590.0,6184720.0,0,Ouvrage fonctionnant au fil de l'eau,1.65,4050634.0,0.4,,,,Autorisée,2026-01-18,410.0
+9296001,Centrale de Sinsat,EXPL,9296,Aulos-Sinsat,SOC AMENA FORCE HYDRO CONFL ARIEGE AST,590434.0,6189890.0,0,Ouvrage fonctionnant au fil de l'eau,1.15,5253275.0,,,,,Concédée,2028-12-31,11.0
+9299001,Centrale La Claire,EXPL,9299,Soueix-Rogalle,S.A.S. C.H LA CLAIRE,554031.0,6201100.0,0,Ouvrage fonctionnant au fil de l'eau,,1524068.0,,,,,,,4.58
+9302001,Moulin de Matche,EXPL,9334,Val-de-Sos,SNC MATCHE,575725.0,6187560.0,0,Ouvrage fonctionnant au fil de l'eau,0.8,2111539.0,,,,,,,57.0
+9303001,PISCICULTURE DES CASCADES,OCCA,9306,Tarascon-sur-Ariège,PISCICULTURE DE LA COURBIERE,584035.0,6196120.0,0,,,,,,,,,,
+9306001,Centrale de Lacombe,EXPL,9306,Tarascon-sur-Ariège,SOC. EXPLOITATION DU BARRAGE DE LACOMBE,583822.0,6196230.0,0,Ouvrage fonctionnant au fil de l'eau,0.2,942984.0,,,,,,,20.5
+9306002,Centrale du Saut du Teil,EXPL,9306,Tarascon-sur-Ariège,REGIE MUNICIPALE D'ELECTRICITE DE TARASCON SUR ARIEGE,585186.0,6193810.0,0,Ouvrage fonctionnant au fil de l'eau,0.7,3305731.0,,,,,,,30.0
+9306003,Centrale St Quitterie,EXPL,9306,Tarascon-sur-Ariège,REGIE MUNICIPALE D'ELECTRICITE DE TARASCON SUR ARIEGE,585755.0,6194260.0,0,Ouvrage fonctionnant au fil de l'eau,,2244327.0,,,,,,,9.0
+9307001,Centrale de Roquelaure,EXPL,9307,Taurignan-Castet,S.A.R.L. CENTRALE HYDROELECTRIQUE DE ROQUELAURE,544967.0,6217160.0,0,Ouvrage fonctionnant au fil de l'eau,,2139962.0,,,,,,,2.7
+9320001,Centrale D'Urs,EXPL,9320,Urs,ENERGIE ELECTRIQUE DE PALOUMA,596110.0,6186840.0,0,Ouvrage fonctionnant au fil de l'eau,0.58,731538.0,11.5,,,,Autorisée,2024-08-04,5.19
+9322001,SAINT-LIZIER D'USTOU,EXPL,9322,Ustou,SOCIETE ELECTRIQUE DE SERAC,558248.0,6190240.0,0,Ouvrage fonctionnant au fil de l'eau,0.486,1388176.0,,,,,,,3.0
+9324001,Centrale de Las Rives,EXPL,9324,Varilhes,SOCIETE HYDROELECTRIQUE DE LA MOYENNE ARIEGE,587266.0,6216340.0,0,Ouvrage fonctionnant au fil de l'eau,2.4,8597706.0,,,,,,2025-10-27,6.1
+9334001,Centrale Le Goulier,EXPL,9334,Val-de-Sos,COMMUNE DE VAL-DE-SOS REGIE MUNICIPALE ELECTRICITE,576617.0,6186380.0,0,Ouvrage fonctionnant au fil de l'eau,0.8,2087301.0,15.0,,2.0,Pelton,Concédée (autorisable),2004-12-31,290.0
+11033001,Centrale du Bosquet,EXPL,11033,Belpech,MOULIN DU BOSQUET,597173.0,6234100.0,0,Ouvrage fonctionnant au fil de l'eau,,1207189.0,,,,,,,4.0
+12006001,ALRANCE,EXPL,12006,Alrance,ELECTRICITE DE FRANCE,675209.0,6335980.0,0,Ouvrage de type Lac,19.02,15000200.0,24.3,"0,138000",1.0,Francis,Concédée,2027-12-31,79.8
+12024001,Moulin de Paraire,EXPL,12024,Belcastel,CAYLA CLAUDE,646411.0,6365330.0,0,Ouvrage fonctionnant au fil de l'eau,0.15,292732.0,,,,,,,2.4
+12027001,Centrale Coudoustrine,EXPL,12027,Bessuéjouls,MINOTERIE DE COUDOUSTRINES,678739.0,6381310.0,0,Ouvrage fonctionnant au fil de l'eau,0.15,843327.0,6.0,,,,,,2.3
+12028001,Centrale de Penchot,EXPL,12130,Livinhac-le-Haut,MICRO CENTRALE DE PENCHOT,636671.0,6388000.0,0,Ouvrage fonctionnant au fil de l'eau,3.826,7591581.0,120.0,,,,Autorisée,,3.15
+12029001,Moulin de la Vicasse,EXPL,12029,Bor-et-Bar,SICAE DU CARMAUSIN,626660.0,6343020.0,0,Ouvrage fonctionnant au fil de l'eau,0.444,1018804.0,,,,,,,3.0
+12035001,LA CROUX,EXPL,12035,Brasc,ELECTRICITE DE FRANCE,662320.0,6320250.0,0,Ouvrage fonctionnant par éclusées,16.6,43717400.0,160.0,"0,032000",3.0,Kaplan horizont. & bulbe à pâles mobiles,Concédée,2059-12-31,13.8
+12036001,SARRANS,EXPL,12036,Brommat,ELECTRICITE DE FRANCE,679453.0,6414430.0,0,Ouvrage de type Lac,183.0,219321136.0,240.0,"0,208000",5.0,Francis,Concédée,2009-12-31,89.0
+12036002,BROMMAT,EXPL,12036,Brommat,ELECTRICITE DE FRANCE,674923.0,6407690.0,0,Ouvrage de type Lac,416.1,749111424.0,200.0,"0,540000",8.0,Francis,Concédée,2009-12-31,268.5
+12036003,Microcentrale du Rat,EXPL,12036,Brommat,SARL DU MOULIN DU RAT,675153.0,6413460.0,0,Ouvrage fonctionnant au fil de l'eau,0.275,146122.0,,,,,,,4.0
+12037001,LA JOURDANIE,EXPL,12037,Broquiès,ELECTRICITE DE FRANCE,676995.0,6324360.0,0,Ouvrage fonctionnant par éclusées,16.2,41084068.0,158.0,"0,024000",4.0,Kaplan,Concédée,2005-12-31,15.8
+12038001,Moulin du Tarn,EXPL,12038,Brousse-le-Château,SARL DU MOULIN DU TARN,669952.0,6321910.0,0,Ouvrage fonctionnant au fil de l'eau,3.575,9093408.0,46.0,,,,Autorisée,,3.5
+12039001,Moulin Brusque,EXPL,12039,Brusque,SOCIETE A ET A,695965.0,6296480.0,0,Ouvrage fonctionnant au fil de l'eau,0.079,,,,,,,,
+12039002,"Moulin de Cros, ou de la Beaume",EXPL,12039,Brusque,A ET A,696050.0,6296030.0,0,Ouvrage fonctionnant au fil de l'eau,0.118,136843.0,,,,,,,
+12042001,Moulin de Soulayrol,EXPL,12042,Calmels-et-le-Viala,SARL SOLEYROL,680313.0,6316710.0,0,Ouvrage fonctionnant au fil de l'eau,0.495,1114817.0,,,,,,,3.5
+12044001,Moulin de Camarès,EXPL,12044,Camarès,HYDRO CAMARES,690351.0,6302360.0,0,Ouvrage fonctionnant au fil de l'eau,0.148,437592.0,,,,,,,5.4
+12048001,LARDIT,EXPL,12048,Campouriez,ELECTRICITE DE FRANCE,666956.0,6396000.0,0,Ouvrage de type Lac,51.21,93450200.0,15.0,"0,757000",3.0,Francis,Concédée,2021-12-31,352.0
+12052001,Centrale Arelles,EXPL,12052,Capdenac-Gare,ARELLES HYDRO ET COMPAGNIE,623443.0,6385290.0,0,Ouvrage fonctionnant au fil de l'eau,1.3,3560147.0,,,,,,,2.3
+12061001,CASTELNAU-LASSOUTS,EXPL,12061,Castelnau-de-Mandailles,ELECTRICITE DE FRANCE,689984.0,6378480.0,0,Ouvrage fonctionnant par éclusées,41.1,66921716.0,97.0,"0,120000",4.0,Francis,Concédée,2023-12-31,49.9
+12064001,Usine de Notre Dame de Bonneval,EXPL,12064,Le Cayrol,SOCIETE DE LA BONNE VALLEE,683902.0,6384920.0,0,Ouvrage fonctionnant au fil de l'eau,0.329,,2.4,,,,Autorisée,2034-08-31,13.0
+12071001,Compolibat (Moulin de Roquenoubal),EXPL,12071,Compolibat,FORCES MOTRICES DE FAREBOUT,636315.0,6364430.0,0,Ouvrage fonctionnant au fil de l'eau,0.393,634232.0,15.0,,,,,,2.8
+12090001,Microcentrale Le Rival,EXPL,12090,Druelle Balsac,CAYLA ELECTRICITE,660898.0,6360270.0,0,Ouvrage fonctionnant au fil de l'eau,0.148,401209.0,,,,,,,2.6
+12094001,CAMBEYRAC,EXPL,12094,Entraygues-sur-Truyère,ELECTRICITE DE FRANCE,666182.0,6395140.0,0,Ouvrage fonctionnant par éclusées,19.8,25106044.0,220.0,"0,024000",3.0,Hélice horizontale,Concédée,2032-12-31,10.9
+12094002,Moulin d'Olt (Entraygues sur Truyere),EXPL,12094,Entraygues-sur-Truyère,ENERGIE VERTE D'ENTRAYGUES,666083.0,6393150.0,0,Ouvrage fonctionnant au fil de l'eau,,3060839.0,,,,,,,2.45
+12094003,Moulin d'Entraygues sur Truyère,EXPL,12094,Entraygues-sur-Truyère,SARL SMET,665414.0,6394150.0,0,Ouvrage fonctionnant au fil de l'eau,0.8,1031681.0,,,,,,,3.0
+12097001,Centrale de La Daze,EXPL,12097,Espeyrac,SOCIETE D'EXPLOITATION DES CHUTES DE LA DASE,659426.0,6393330.0,0,Ouvrage fonctionnant au fil de l'eau,1.2,3275767.0,,,,,Concédée (autorisable),,98.0
+12110001,GOLINHAC,EXPL,12110,Golinhac,ELECTRICITE DE FRANCE,668665.0,6389690.0,0,Ouvrage fonctionnant par éclusées,45.3,109837336.0,82.0,"0,154000",3.0,Francis,Concédée,2035-12-31,71.2
+12114001,Moulin d'Olt,EXPL,12076,Conques-en-Rouergue,LE MOULIN D'OLT,647148.0,6393350.0,0,Ouvrage fonctionnant au fil de l'eau,3.92,10100251.0,68.0,,,,,,4.7
+12128001,LESCURE JAOUL,EXPL,12128,Lescure-Jaoul,SOC HYDRAULIQUE ETUDES MISSIONS ASSIST,632300.0,6348250.0,0,Ouvrage fonctionnant au fil de l'eau,0.6,1322271.0,0.8,,2.0,Hélice verticale,Autorisée,2016-12-31,86.5
+12128002,St AMANS de CADOULE,EXPL,12128,Lescure-Jaoul,SOC HYDRAULIQUE ETUDES MISSIONS ASSIST,633016.0,6346660.0,0,Ouvrage fonctionnant au fil de l'eau,0.6,1038139.0,1.1,,2.0,Hélice verticale,Autorisée,2016-12-31,65.8
+12129001,Centrale du Blancard,EXPL,12129,Lestrade-et-Thouels,SARL SOLEYROL,674660.0,6328240.0,0,Ouvrage fonctionnant au fil de l'eau,0.18,531769.0,,,,,,,40.0
+12130001,MARCENAC 1,EXPL,12130,Livinhac-le-Haut,SOCIETE HYDRO ELECTRIQUE DU MIDI,639827.0,6389070.0,0,Ouvrage fonctionnant au fil de l'eau,2.2,6154904.0,,,1.0,Kaplan,Autorisée,2027-10-27,5.37
+12130002,MARCENAC 2,EXPL,12130,Livinhac-le-Haut,SOCIETE HYDRO ELECTRIQUE DU MIDI,639838.0,6389110.0,0,Ouvrage fonctionnant au fil de l'eau,4.4,9996393.0,85.0,,2.0,Kaplan,Autorisée,2027-10-27,5.37
+12130003,Centrale de la Roque Bouillac,EXPL,12130,Livinhac-le-Haut,S.A.R.L. JEAN TORRECILLAS,636297.0,6387140.0,0,Ouvrage fonctionnant au fil de l'eau,1.4,3572890.0,,,,,Concédée (autorisable),,2.3
+12136001,Centrale de Ramouillet,EXPL,12136,Maleville,PRODELEC,628477.0,6362790.0,0,Ouvrage fonctionnant au fil de l'eau,,985346.0,,,,,,,3.5
+12145001,TROUSSY,EXPL,12145,Millau,FORCES MOTRICES DE FAREBOUT,706776.0,6335050.0,0,Ouvrage fonctionnant au fil de l'eau,0.487,2073186.0,,,,,,,2.48
+12145002,Centrale de la Glacière,EXPL,12145,Millau,LA GUINGUETTE,705831.0,6332470.0,0,Ouvrage fonctionnant au fil de l'eau,0.34,,,,,VLH (Very Low Head Turbine),Autorisée,,1.86
+12150001,Microcentrale de Monteils - Le Moulin,EXPL,12150,Monteils,PHALIP RENEE,620297.0,6352530.0,0,Ouvrage fonctionnant au fil de l'eau,0.1,180333.0,,,,,,,2.25
+12151001,MONTEZIC,EXPL,12151,Montézic,ELECTRICITE DE FRANCE,671783.0,6403390.0,0,Ouvrage de type Lac,966.5,1619744640.0,273.0,"0,960000",4.0,Francis,Concédée,2025-12-31,423.0
+12154001,Moulin Neuf,EXPL,12154,Montlaur,FOURNIER CLARENS,685152.0,6310300.0,0,Ouvrage fonctionnant au fil de l'eau,0.21,160134.0,6.2,,1.0,,,,3.5
+12154002,Centrale de Calcadis,EXPL,12154,Montlaur,CALCADIS,687030.0,6307360.0,0,Ouvrage fonctionnant au fil de l'eau,,525121.0,,,,,,,4.0
+12154003,Mas d'Azais et Boriette,HORS,12154,Montlaur,SOC. ALEXANDRE RACHOU ET CIE,686623.0,6307380.0,5,,,,,,,,,,
+12155001,Moulin de Fondamente,EXPL,12155,Fondamente,AUSTRUY BERTRAND,710089.0,6308390.0,0,Ouvrage fonctionnant au fil de l'eau,0.145,273504.0,,,,,,,
+12156001,TOULUCH,EXPL,12156,Montpeyroux,SOCIETE HYDRO ELECTRIQUE DU MIDI,676916.0,6395470.0,0,Ouvrage fonctionnant par éclusées,9.7,27367286.0,5.5,,1.0,Pelton,Concédée,2038-12-31,235.0
+12157001,Moulin de Bergadus,HORS,12157,Montrozier,S.A.R.L. CENTRALE DES TRONQUETTES,675460.44,6365333.0,0,Ouvrage fonctionnant au fil de l'eau,0.073,,,,,,,,
+12167001,Centrale de Cantagrel,EXPL,12167,Najac,SOCIETE FRANCAISE DES CHUTES ET BARRAGES,617361.0,6346500.0,0,Ouvrage fonctionnant au fil de l'eau,,1263966.0,,,,,,,3.2
+12168001,Centrale de Cantobre,EXPL,12168,Nant,LE MOULIN DE CANTOBRE,724107.0,6328950.0,0,Ouvrage fonctionnant au fil de l'eau,,740611.0,,,,,,,6.0
+12168002,Moulin de La Mouline,HORS,12168,Nant,RANDON BERNARD,724520.4,6324074.5,0,Ouvrage fonctionnant au fil de l'eau,0.118,274439.0,,,,,,,
+12190001,Moulin Haut,EXPL,12190,Prévinquières,C.H. PREVINQUIERES,639089.0,6364400.0,0,Ouvrage fonctionnant au fil de l'eau,0.518,854768.0,16.0,,,,,,3.2
+12199001,Centrale de Fans,EXPL,12199,Rignac,SOCIETE FRANCAISE DES CHUTES ET BARRAGES,643894.0,6364910.0,0,Ouvrage fonctionnant au fil de l'eau,,541172.0,,,,,,,3.8
+12199002,Moulin de Solignac,EXPL,12199,Rignac,S.A.R.L. DU MOULIN DE SOLIGNAC,641749.0,6364170.0,0,Ouvrage fonctionnant au fil de l'eau,,995054.0,,,,,,,3.1
+12208001,Microcentrale La Rivière,EXPL,12208,Saint-Affrique,SUAU PIERRE,690017.0,6317880.0,0,Ouvrage fonctionnant au fil de l'eau,0.087,213979.0,,,,,Autorisée et fondée en titre,,3.0
+12209001,Centrale de Nonglangues,EXPL,12209,Saint-Amans-des-Cots,CENTRALE DE LARANAL,676120.0,6397950.0,0,Ouvrage fonctionnant au fil de l'eau,,3277288.0,,,,,,,66.5
+12218001,Moulin de Sanhes,HORS,12076,Conques-en-Rouergue,VIGUIE BERNARD,653023.0,6384860.0,0,Ouvrage fonctionnant au fil de l'eau,0.09,,,,,,,,
+12223001,BOUSQUET,EXPL,12223,Argences en Aubrac,ELECTRICITE DE FRANCE,679598.0,6413910.0,0,Ouvrage fonctionnant au fil de l'eau,1.9,4795108.0,2.4,"0,230000",1.0,Francis,Concédée,2009-12-31,104.9
+12224001,Usine Saint Pierre,EXPL,12224,Saint Geniez d'Olt et d'Aubrac,S.A.R.L. SAINT PIERRE,699055.0,6374750.0,0,Ouvrage fonctionnant au fil de l'eau,,1116545.0,,,,,,,4.08
+12224002,Usine du MOULIN,EXPL,12224,Saint Geniez d'Olt et d'Aubrac,MAZENQ JEAN-PAUL,697774.0,6374210.0,0,Ouvrage fonctionnant au fil de l'eau,,795911.0,15.0,,,,,,2.8
+12226001,COUESQUE,EXPL,12226,Saint-Hippolyte,ELECTRICITE DE FRANCE,666938.0,6399670.0,0,Ouvrage fonctionnant par éclusées,124.5,187148736.0,255.0,"0,120000",4.0,Francis,Concédée,2025-12-31,57.1
+12228001,Microcentrale de Saint-Izaire,EXPL,12228,Saint-Izaire,NIA ELEC,677472.0,6319460.0,0,Ouvrage fonctionnant au fil de l'eau,0.118,465878.0,,,,,,,
+12235001,Microcentrale de Roumégat,EXPL,12235,Saint-Just-sur-Viaur,SAS DE ROUMEGAT,653719.0,6334490.0,0,Ouvrage fonctionnant au fil de l'eau,0.188,196792.0,,,,,,,5.0
+12237001,Centrale Sudres et Vidal,EXPL,12237,Saint-Laurent-d'Olt,SOCIETE ELECTRIQUE SUDRES VIDAL,708732.0,6372330.0,0,Ouvrage fonctionnant au fil de l'eau,0.337,835714.0,11.0,,,,,,3.35
+12250001,Centrale Ruisseau des Ondes,EXPL,12250,Saint-Symphorien-de-Thénières,SOC. D'AMENAGEMENT ET D'EXPL. DE LA CHUTE DU RU DES ONDES,674916.0,6406760.0,0,Ouvrage fonctionnant par éclusées,3.7,15163614.0,,,,,Concédée,,358.0
+12251001,PINET,EXPL,12251,Saint-Victor-et-Melvieu,ELECTRICITE DE FRANCE,684374.0,6330120.0,0,Ouvrage fonctionnant par éclusées,36.5,87298536.0,155.0,"0,065000",5.0,Francis,Concédée,2005-12-31,35.2
+12254001,Centrale vallee de Salles la Source,EXPL,12254,Salles-la-Source,SOCIETE HYDRO-ELECTRIQUE DE LA VALLEE DE SALLES LA SOURCE,660981.0,6370930.0,0,Ouvrage fonctionnant au fil de l'eau,1.3,2865190.0,,,,,Autorisée,2005-12-31,134.0
+12255001,Moulin de la Place,EXPL,12255,Salmiech,JEAN H.E.,665664.0,6342450.0,0,Ouvrage fonctionnant au fil de l'eau,0.109,,,,,,,,6.0
+12265001,Barrage de Verrières,EXPL,12265,Sébrazac,S.A.R.L. COUAILHAC ENERGIE,675686.0,6382720.0,0,Ouvrage fonctionnant au fil de l'eau,1.246,,,,,,,,4.0
+12284001,LE TRUEL,EXPL,12284,Le Truel,ELECTRICITE DE FRANCE,681452.0,6329050.0,0,Ouvrage fonctionnant par éclusées,23.0,47005668.0,160.0,"0,038000",2.0,Kaplan,Concédée,2033-12-31,19.1
+12284002,LE POUGET,EXPL,12284,Le Truel,ELECTRICITE DE FRANCE,681456.0,6328910.0,0,Ouvrage de type Lac,446.0,299288992.0,94.4,"0,942000",5.0,Pelton,Concédée,2027-12-31,461.0
+12292001,CINZELLE,EXPL,12292,Versols-et-Lapeyre,TSM,696255.0,6309980.0,0,Ouvrage fonctionnant au fil de l'eau,0.3,388781.0,4.0,,1.0,Kaplan,Autorisée,1994-10-16,9.6
+12292002,Usine de Lapeyre,EXPL,12292,Versols-et-Lapeyre,SORGUES ENERGIE,692877.0,6311160.0,0,Ouvrage fonctionnant au fil de l'eau,,433550.0,,,,,,,6.8
+12300001,Moulin de Cremon,EXPL,12300,Villefranche-de-Rouergue,S.A.R.L. MOULIN DE CREMON,624629.0,6361450.0,0,Ouvrage fonctionnant au fil de l'eau,0.24,493260.0,,,,,,,3.4
+12300002,Moulin des Sept Meules,EXPL,12300,Villefranche-de-Rouergue,PRODELEC,623978.0,6361520.0,0,Ouvrage fonctionnant au fil de l'eau,0.22,706428.0,,,,,,,2.4
+12300003,Moulin des Villiers,EXPL,12300,Villefranche-de-Rouergue,S.A.R.L. LA FERRIERE,624934.0,6361680.0,0,Ouvrage fonctionnant au fil de l'eau,,1241858.0,,,,,,,4.0
+12300004,Centrale La Roucade,EXPL,12136,Maleville,SAS LA ROUCADE,628886.0,6362760.0,0,Ouvrage fonctionnant au fil de l'eau,,722518.0,,,,,,,2.5
+12300005,Microcentrale des Chartreux,EXPL,12300,Villefranche-de-Rouergue,S.A.R.L. LES CHARTREUX,622579.0,6360980.0,0,Ouvrage fonctionnant au fil de l'eau,0.066,157166.0,,,,,,,1.8
+12300006,Microcentrale La Gasse (ou Lagasse),EXPL,12300,Villefranche-de-Rouergue,CENTRALE DE LAGASSE,624620.0,6361070.0,0,Ouvrage fonctionnant au fil de l'eau,0.133,447283.0,,,,,,,1.5
+12300007,Microcentrale Teulel,EXPL,12300,Villefranche-de-Rouergue,MOULIN DU TEULEL,625756.0,6361820.0,0,Ouvrage fonctionnant au fil de l'eau,0.085,93741.0,,,,,,,1.75
+15015001,Centrale du Pont de Flore,EXPL,15015,Auzers,SOCIETE HYDROELECTRIQUE DU PONT DE FLORE,656834.0,6462550.0,0,Ouvrage fonctionnant au fil de l'eau,,1224043.0,,,,,,,50.0
+15019001,Centrale d'Emprades,EXPL,15019,Bassignac,CALVET ENERGIE,653562.0,6467050.0,0,Ouvrage fonctionnant au fil de l'eau,,2321263.0,,,,,,,87.3
+15026001,Centrale Sahbevi,EXPL,15026,Brezons,SOCIETE D'AMENAGEMENT HYDRAULIQUE DE BELLE VISITE,684420.0,6433790.0,0,Ouvrage fonctionnant au fil de l'eau,0.8,1700084.0,,,,,,,436.0
+15038001,AUZERETTE,EXPL,15038,Champs-sur-Tarentaine-Marchal,ELECTRICITE DE FRANCE,672273.0,6474040.0,0,Ouvrage de type Lac,29.8,89168880.0,12.6,"0,655000",1.0,Francis,Concédée,2012-12-31,285.0
+15038002,Centrale du moulin de Marchassou,EXPL,15038,Champs-sur-Tarentaine-Marchal,SARL CENTRALE DE MARCHASSOU,665121.0,6477350.0,0,Ouvrage fonctionnant au fil de l'eau,0.313,,4.5,,,,Autorisée,,7.09
+15045001,LANAU,EXPL,15045,Chaudes-Aigues,ELECTRICITE DE FRANCE,700244.0,6421340.0,0,Ouvrage fonctionnant par éclusées,20.5,40353868.0,113.0,"0,052000",1.0,Kaplan,Concédée,2038-12-31,25.3
+15054001,Microcentrale de Sautevedelle,EXPL,15054,Condat,COMMUNE DE CONDAT,682238.0,6471760.0,0,Ouvrage fonctionnant au fil de l'eau,,3762550.0,,,,,,,26.0
+15054002,Sautevedelle - Débit réservé,EXPL,15054,Condat,COMMUNE DE CONDAT,682325.0,6471993.0,0,Ouvrage fonctionnant au fil de l'eau,0.164,,0.9,,1.0,,Autorisée,2027-02-22,18.6
+15073001,GRANDVAL,EXPL,15073,Fridefont,ELECTRICITE DE FRANCE,705844.0,6424780.0,0,Ouvrage de type Lac,74.1,107072264.0,129.4,"0,153000",2.0,Francis,Concédée,2034-12-31,68.6
+15092001,LA RHUE,EXPL,15092,Lanobre,ELECTRICITE DE FRANCE,660831.0,6479620.0,0,Ouvrage fonctionnant par éclusées,10.7,17534600.0,40.0,"0,070000",1.0,Kaplan,Concédée,2012-12-31,41.3
+15092002,Centrale de la Tialle,EXPL,15092,Lanobre,FORCES HYDRAULIQUES DE LA TIALLE,664073.0,6483540.0,0,Ouvrage fonctionnant au fil de l'eau,,2398229.0,,,,,,,51.0
+15094001,NEPES,EXPL,15094,Laroquebrou,ELECTRICITE DE FRANCE,637225.0,6429190.0,0,Ouvrage fonctionnant par éclusées,2.8,4135502.0,27.5,"0,024000",1.0,Kaplan horizont. & bulbe à pâles mobiles,Concédée,2022-12-31,11.9
+15104001,Centrale le Val de Rance,EXPL,15104,Leynhac,SOC. HYDRO-ELECTRIQUE DU VAL DE RANCE,640457.0,6405710.0,0,Ouvrage fonctionnant au fil de l'eau,,1698470.0,,,,,,,38.0
+15122001,Centrale de Roquetaniere,EXPL,15122,Maurs,GASTON JEAN-LOUIS ET YVETTE,631270.0,6400810.0,0,Ouvrage fonctionnant au fil de l'eau,,3276179.0,,,,,,,45.0
+15153001,ENCHANET,EXPL,15153,Pleaux,ELECTRICITE DE FRANCE,636576.0,6442860.0,0,Ouvrage de type Lac,31.6,51403200.0,66.8,"0,128000",1.0,Francis,Concédée,2025-12-31,55.3
+15165001,Centrale de La Pachevie,EXPL,15165,Rouffiac,S.A.R.L. GLM,628811.0,6440020.0,0,Ouvrage fonctionnant au fil de l'eau,,1840763.0,,,,,,,90.0
+15170001,COINDRE,EXPL,15170,Saint-Amandin,SOCIETE HYDRO ELECTRIQUE DU MIDI,673888.0,6472770.0,0,Ouvrage fonctionnant par éclusées,25.0,102249504.0,28.7,"0,260000",3.0,Francis,Concédée,2012-12-31,125.5
+15182001,St ETIENNE CANTALES,EXPL,15182,Saint-Étienne-Cantalès,ELECTRICITE DE FRANCE,638399.0,6427680.0,0,Ouvrage de type Lac,106.5,73392344.0,213.0,"0,146000",3.0,Francis,Concédée,2022-12-31,63.0
+15194001,Centrale de St Julien de Toursac,EXPL,15194,Saint-Julien-de-Toursac,HYDRAU 15,638194.0,6407970.0,0,Ouvrage fonctionnant au fil de l'eau,,1156030.0,,,,,,,156.0
+15196001,La Palisse,EXPL,15196,Saint-Mamet-la-Salvetat,SOC HYDRAULIQUE ETUDES MISSIONS ASSIST,645704.0,6422530.0,0,Ouvrage fonctionnant au fil de l'eau,3.16,12400000.0,,,,,,,29.0
+15205001,Centrale Hydroforce,EXPL,15205,Saint-Paul-de-Salers,HYDROFORCE SA,664689.0,6450270.0,0,Ouvrage fonctionnant au fil de l'eau,0.5,1410207.0,,,,,,,66.65
+31017002,Usine d'Arlos,EXPL,31017,Arlos,BOURGEOIS,512236.0,6202550.0,0,Ouvrage fonctionnant au fil de l'eau,0.055,200000.0,1.4,,,,Fondée en titre,,4.0
+15206001,St PIERRE MAREGES,EXPL,15206,Saint-Pierre,SOCIETE HYDRO ELECTRIQUE DU MIDI,650382.0,6476990.0,0,Ouvrage fonctionnant par éclusées,120.2,158815312.0,202.0,"0,172000",1.0,Francis,Concédée,2062-12-31,73.9
+15220001,Centrale du Monzola,EXPL,15220,Salins,S.A.R.L. HYDRO ELECTRIQUE DE MONZOLA,652185.0,6454450.0,0,Ouvrage fonctionnant au fil de l'eau,0.45,1521453.0,,,,,,,96.7
+15223001,Centrale de Broussolles Mardaret,EXPL,15223,Sauvat,C.H.E.B.M. CENT.HYDRO. BROUSSOLLES MARDARET,653777.0,6466480.0,0,Ouvrage fonctionnant au fil de l'eau,,2792350.0,,,,,,,150.0
+15226001,CASTEL D'AUZE,EXPL,15226,Sénezergues,S.A.R.L. CASTEL D'AUZE,654521.0,6400170.0,0,Ouvrage fonctionnant au fil de l'eau,,661022.0,,,,,,,96.8
+15249001,Centrale du Vaulmier,EXPL,15249,Le Vaulmier,LE VAULMIER ENERGIE,665595.0,6454300.0,0,Ouvrage fonctionnant au fil de l'eau,,2632744.0,,,,,,,42.0
+16034001,Moulin de Parcoul,EXPL,16034,Bazac,SOCIETE HYDROELECTRIQUE DU MOULIN DE PARCOUL,467293.0,6460980.0,0,Ouvrage fonctionnant au fil de l'eau,,719562.0,,,,,,,2.2
+16034002,Moulin de Chamberlane,EXPL,16034,Bazac,SARL MOULIN DE CHAMBERLANNE,468384.0,6462640.0,0,Ouvrage fonctionnant au fil de l'eau,0.392,296690.0,,,,,,,1.8
+16049001,Barrage de Nadelin,EXPL,16049,Bonnes,SOCIETE HYDRO-ELECTRIQUE DE NADELIN,477184.0,6465460.0,0,Ouvrage fonctionnant au fil de l'eau,,430828.0,,,,,,,1.8
+16081001,Microcentrale de La Chapelle,EXPL,16081,La Chapelle,SARL SPEE,470034.0,6531080.0,0,Ouvrage fonctionnant au fil de l'eau,0.485,174130.0,22.0,,,,Autorisée et fondée en titre,2040-06-11,2.25
+16090001,Centrale de Chateauneuf,EXPL,16090,Châteauneuf-sur-Charente,S.A.R.L. F.X.D.,462542.0,6504630.0,0,Ouvrage fonctionnant au fil de l'eau,0.32,1164976.0,,,,,,,1.7
+16090002,Centrale de Ile Mattard,HORS,16090,Châteauneuf-sur-Charente,GOBAUD MICHEL,462638.0,6504550.0,0,,,,,,,,,,
+16180001,Barrage de Moulin Neuf (1),EXPL,16180,Laprade,HYDRO TANTALE,479705.0,6466550.0,0,Ouvrage fonctionnant au fil de l'eau,0.516,959040.0,29.0,,,,,,1.92
+16206001,Microcentrale de Mansle,EXPL,16206,Mansle,USINE DE MANSLE,481381.0,6534710.0,0,Ouvrage fonctionnant au fil de l'eau,0.17,413823.0,,,,,,,1.3
+16254001,Moulin de la Palurie,EXPL,16254,Palluaud,ANDREU MICHELLE,485502.0,6474560.0,0,Ouvrage fonctionnant au fil de l'eau,0.1,114690.0,,,1.0,Kaplan,Fondée en titre,,3.6
+16350001,Centrale de l'Epine,EXPL,16350,Saint-Séverin,SOC FORESTIERE ET HYDRAULIQUE DE L'EPINE,485896.0,6472230.0,0,Ouvrage fonctionnant au fil de l'eau,0.14,,,,,,,,3.3
+16370001,Centrale de Sireuil,EXPL,16370,Sireuil,MELLY GERARD ANDRE,467476.0,6505390.0,0,Ouvrage fonctionnant au fil de l'eau,,653873.0,,,,,,,1.2
+16388001,Centrale de La Mothe,EXPL,16388,Trois-Palis,ONDELEC,470686.0,6508380.0,0,Ouvrage fonctionnant au fil de l'eau,,951801.0,,,,,,,1.2
+16414001,Moulin de la Tourette,EXPL,16414,Villognon,SARL SPEE,475004.0,6533800.0,0,Ouvrage fonctionnant au fil de l'eau,,668963.0,,,,,,,1.5
+17309001,Centrale de La Roche,EXPL,17309,Saint-Aigulin,HYDROELECTRIQUE SUD OUEST INVESTISSEMENT,464683.0,6454860.0,0,Ouvrage fonctionnant au fil de l'eau,0.07,910429.0,5.0,,,,,,2.0
+17309002,Moulin des Herveux,EXPL,17309,Saint-Aigulin,CHATELLIER Claude,463862.0,6457800.0,0,Ouvrage fonctionnant au fil de l'eau,,331937.0,,,,,,,
+19001001,PEYRISSAC,EXPL,19001,Affieux,ELECTRICITE DE FRANCE,599831.0,6490430.0,0,Ouvrage fonctionnant par éclusées,1.2,3794875.0,15.0,"0,021000",1.0,Kaplan horizont. & bulbe à pâles mobiles,Concédée,2026-12-31,9.1
+19005001,SAILLANT,EXPL,19005,Allassac,ELECTRICITE DE FRANCE,579683.0,6466230.0,0,Ouvrage fonctionnant au fil de l'eau,18.35,49532788.0,42.0,"0,093000",4.0,Francis double,Concédée,2045-12-31,45.2
+19010001,ARGENTAT,EXPL,19010,Argentat-sur-Dordogne,ELECTRICITE DE FRANCE,617700.0,6445570.0,0,Ouvrage fonctionnant par éclusées,48.4,90497664.0,340.0,"0,033000",4.0,Kaplan horizont. & bulbe à pâles mobiles,Concédée,2032-12-31,15.8
+19016001,Centrale de Bar,EXPL,19016,Bar,CENTRALE HYDROELECTRIQUE DE BAR S.A.S,607890.0,6472340.0,0,Ouvrage fonctionnant par éclusées,7.5,32616838.0,6.0,,4.0,Francis,Concédée,2042-12-31,169.0
+19028001,BORT,EXPL,19028,Bort-les-Orgues,ELECTRICITE DE FRANCE,660768.0,6479400.0,0,Ouvrage de type Lac,232.8,276268480.0,252.5,"0,233000",3.0,Francis,Concédée,2012-12-31,101.1
+19034001,LAMATIVIE,EXPL,19034,Camps-Saint-Mathurin-Léobazel,ELECTRICITE DE FRANCE,623771.0,6431940.0,0,Ouvrage fonctionnant par éclusées,37.0,77138320.0,27.0,"0,280000",3.0,Francis,Concédée,2006-12-31,149.55
+19034002,LAVAL DE CERE 1,EXPL,19034,Camps-Saint-Mathurin-Léobazel,ELECTRICITE DE FRANCE,617142.0,6428770.0,0,Ouvrage fonctionnant par éclusées,31.0,56929688.0,36.0,"0,202000",4.0,Francis,Concédée,2006-12-31,109.15
+19034003,Moulin de Pra (Larregenie),EXPL,19034,Camps-Saint-Mathurin-Léobazel,SOCIETE HYDRO ELECTRIQUE BESSE,616665.0,6428800.0,0,Ouvrage fonctionnant au fil de l'eau,,1812200.0,,,,,,,2.0
+19062001,Moulin de la Reine,EXPL,19062,Corrèze,BORIE ANDRE,612890.0,6475680.0,0,Ouvrage fonctionnant au fil de l'eau,,751089.0,,,,,,,5.0
+19068001,Digue de Claredent,EXPL,19068,Dampniat,VALORISENERGIES ORIG RENOUVELABLES,591712.0,6453490.0,0,Ouvrage fonctionnant au fil de l'eau,0.097,388380.0,,,,,,,2.0
+19070001,Centrale du Fouilloux,EXPL,19070,Darnets,CIE ENERGIE ELECTRIQUE,630311.0,6478020.0,0,Ouvrage fonctionnant au fil de l'eau,,978095.0,,,,,,,16.0
+19091001,HAUTEFAGE,EXPL,19091,Hautefage,ELECTRICITE DE FRANCE,619398.0,6441880.0,0,Ouvrage fonctionnant par éclusées,20.9,62731600.0,46.4,"0,130000",2.0,Francis,Concédée,2033-12-31,63.2
+19111001,Centrale L'Herbeil,EXPL,19111,Laval-sur-Luzège,S.N.C CENTRALE HYDROELECTRIQUE L'HERBEIL,630936.0,6459650.0,0,Ouvrage fonctionnant au fil de l'eau,1.256,2605343.0,0.8,,,,Autorisée,2046-11-20,160.0
+19112001,MONCEAUX,EXPL,19112,Lestards,ELECTRICITE DE FRANCE,609524.0,6498000.0,0,Ouvrage de type Lac,16.1,53654780.0,15.8,"0,300000",2.0,Francis,Concédée,2019-12-31,147.2
+19113001,MAREGES,EXPL,19113,Liginiac,SOCIETE HYDRO ELECTRIQUE DU MIDI,650317.0,6476910.0,0,Ouvrage fonctionnant par éclusées,146.0,110756064.0,251.0,"0,177000",4.0,Francis,Concédée,2012-12-31,78.0
+19125001,MARCILLAC,EXPL,19125,Marcillac-la-Croisille,ELECTRICITE DE FRANCE,624461.0,6457860.0,0,Ouvrage de type Lac,33.2,55095868.0,19.4,"0,511000",2.0,Francis,Concédée,2025-12-31,228.0
+19135001,Centrale de la Bessette,EXPL,19135,Mestes,SOCIETE DES FORCES MOTRICES DE LA DIEGE,648202.0,6488360.0,0,Ouvrage fonctionnant au fil de l'eau,0.9,4104593.0,,,,,,,19.0
+19175001,VAL BENEYTE,EXPL,19175,Roche-le-Peyroux,ELECTRICITE DE FRANCE,650876.0,6479830.0,0,Ouvrage fonctionnant par éclusées,27.8,70054544.0,28.1,"0,280000",4.0,Francis,Concédée,1998-12-31,132.4
+19181001,Moulin du Mas,EXPL,19181,Saint-Augustin,SO GE CE,607299.0,6479330.0,0,Ouvrage fonctionnant au fil de l'eau,0.661,2707664.0,,,,,,,115.0
+19203001,Centrale de Mulatet,EXPL,19203,Sainte-Fortunade,BORIE ANDRE,600772.0,6460720.0,0,Ouvrage fonctionnant au fil de l'eau,,1835240.0,,,,,,,4.0
+19205001,St GENIEZ O MERLE,EXPL,19205,Saint-Geniez-ô-Merle,ELECTRICITE DE FRANCE,626633.0,6441690.0,0,Ouvrage fonctionnant par éclusées,36.2,113234400.0,42.0,"0,256000",2.0,Francis,Concédée,2021-12-31,124.4
+19208001,Centrale du Pont de la Noaille,EXPL,19208,Saint-Hilaire-Foissac,AIGUE FORCE LAVERGNE NOAILLE,633598.0,6471770.0,0,Ouvrage fonctionnant au fil de l'eau,2.0,2949536.0,17.0,,,,Autorisée,2045-02-25,12.0
+19214001,Centrale du Riou Tort,EXPL,19214,Saint-Julien-aux-Bois,FORCES MOTRICES DE RIOUX TORT,632360.0,6443650.0,0,Ouvrage fonctionnant au fil de l'eau,,2761659.0,,,,,,,130.0
+19222001,CHASTANG,EXPL,19222,Saint-Martin-la-Méanne,ELECTRICITE DE FRANCE,622162.0,6450740.0,0,Ouvrage fonctionnant par éclusées,290.0,449224064.0,533.0,"0,158000",5.0,Francis,Concédée,2026-12-31,70.8
+19229001,Centrale de Larche,EXPL,19229,Saint-Pantaléon-de-Larche,ENERGIE HYDRAULIQUE DE LARCHE,575388.0,6448460.0,0,Ouvrage fonctionnant au fil de l'eau,0.88,,40.0,,2.0,VLH (Very Low Head Turbine),Autorisée,2043-03-07,2.25
+19246001,CENTRALE DE SAINT VIANCE,EXPL,19246,Saint-Viance,SOCIETE LA GALA FRANCAISE,578402.0,6458610.0,0,Ouvrage fonctionnant au fil de l'eau,0.25,,9.24,,,,,,3.06
+19249001,Centrale de Viossanges,EXPL,19249,Saint-Yrieix-le-Déjalat,S.A.R.L. DE VIOSSANGES,620091.0,6486760.0,0,Ouvrage fonctionnant au fil de l'eau,,983282.0,,,,,,,80.0
+19256001,NEUVIC D'USSEL,EXPL,19256,Sérandon,ELECTRICITE DE FRANCE,649076.0,6472210.0,0,Ouvrage de type Lac,19.4,41701932.0,10.0,"0,540000",2.0,Francis,Concédée,2010-12-31,259.0
+19258001,LA GLANE,EXPL,19258,Servières-le-Château,ELECTRICITE DE FRANCE,622379.0,6450890.0,0,Ouvrage de type Lac,4.6,10231893.0,2.5,"0,450000",2.0,Pelton,Concédée,2033-12-31,222.2
+19258002,FAUX LA MONTAGNE,HORS,23077,Faux-la-Montagne,ELECTRICITE DE FRANCE,617314.0,6518980.0,0,,,,,,,,,,35.8
+19259001,Centrale de La Pagesie,EXPL,19259,Sexcles,S.A. LA PAGESIE,620760.0,6440620.0,0,Ouvrage fonctionnant au fil de l'eau,,1702436.0,,,,,,,198.0
+19264001,AIGLE,EXPL,19264,Soursac,ELECTRICITE DE FRANCE,639181.0,6460730.0,0,Ouvrage de type Lac,360.0,448068544.0,555.0,"0,183000",6.0,Francis,Concédée,2020-12-31,81.4
+19269001,TREIGNAC BARIOUSSES,EXPL,19269,Treignac,ELECTRICITE DE FRANCE,603189.0,6493540.0,0,Ouvrage fonctionnant par éclusées,31.1,77791936.0,23.2,"0,050000",2.0,Francis,Concédée,2026-12-31,164.0
+19269002,TREIGNAC BARIOUSSES (Groupe de Restitution),EXPL,19269,Treignac,ELECTRICITE DE FRANCE,607585.0,6495670.0,0,Ouvrage fonctionnant au fil de l'eau,,364493.0,,,,,,,25.1
+19276001,Centrale du Gour Noir,EXPL,19276,Uzerche,ENTREPRISE PIGEON S.A.,585383.0,6481020.0,0,Ouvrage fonctionnant au fil de l'eau,2.0,8935409.0,,,,,,,12.3
+19287001,Moulin de Lavergne,EXPL,19287,Vitrac-sur-Montane,AIGUE FORCE LAVERGNE NOAILLE,613937.0,6478290.0,0,Ouvrage fonctionnant au fil de l'eau,,842138.0,,,,,,,6.0
+19288001,BIARD,EXPL,19288,Voutezac,ELECTRICITE DE FRANCE,580113.0,6468210.0,0,Ouvrage fonctionnant au fil de l'eau,1.85,6530917.0,21.0,"0,020000",2.0,Francis,Concédée,2045-12-31,8.8
+19288002,POUCH,EXPL,19288,Voutezac,ELECTRICITE DE FRANCE,580179.0,6467610.0,0,Ouvrage fonctionnant au fil de l'eau,1.26,4493753.0,25.0,"0,012000",2.0,Francis,Concédée,2045-12-31,5.15
+19288003,SAILLANT (Groupe de restitution),EXPL,19288,Voutezac,ELECTRICITE DE FRANCE,579889.0,6466470.0,0,Ouvrage fonctionnant au fil de l'eau,,2409902.0,,,,,,,26.6
+24010001,ANNESSE BEAULIEU,EXPL,24010,Annesse-et-Beaulieu,SOC HYDRAULIQUE ETUDES MISSIONS ASSIST,508914.0,6454800.0,0,Ouvrage fonctionnant au fil de l'eau,0.227,919549.0,10.0,,1.0,Kaplan,Concédée (autorisable),2046-12-31,3.0
+24010002,La Roche,EXPL,24010,Annesse-et-Beaulieu,MCS HYDROELECTRIQUE,513215.0,6457610.0,0,Ouvrage fonctionnant au fil de l'eau,0.11,382277.0,,,,,,,1.4
+24014001,Centrale d'Aubas,EXPL,24014,Aubas,E.U.R.L. ECODOR,557607.0,6444170.0,0,Ouvrage fonctionnant au fil de l'eau,1.177,2763445.0,,,,,Concédée (autorisable),,3.0
+24037001,BERGERAC,EXPL,24037,Bergerac,ELECTRICITE DE FRANCE,498910.0,6419630.0,0,Ouvrage fonctionnant au fil de l'eau,1.4,7937080.0,57.0,"0,006000",2.0,Hélice horizontale,Concédée (autorisable),2043-12-31,4.0
+24058001,Moulin de Ribérac,EXPL,24586,Villetoureix,HYDROELECTRIQUE RIBERACOISE,490351.0,6466310.0,0,Ouvrage fonctionnant au fil de l'eau,0.102,327216.0,,,,,,,
+24073001,MAUZAC,EXPL,24073,Calès,ELECTRICITE DE FRANCE,526689.0,6419600.0,0,Ouvrage fonctionnant au fil de l'eau,13.2,55091396.0,355.0,"0,010000",6.0,Francis,Concédée,2025-12-31,7.5
+24102001,Barrage de l'Evèque,EXPL,24102,Chancelade,MDS,515205.0,6456750.0,0,Ouvrage fonctionnant au fil de l'eau,0.25,528560.0,,,,,,,1.6
+24134001,Usine de la Roche,EXPL,24134,Corgnac-sur-l'Isle,MOULIN DU BREUIL,540154.0,6477930.0,0,Ouvrage fonctionnant au fil de l'eau,0.09,291000.0,,,,,,,3.3
+24157001,Centrale Fontpeyre,EXPL,24157,Douzillac,S.N.C. FONTPEYRE,497326.0,6444830.0,0,Ouvrage fonctionnant au fil de l'eau,,168515.0,,,,,,,1.7
+24157002,Mauriac,EXPL,24157,Douzillac,A3H,498012.0,6446460.0,0,Ouvrage fonctionnant au fil de l'eau,0.1,314407.0,,,,,,,1.8
+24180001,Moulin de Feuillas,HORS,87060,Dournazac,EURL TURBINES DU MOULIN DE FEUYAS,539783.0,6503391.0,0,Ouvrage fonctionnant au fil de l'eau,,,,,,,,,7.0
+24196001,MARVIT,EXPL,24196,Génis,ENERGIE HYDRO 2016,555017.0,6471190.0,0,Ouvrage fonctionnant au fil de l'eau,0.252,1500000.0,2.0,,2.0,Kaplan horizont. & bulbe à pâles mobiles,Autorisée,1999-12-31,7.35
+24196002,MOULIN DU PONT,EXPL,24196,Génis,ENERGIE HYDRO 2016,555117.0,6472090.0,0,Ouvrage fonctionnant au fil de l'eau,0.264,270960.0,7.55,,1.0,Kaplan,Autorisée,2039-12-31,3.82
+24218001,Centrale Le Moulin,EXPL,24218,Jumilhac-le-Grand,SARL WEYGAND-LAFOSCADE,548336.0,6490240.0,0,Ouvrage fonctionnant au fil de l'eau,0.24,590381.0,,,,,,,5.6
+24264001,COLY GAILLARD,EXPL,24264,Ménesplet,SOC HYDRAULIQUE ETUDES MISSIONS ASSIST,469872.0,6439270.0,0,Ouvrage fonctionnant au fil de l'eau,0.26,1265655.0,12.2,,2.0,Kaplan,Concédée (autorisable),2046-12-31,2.8
+24264002,Centrale de Ménesplet,EXPL,24264,Ménesplet,SARL DU MOULIN DE MENESPLET,472817.0,6439520.0,0,Ouvrage fonctionnant au fil de l'eau,0.5,1674597.0,,,,,,,1.7
+24294001,MARCILLAC,EXPL,24294,Montpon-Ménestérol,SOC HYDRAULIQUE ETUDES MISSIONS ASSIST,474256.0,6440180.0,0,Ouvrage fonctionnant au fil de l'eau,0.075,1030525.0,4.8,,5.0,Kaplan horizont. & bulbe à pâles mobiles,Concédée (autorisable),2046-12-31,2.25
+24294002,Centrale des Moulineaux,EXPL,24294,Montpon-Ménestérol,S.N.C. HYDRO FLUIDES,475701.0,6439030.0,0,Ouvrage fonctionnant au fil de l'eau,,1203990.0,,,,,,,2.0
+24297001,Barrage de Moulin Neuf,EXPL,24297,Moulin-Neuf,CORENSO FRANCE,466913.0,6440150.0,0,Ouvrage fonctionnant au fil de l'eau,0.315,,,,,,,,1.79
+24309001,Centrale de Neuvic,EXPL,24309,Neuvic,ENERGETIC,500595.0,6448600.0,0,Ouvrage fonctionnant au fil de l'eau,,1032669.0,,,,,,,1.8
+24322001,Usine hydroélectrique allée du port (Périgueux),EXPL,24322,Périgueux,ARCELOR MITTAL WIRE FRANCE,519566.0,6456440.0,0,Ouvrage fonctionnant au fil de l'eau,0.23,809296.0,14.3,,2.0,,Autorisée,2026-11-14,2.32
+24322002,Moulin de Saltgourde,EXPL,24322,Périgueux,PRODUCTION AUTONOME D'ENERGIE ELECTRIQUE,517575.0,6457330.0,0,Ouvrage fonctionnant au fil de l'eau,,608308.0,,,,,,,1.8
+24350001,Centrale du Moulin (Charente),EXPL,16026,Balzac,S.A.R.L. HYDRO ENERGIE MUYLE FRANCE,476288.0,6517240.0,0,Ouvrage fonctionnant au fil de l'eau,,,,,,,Autorisée,1990-05-28,1.04
+24350002,Les Moulineaux,EXPL,24350,Razac-sur-l'Isle,S.A.R.L. HYDRO ENERGIE MUYLE FRANCE,512380.0,6455800.0,0,Ouvrage fonctionnant au fil de l'eau,,850062.0,,,,,,,1.79
+24372001,St ASTIER,EXPL,24372,Saint-Astier,SOC HYDRAULIQUE ETUDES MISSIONS ASSIST,505942.0,6452770.0,0,Ouvrage fonctionnant au fil de l'eau,0.236,748119.0,10.0,,1.0,Kaplan,Concédée (autorisable),2046-12-31,3.15
+24372002,Microcentrale La Massoulie,EXPL,24442,Saint-Léon-sur-l'Isle,SARL LA MASSOULIE,505839.0,6450580.0,0,Ouvrage fonctionnant au fil de l'eau,,456513.0,,,,,,,1.8
+24376001,Le Moulin de St Aulaye,EXPL,24376,Saint Aulaye-Puymangou,COMMUNE DE ST AULAYE PUYMANGOU,475156.0,6460470.0,0,Ouvrage fonctionnant au fil de l'eau,,457282.0,,,,,,,2.0
+24382001,TUILIERES,EXPL,24382,Saint-Capraise-de-Lalinde,ELECTRICITE DE FRANCE,513076.0,6419030.0,0,Ouvrage fonctionnant au fil de l'eau,32.0,91681736.0,420.0,"0,024000",8.0,Kaplan,Concédée,2000-12-31,12.4
+24436001,CHANDEAU DU MAINE,EXPL,24436,Saint-Laurent-des-Hommes,SOC HYDRAULIQUE ETUDES MISSIONS ASSIST,487288.0,6441350.0,0,Ouvrage fonctionnant au fil de l'eau,0.219,1240150.0,10.5,,2.0,Kaplan,Concédée (autorisable),2046-12-31,2.8
+24436002,Moulin de Benevent,HORS,24436,Saint-Laurent-des-Hommes,MINOTERIE CHAMBON FRERES,483668.16,6439810.5,0,Ouvrage fonctionnant au fil de l'eau,,546198.0,,,,,,,2.1
+24442001,Moulin Brule,EXPL,24442,Saint-Léon-sur-l'Isle,SAINT LEON S.A.R.L.,502921.0,6448460.0,0,Ouvrage fonctionnant au fil de l'eau,,407856.0,,,,,,,1.6
+24449001,Centrale de Duellas,EXPL,24449,Saint-Martial-d'Artenset,ARTESOL HYDRAU,481534.0,6440560.0,0,Ouvrage fonctionnant au fil de l'eau,,881102.0,,,,,,,2.0
+24449002,Centrale de Vignerie,EXPL,24294,Montpon-Ménestérol,SOC HYDRAULIQUE ETUDES MISSIONS ASSIST,478785.0,6440720.0,0,Ouvrage fonctionnant au fil de l'eau,,968048.0,,,,,,,1.93
+24462001,St MARTIN l'ASTIER,EXPL,24462,Saint-Médard-de-Mussidan,SOC HYDRAULIQUE ETUDES MISSIONS ASSIST,489455.0,6442380.0,0,Ouvrage fonctionnant au fil de l'eau,0.198,827739.0,10.5,,2.0,Kaplan,Concédée (autorisable),1997-12-31,2.5
+24462002,Usine Longua,HORS,24462,Saint-Médard-de-Mussidan,PETIT MICHEL,491344.0,6441810.0,0,,,,,,,,,,1.5
+24475001,Moulin de St Pantaly d'ans,EXPL,24147,Cubjac-Auvézère-Val d'Ans,MINOTERIE MALIER,542542.0,6462080.0,0,Ouvrage fonctionnant au fil de l'eau,0.12,151467.0,,,,,,,
+24481001,Moulin du Breuilh,EXPL,24481,Saint-Paul-la-Roche,SOCIETE CIVILE IMMOBILIERE DU MOULIN DU BREUIL,544367.0,6486320.0,0,Ouvrage fonctionnant au fil de l'eau,0.35,221454.0,,,,,,,4.2
+24543001,COLY LAMELETTE,EXPL,24543,Sourzac,SOC HYDRAULIQUE ETUDES MISSIONS ASSIST,495046.0,6444130.0,0,Ouvrage fonctionnant au fil de l'eau,0.162,708144.0,10.0,,2.0,Kaplan,Concédée (autorisable),2046-12-31,2.2
+24543002,LA CAILLADE (LA CAILLETTE),EXPL,24543,Sourzac,SOC HYDRAULIQUE ETUDES MISSIONS ASSIST,494362.0,6442590.0,0,Ouvrage fonctionnant au fil de l'eau,0.104,848762.0,5.0,,4.0,Kaplan horizont. & bulbe à pâles mobiles,Concédée (autorisable),2046-12-31,2.8
+24543003,Centrale de Gabillou,EXPL,24543,Sourzac,JARMENIL H.E,493508.0,6441170.0,0,Ouvrage fonctionnant au fil de l'eau,,1270072.0,,,,,,,2.0
+24547001,Moulin des Escures,EXPL,24547,Terrasson-Lavilledieu,SARL VERDEILLE ET FILS,570381.0,6449870.0,0,Ouvrage fonctionnant au fil de l'eau,0.79,2388197.0,33.0,,3.0,Kaplan,Fondée en titre,,2.44
+24547002,Moulin de Losse,EXPL,24547,Terrasson-Lavilledieu,ENERGIE VERTE DE TERRASSON LAVILLEDIEU,565780.0,6449000.0,0,Ouvrage fonctionnant au fil de l'eau,,1848440.0,,,,,,,2.95
+24557001,Centrale de Barnabe-Trélissac,EXPL,24557,Trélissac,SOC HYDRAULIQUE ETUDES MISSIONS ASSIST,522506.0,6456830.0,0,Ouvrage fonctionnant au fil de l'eau,0.4,997425.0,,,,,Autorisée,,1.0
+30139001,VILLEMAGNE,EXPL,30139,Lanuéjols,SOC HYDRAULIQUE ETUDES MISSIONS ASSIST,734383.0,6334530.0,0,Ouvrage fonctionnant au fil de l'eau,0.73,2171966.0,0.5,,1.0,Pelton,,2009-12-31,160.79
+31017001,ARLOS,EXPL,31017,Arlos,ELECTRICITE DE FRANCE,512906.0,6201270.0,0,Ouvrage fonctionnant par éclusées,5.3,17329668.0,34.0,"0,043000",2.0,Kaplan,Concédée,2045-12-31,19.2
+31033001,Moulin de la Ville et du Ramier,EXPL,31033,Auterive,S.A.S. RATIE CLAMAGIRAND,576331.0,6251540.0,0,Ouvrage fonctionnant au fil de l'eau,2.0,,,,,,,,4.5
+31033002,Moulin du Ramier,EXPL,31033,Auterive,S.A.S. RATIE CLAMAGIRAND,576402.0,6251280.0,0,Ouvrage fonctionnant au fil de l'eau,0.725,2350000.0,20.0,,2.0,Kaplan,,,3.7
+31042001,MOUSQUERES,EXPL,31042,Bagnères-de-Luchon,ELECTRICITE DE FRANCE,501836.0,6191240.0,0,Ouvrage fonctionnant au fil de l'eau,3.0,15318278.0,3.6,"0,230000",3.0,Francis,Concédée (autorisable),2003-12-31,111.6
+31042002,PIQUE SUPERIEURE,EXPL,31042,Bagnères-de-Luchon,ELECTRICITE DE FRANCE,504083.0,6185770.0,0,Ouvrage fonctionnant au fil de l'eau,10.8,34813332.0,6.5,"0,494000",1.0,Francis double,Concédée,1998-12-31,219.9
+31042003,PIQUE INFERIEURE,EXPL,31042,Bagnères-de-Luchon,ELECTRICITE DE FRANCE,503668.0,6188940.0,0,Ouvrage fonctionnant au fil de l'eau,7.2,31294168.0,6.1,"0,330000",1.0,Francis double,Concédée,1998-12-31,167.2
+31042004,LAC D'OO,EXPL,31042,Bagnères-de-Luchon,ELECTRICITE DE FRANCE,502049.0,6191210.0,0,Ouvrage de type Lac,30.0,56568832.0,5.0,"1,800000",3.0,Pelton,Concédée,1998-12-31,802.0
+31066001,Bessieres (Rive droite),EXPL,31066,Bessières,ROULEAU GUICHARD ENERGIE,588502.0,6301170.0,0,Ouvrage fonctionnant au fil de l'eau,3.679,6735590.0,125.0,,2.0,Kaplan,Concédée,2038-12-31,3.3
+31066002,Bessieres (Rive Gauche),EXPL,31066,Bessières,ROULEAU GUICHARD ENERGIE,588465.0,6301040.0,0,Ouvrage fonctionnant au fil de l'eau,0.735,2092587.0,25.0,,2.0,Francis,,,3.8
+31107001,CARBONNE,EXPL,31107,Carbonne,ELECTRICITE DE FRANCE,555239.0,6244930.0,0,Ouvrage fonctionnant au fil de l'eau,26.4,92879944.0,150.0,"0,041000",3.0,Francis,Concédée,2044-12-31,20.0
+31107002,CARBONNE (Groupe de restitution Mancies),EXPL,31107,Carbonne,ELECTRICITE DE FRANCE,554188.0,6244270.0,0,Ouvrage fonctionnant au fil de l'eau,0.4,2804222.0,,,,,,,18.5
+31107003,Usine de Carbonne,EXPL,31107,Carbonne,SARL CENTRALE DE CARBONNE,556090.0,6245540.0,0,Ouvrage fonctionnant au fil de l'eau,0.51,1291677.0,,,,,Autorisée,2037-01-19,5.54
+31110001,Centrale de Cassagne,EXPL,31110,Cassagne,S.N.C. LES CENTRALES ASSOCIEES,535373.0,6228310.0,0,Ouvrage fonctionnant au fil de l'eau,1.0,4114490.0,,,,,,,3.5
+31123001,PORTILLON Basse Chute,EXPL,31123,Castillon-de-Larboust,ELECTRICITE DE FRANCE,499373.0,6184520.0,0,Ouvrage de type Lac,40.0,22200332.0,4.6,"2,405000",1.0,Pelton,Concédée,2018-12-31,1119.5
+31123002,PORTILLON Haute Chute,EXPL,31123,Castillon-de-Larboust,ELECTRICITE DE FRANCE,499332.0,6184530.0,0,Ouvrage de type Lac,55.0,43777388.0,5.0,"3,084000",1.0,Pelton,Concédée,,1421.0
+31133001,Centrale D'Arruc,EXPL,31133,Cazeaux-de-Larboust,SOC ENERGETIQ CAZAUX LARBOUST,497274.0,6192300.0,0,Ouvrage fonctionnant au fil de l'eau,0.76,2385068.0,0.5,,,,Autorisée,2009-01-15,150.0
+31135001,ST JULIEN (Groupe de Restitution),EXPL,31135,Cazères,ELECTRICITE DE FRANCE,547009.0,6236640.0,0,Ouvrage fonctionnant au fil de l'eau,0.2,1650235.0,,,,,,,11.0
+31144001,CIERP,EXPL,31144,Cierp-Gaud,ELECTRICITE DE FRANCE,506916.0,6204270.0,0,Ouvrage fonctionnant au fil de l'eau,11.0,45924332.0,14.0,"0,212000",2.0,Francis,Concédée,2024-12-31,100.2
+31147001,Camon - Restitution Rodère,EXPL,31147,Clarac,ELECTRICITE DE FRANCE,506536.0,6224410.0,0,Ouvrage fonctionnant au fil de l'eau,0.39,,6.1,,1.0,Kaplan,,,6.65
+31177001,CAUBOUS,HORS,31177,Eup,ELECTRICITE DE FRANCE,510527.0,6205190.0,0,Ouvrage fonctionnant au fil de l'eau,0.6,1873667.0,14.0,"0,011000",2.0,Hélice horizontale,Autorisée,1987-05-04,6.8
+31182001,FENOUILLET,EXPL,31182,Fenouillet,RACCA DELLUC SEVERINE,571332.0,6287700.0,0,Ouvrage fonctionnant au fil de l'eau,0.15,1133302.0,,,,,,,2.6
+31190001,FOS,EXPL,31190,Fos,ELECTRICITE DE FRANCE,514865.0,6199240.0,0,Ouvrage fonctionnant par éclusées,10.6,36855500.0,34.0,"0,086000",3.0,Francis,Concédée,2045-12-31,39.4
+31224001,Centrale du Bout du Pont,EXPL,31224,Gourdan-Polignan,PRO-ELEC,502701.0,6223200.0,0,Ouvrage fonctionnant au fil de l'eau,0.497,1950432.0,18.0,,,,Autorisée,2024-04-24,3.04
+31233001,Centrale de Grepiac,EXPL,31233,Grépiac,S.N.C. ARIEGE PRODUCTION,573577.0,6256940.0,0,Ouvrage fonctionnant au fil de l'eau,2.2,3704133.0,56.0,,,,Autorisée,2026-11-14,4.0
+31246001,Moulin Picheloup,EXPL,31246,Labarthe-Inard,HYDRO-SIA,523477.0,6224370.0,0,Ouvrage fonctionnant au fil de l'eau,0.792,3088263.0,15.0,,,,,,5.38
+31247001,CAMON,EXPL,31247,Labarthe-Rivière,ELECTRICITE DE FRANCE,509989.0,6224620.0,0,Ouvrage fonctionnant au fil de l'eau,14.2,52077612.0,85.0,"0,045000",3.0,Francis,Concédée,2008-12-31,25.7
+31253001,Centrale de Labastidette,EXPL,31253,Labastidette,HYDRO-EXPLOITATIONS,556959.0,6262660.0,0,Ouvrage fonctionnant au fil de l'eau,0.815,4510879.0,3.2,,,,Concédée (autorisable),2014-12-31,1.0
+31293001,LESPINASSE,EXPL,31293,Lespinasse,ALTERNATIVE ELECTRIQUE,569968.0,6291250.0,0,Ouvrage fonctionnant au fil de l'eau,0.14,622880.0,,,,,,,2.4
+31296001,Centrale hydroélectrique de Lestelle,EXPL,31296,Lestelle-de-Saint-Martory,SOPELEC,529687.25,6225431.5,0,Ouvrage fonctionnant au fil de l'eau,3.046,10263492.0,50.0,,,,Autorisée,2020-02-29,6.21
+31296002,Centrale d'Apas,EXPL,31124,Castillon-de-Saint-Martory,S.N.C. CENTRALE D'APAS,530942.0,6228080.0,0,Ouvrage fonctionnant au fil de l'eau,2.735,5406094.0,25.0,,,,Autorisée et fondée en titre,2022-08-26,6.5
+31314001,MANCIOUX,EXPL,31314,Mancioux,ELECTRICITE DE FRANCE,533763.0,6230870.0,0,Ouvrage fonctionnant au fil de l'eau,3.2,7629167.0,60.0,"0,016000",4.0,Francis,Autorisée,1994-10-16,10.8
+31316001,Centrale de Peyromale,EXPL,31139,Chaum,BOURGEOIS,508158.0,6206130.0,0,Ouvrage fonctionnant au fil de l'eau,0.17,600000.0,3.4,,,,Fondée en titre,,5.0
+31324001,PALAMINY (Groupe de Restitution),EXPL,31324,Martres-Tolosane,ELECTRICITE DE FRANCE,537317.0,6234000.0,0,Ouvrage fonctionnant au fil de l'eau,0.4,2158611.0,3.0,,,,,,13.8
+31336001,Centrale de Las Isles,EXPL,31336,Mazères-sur-Salat,S.N.C. LES CENTRALES ASSOCIEES,534587.0,6226790.0,0,Ouvrage fonctionnant au fil de l'eau,0.683,2295138.0,24.0,,2.0,Kaplan,,,2.6
+31336002,Centrale Sud,EXPL,31336,Mazères-sur-Salat,S.N.C. LES CENTRALES ASSOCIEES,535121.0,6227880.0,0,Ouvrage fonctionnant au fil de l'eau,1.0,4670195.0,,,,,,,4.0
+31337001,Centrale de Melles,EXPL,31337,Melles,MATHIEU ET COMPAGNIE,515997.0,6198900.0,0,Ouvrage fonctionnant au fil de l'eau,2.38,6474470.0,2.0,,,,Concédée (autorisable),2045-12-31,173.0
+31344001,GENTILLE,EXPL,31344,Miramont-de-Comminges,ELECTRICITE DE FRANCE,519596.0,6224550.0,0,Ouvrage fonctionnant au fil de l'eau,6.0,18435778.0,60.0,"0,020000",3.0,Hélice verticale,Concédée,2048-12-31,10.2
+31344002,Centrale de St Jean,EXPL,31344,Miramont-de-Comminges,REGIE MUNICIPALE D'ELECTRICITE,516253.0,6224620.0,0,Ouvrage fonctionnant au fil de l'eau,0.44,3014233.0,,,,,,,3.15
+31349001,Centrale de Mondavezan,EXPL,31349,Mondavezan,HYDRO-EXPLOITATIONS,541878.0,6240300.0,0,Ouvrage fonctionnant au fil de l'eau,,3181319.0,,,,,,,1.0
+31349002,Centrale de Mondavezan (Sierp),EXPL,31349,Mondavezan,DEPARTEMENT DE LA HAUTE-GARONNE,540870.0,6239660.0,0,Ouvrage fonctionnant au fil de l'eau,,1095900.0,,,,,,,4.2
+31356001,MONTAIGUT/SAVE,EXPL,31356,Montaigut-sur-Save,PIEDANIEL Didier,557340.0,6289780.0,0,Ouvrage fonctionnant au fil de l'eau,0.09,185328.0,,,,,,,90.0
+31375001,MONTESQUIEU,EXPL,31375,Montesquieu-Volvestre,REGIE MUNICIPALE D'ELECTRICITE,555868.0,6235730.0,0,Ouvrage fonctionnant au fil de l'eau,0.983,,,,,,,,2.5
+31406001,PALAMINY,EXPL,31406,Palaminy,ELECTRICITE DE FRANCE,542422.0,6235810.0,0,Ouvrage fonctionnant par éclusées,34.6,142125056.0,130.0,"0,590000",3.0,Hélice verticale,Concédée,2036-12-31,32.2
+31426001,POINTIS DE RIVIERE,EXPL,31426,Pointis-de-Rivière,ELECTRICITE DE FRANCE,505387.0,6224180.0,0,Ouvrage fonctionnant au fil de l'eau,6.7,27909556.0,70.0,"0,030000",3.0,Hélice verticale,Concédée,2020-12-31,17.0
+31426002,Pointis - restitution Ausson,EXPL,31426,Pointis-de-Rivière,ELECTRICITE DE FRANCE,504796.0,6223790.0,0,Ouvrage fonctionnant au fil de l'eau,0.3,,6.0,,1.0,Kaplan,,,6.1
+31427001,St SERNIN,EXPL,31427,Pointis-Inard,ELECTRICITE DE FRANCE,521731.0,6224390.0,0,Ouvrage fonctionnant au fil de l'eau,5.77,18053222.0,60.0,"0,020000",3.0,Hélice verticale,Concédée,2048-12-31,9.8
+31427002,Centrale des Papeteries du Vicomte,EXPL,31427,Pointis-Inard,SOCIETE ELECTRIQUE DE POINTIS INARD,522302.0,6224730.0,0,Ouvrage fonctionnant au fil de l'eau,1.2,4077428.0,,,,,,,3.19
+31457001,Centrale de Lasmartres,EXPL,31457,Roquefort-sur-Garonne,S.N.C. LES CENTRALES ASSOCIEES,535483.0,6229100.0,0,Ouvrage fonctionnant au fil de l'eau,0.588,2131597.0,20.0,,2.0,Francis,Autorisée,,3.0
+31470001,Centrale de St Aventin,EXPL,31470,Saint-Aventin,STE HYDRO-ELECTRIQUE DE ST AVENTIN,500262.0,6192430.0,0,Ouvrage fonctionnant au fil de l'eau,2.0,3757664.0,2.4,,1.0,Francis,Autorisée,,87.17
+31471001,Centrale de Ladivert,EXPL,31471,Saint-Béat-Lez,ARRAGO CATHERINE MONIQUE,511427.0,6203500.0,0,Ouvrage fonctionnant au fil de l'eau,0.6,3208348.0,11.0,,,,Fondée en titre,1994-10-16,5.0
+31492001,St JULIEN,EXPL,31492,Saint-Julien-sur-Garonne,ELECTRICITE DE FRANCE,549804.0,6239400.0,0,Ouvrage fonctionnant au fil de l'eau,26.2,108349176.0,140.0,"0,047000",3.0,Hélice verticale,Concédée,2041-12-31,22.2
+31503001,Centrale Du Foulon,EXPL,31503,Saint-Martory,S.A.R.L. ELECTRICITE BERGES,532250.0,6229140.0,0,Ouvrage fonctionnant au fil de l'eau,0.44,2066724.0,,,,,,,3.7
+31503002,Centrale des Ets Barthier,HORS,31503,Saint-Martory,NOUVELLES PAPETERIES BARTHIER,531856.5,6229247.5,0,,0.2,780264.0,,,,,,,3.7
+31515001,Moulin d'Embalens,EXPL,31515,Saint-Rustice,IDRAC RACCA GISELE AIMEE PIERRETTE,565503.0,6301300.0,0,Ouvrage fonctionnant au fil de l'eau,0.125,490860.0,4.9,"0,005000",1.0,Kaplan,Autorisée,,2.58
+31523001,Menges,EXPL,31523,Salies-du-Salat,SOCIETE HYDROELECTRIQUE MENGES,534205.0,6225620.0,0,Ouvrage fonctionnant au fil de l'eau,,1788008.0,,,,,,,3.5
+31523002,Usine A Sel,EXPL,31523,Salies-du-Salat,SOCIETE D'EQUIPEMENT ET D'EXPLOITATION DE CENTRALES ELECTRIQUES,534316.0,6224420.0,0,Ouvrage fonctionnant au fil de l'eau,5.05,15840232.0,,,2.0,,Concédée,,12.65
+31524001,Centrale des Sept Molles,EXPL,31244,Juzet-de-Luchon,GARCES JEAN-CLAUDE,503956.0,6193860.0,0,Ouvrage fonctionnant au fil de l'eau,0.25,1080879.0,,,,,,,230.0
+31554001,Centrale de Touille,EXPL,31554,Touille,SOCIETE PHILIPPE ET FILS,534599.0,6221980.0,0,Ouvrage fonctionnant au fil de l'eau,1.3,6484602.0,30.0,,,,Autorisée,2022-12-22,7.0
+31555001,BAZACLE,EXPL,31555,Toulouse,ELECTRICITE DE FRANCE,573336.0,6279620.0,0,Ouvrage fonctionnant au fil de l'eau,3.1,11489125.0,87.0,"0,009000",7.0,Francis,Fondée en titre,,6.9
+31555002,Centrale du Martinet,EXPL,31555,Toulouse,SEUM,573331.0,6279300.0,0,Ouvrage fonctionnant au fil de l'eau,,2448691.0,,,,,Autorisée,,4.5
+31555003,Centrale du Ramier (SNPE),HORS,31555,Toulouse,REGIE MUNICIPALE D'ELECTRICITE,573918.0,6278180.0,0,,,,,,,,,,3.8
+31555004,Centrale du Ramier du Chateau,EXPL,31555,Toulouse,REGIE MUNICIPALE D'ELECTRICITE,573894.0,6278130.0,0,Ouvrage fonctionnant au fil de l'eau,4.5,22794224.0,,,,,Concédée,2047-12-31,4.3
+31555005,La Cavaletade,EXPL,31555,Toulouse,REGIE MUNICIPALE D'ELECTRICITE,573744.0,6274450.0,0,Ouvrage fonctionnant au fil de l'eau,1.239,,30.0,,,,Concédée,2047-12-31,4.37
+31565001,VALENTINE,EXPL,31565,Valentine,ELECTRICITE DE FRANCE,512703.0,6224670.0,0,Ouvrage fonctionnant au fil de l'eau,8.0,28790876.0,85.0,"0,027000",3.0,Hélice verticale,Concédée,2008-12-31,14.5
+31584001,Centrale de Villemur,EXPL,31584,Villemur-sur-Tarn,SOC HYDRAULIQUE ETUDES MISSIONS ASSIST,579686.0,6308230.0,0,Ouvrage fonctionnant au fil de l'eau,1.54,4853058.0,55.0,,5.0,,Autorisée,2019-10-31,2.45
+32019001,Moulin neuf (32),HORS,32019,Auterive,EYCHENNE ALAIN,507685.2,6279021.0,0,Ouvrage fonctionnant au fil de l'eau,0.052,,,,,,,,
+32029001,Centrale de Mazeres,EXPL,32029,Barran,SPEM,490038.0,6286230.0,0,Ouvrage fonctionnant au fil de l'eau,,665154.0,,,,,,,3.4
+32035001,Centrale de La Tourraque,EXPL,32035,Beaucaire,HYTEM ENERGIE,489429.0,6309250.0,0,Ouvrage fonctionnant au fil de l'eau,,572036.0,,,,,,,3.3
+32035002,Moulin de Beaucaire,EXPL,32035,Beaucaire,BLANCAFORT RAYMOND LOUIS ROBERT,490054.0,6307520.0,0,Ouvrage fonctionnant au fil de l'eau,0.22,497987.0,,,,,,,3.0
+32059001,Centrale du Comte,EXPL,32402,Saint-Paul-de-Baïse,S.N.C. SOLANA,489342.0,6299940.0,0,Ouvrage fonctionnant au fil de l'eau,0.28,558736.0,,,,,,,4.0
+32061001,Moulin de Boulaur,HORS,32061,Boulaur,BEYRIA MARC,519370.0,6274970.0,5,,,,,,,,,,
+32065001,Moulin de Laubadère,EXPL,32065,Le Brouilh-Monbert,BLANCAFORT RENE XAVIER EDMOND,490413.0,6288920.0,0,Ouvrage fonctionnant au fil de l'eau,0.22,445345.0,,,,,,,3.6
+32107001,Moulin d'Autièges,EXPL,32107,Condom,MOULIN D'AUTIEGES,488044.0,6326670.0,0,Ouvrage fonctionnant au fil de l'eau,0.095,359540.0,,,,,,,2.4
+32107002,Centrale de Beauregard,EXPL,32107,Condom,SOL'AIR ELECTRIC,488778.0,6324720.0,0,Ouvrage fonctionnant au fil de l'eau,,,,,,,,,
+32107003,Grand Moulin de Barlet,EXPL,32107,Condom,EUROPEAN INDUSTRY AND SCE INVESTMENT,488860.0,6321400.0,0,Ouvrage fonctionnant au fil de l'eau,0.251,,9.67,,1.0,,Autorisée et fondée en titre,2044-12-08,2.65
+32159001,Usine de L'Isle de Noé,EXPL,32159,L'Isle-de-Noé,BLANCAFORT GILBERT,490904.0,6279880.0,0,Ouvrage fonctionnant au fil de l'eau,0.188,650040.0,,,,,,,3.5
+32161001,Centrale de Bartheres,EXPL,32161,Izotges,ENERGIE VERTE D IZOTGES,455681.0,6289150.0,0,Ouvrage fonctionnant au fil de l'eau,0.65,1172616.0,25.0,,,,,,3.54
+32169001,Moulin de Labarthe,EXPL,32169,Labarthe,PIQUEMAL JACQUES,504805.0,6266820.0,0,Ouvrage fonctionnant au fil de l'eau,0.073,359858.0,,,,,,,
+32234001,Centrale de Marestaing,HORS,32234,Marestaing,S.I.A.E.P. DE LA REGION DE MONFERRAN-SAVES ET COLOGNE,540509.0,6277530.0,0,,,,,,,,,,3.0
+32256001,Moulin du Régis,EXPL,32256,Mirande,COMPAGNIE ELECTRIQUE DES PYRENEES,490532.0,6272350.0,0,Ouvrage fonctionnant au fil de l'eau,0.138,398957.0,,,,,,,
+32283001,Moulin de Montégut sur Arros,EXPL,32283,Montégut-Arros,HOOGEBOOM JOHANNES PETRUS,473823.0,6258770.0,0,Ouvrage fonctionnant au fil de l'eau,,,,,,,Fondée en titre,,2.08
+32302001,Moulin d'Ornezan,EXPL,32302,Ornézan,LABOURDERE DELAS JOSETTE,506181.0,6270980.0,0,Ouvrage fonctionnant au fil de l'eau,,334733.0,,,,,,,3.5
+32319001,Moulin du Tillet,EXPL,32319,Plaisance,DES DEUX TOURS,460824.0,6285180.0,0,Ouvrage fonctionnant au fil de l'eau,0.188,,6.2,,,,Autorisée,,3.1
+32347001,Moulin de Roquefort,EXPL,32347,Roquefort,LE MOULIN DE ROQUEFORT,507608.0,6298300.0,0,Ouvrage fonctionnant au fil de l'eau,0.13,460062.0,,,,,,,
+32382001,Centrale du Moulin (Gers),EXPL,32382,Saint-Jean-Poutge,SPEM,488881.0,6294970.0,0,Ouvrage fonctionnant au fil de l'eau,,629193.0,,,,,,,3.6
+32383001,Moulin de Samazan,EXPL,32383,Saint-Justin,ARROS ENERGIE,468435.0,6270650.0,0,Ouvrage fonctionnant au fil de l'eau,,536994.0,,,,,,,4.5
+32410001,Usine de Barcelonne du Gers,HORS,32410,Samatan,JUCLA CAMILLE,532839.0,6268280.0,5,,,,,,,,,,
+32425001,Usine de Ségoufielle,HORS,32425,Ségoufielle,DELIEUX LOUIS,548471.0,6284120.0,0,Ouvrage fonctionnant au fil de l'eau,0.2,,,,,,,,
+32439001,Moulin de Tarsac (Ancienne minoterie),EXPL,32439,Tarsac,DES DEUX TOURS,448798.0,6290420.0,0,Ouvrage fonctionnant au fil de l'eau,0.085,,3.3,,1.0,Francis,Autorisée et fondée en titre,2043-07-05,2.62
+32459001,Centrale de Flaran,EXPL,32459,Valence-sur-Baïse,HEPSO,489088.0,6313730.0,0,Ouvrage fonctionnant au fil de l'eau,0.24,535848.0,,,,,Autorisée,2014-12-17,3.5
+32459002,Moulin de Camarade,EXPL,32459,Valence-sur-Baïse,AU MOULIN DE CAMARADE,488904.0,6311200.0,0,Ouvrage fonctionnant au fil de l'eau,0.24,,,,,,,,3.5
+32464001,Moulin de Villecomtal,EXPL,32464,Villecomtal-sur-Arros,SCI DE L'EAU DE L'ARROS,472953.0,6259770.0,0,Ouvrage fonctionnant au fil de l'eau,,265403.0,,,,,,,4.0
+33001001,ABZAC,HORS,33001,Abzac,ELECTRICITE DE FRANCE,453909.0,6440350.0,0,Ouvrage fonctionnant au fil de l'eau,0.584,,36.0,,4.0,Kaplan,Autorisée,1919-10-16,2.3
+33001002,Centrale du Penot,EXPL,33001,Abzac,SOCIETE CHARENTAISE DE REPARATIONS ET D'EXPLOITATION HYDRAULIQUE,456229.0,6439870.0,0,Ouvrage fonctionnant au fil de l'eau,,922589.0,,,,,,,1.9
+33124001,Barrage de Monfourat,EXPL,33124,Chamadelle,E.U.R.L. HYDROELECTRIQUE DU MONFOURAT,458748.0,6447500.0,0,Ouvrage fonctionnant au fil de l'eau,,99213.0,,,,,,,2.5
+33138001,Barrage de Lapouyade,EXPL,33138,Coutras,HUILERIE G I D,457867.0,6440270.0,0,Ouvrage fonctionnant au fil de l'eau,0.485,1620067.0,,,,,,,1.83
+33307001,Moulin de Castaing,HORS,33307,Noaillan,THOMAS JEAN,431823.0,6383500.0,0,,,,,,,,,,
+33307002,Moulin de Castaing,EXPL,33307,Noaillan,S.A.R.L. LE MOULIN DE CASTAING,431777.0,6383500.0,0,Ouvrage fonctionnant au fil de l'eau,0.32,1053800.0,,,,,Fondée en titre,,3.7
+33332001,Moulin de Camps,EXPL,33332,Porchères,MOULIN DE CAMPS,461930.0,6440050.0,0,Ouvrage fonctionnant au fil de l'eau,0.315,1005320.0,,,,,,,1.79
+33362001,Barrage de Laubardemont,EXPL,33362,Sablons,SHE 33,452222.0,6442230.0,0,Ouvrage fonctionnant au fil de l'eau,0.507,1266394.0,,,,,,,1.95
+33537001,LA TRAVE,EXPL,33537,Uzeste,SOC HYDRAULIQUE ETUDES MISSIONS ASSIST,433980.0,6373590.0,0,Ouvrage fonctionnant au fil de l'eau,0.545,634352.0,10.4,,2.0,Francis,Concédée (autorisable),2001-01-01,5.5
+34271001,MONTAHUT,EXPL,34271,Saint-Julien,ELECTRICITE DE FRANCE,694744.0,6274790.0,0,Ouvrage de type Lac,97.8,103759504.0,19.8,"1,380000",2.0,Pelton,Concédée,2031-12-31,621.5
+40001001,Centrale de la Saligue,EXPL,40001,Aire-sur-l'Adour,BGE,438266.0,6293180.0,0,Ouvrage fonctionnant au fil de l'eau,1.32,2471413.0,,,,,,,3.85
+40077001,Centrale de Cauneille,EXPL,40077,Cauneille,SOCIETE LA MOULINE,368998.0,6280060.0,0,Ouvrage fonctionnant au fil de l'eau,,159818.0,,,,,,,
+40208001,Centrale d'Onard,EXPL,40208,Onard,SOCIETE HYDRO-ELECTRIQUE DE L'ADOUR,392357.0,6305450.0,0,Ouvrage fonctionnant au fil de l'eau,0.485,943901.0,25.0,,,,,,1.97
+40275001,Centrale de St Maurice,EXPL,40275,Saint-Maurice-sur-Adour,SOC HYDRO ELECTRIQUE DU SUD OUEST,422073.0,6304530.0,0,Ouvrage fonctionnant au fil de l'eau,1.117,5004821.0,,,,,,,5.25
+40306001,Centrale de Sorde l'Abbaye,EXPL,40306,Sorde-l'Abbaye,CENTRELEC,372154.0,6278370.0,0,Ouvrage fonctionnant au fil de l'eau,0.4,2521430.0,17.0,,1.0,Francis,,,3.7
+46001001,ALBAS,EXPL,46001,Albas,SOC HYDRAULIQUE ETUDES MISSIONS ASSIST,559504.0,6376530.0,0,Ouvrage fonctionnant au fil de l'eau,2.27,5478439.0,75.0,,5.0,Kaplan horizont. & bulbe à pâles mobiles,Concédée (autorisable),2041-12-31,3.4
+46007001,ST GERY,EXPL,46007,Arcambal,SOCIETE HYDRO ELECTRIQUE DU MIDI,586794.0,6376130.0,0,Ouvrage fonctionnant au fil de l'eau,2.2,5859264.0,63.0,,3.0,Kaplan,Concédée,2027-12-31,2.7
+46007002,Centrale de la Galessie,EXPL,46007,Arcambal,BRANGER VERGNAUD ET COMPAGNIE,582768.0,6374960.0,0,Ouvrage fonctionnant au fil de l'eau,1.117,4809043.0,,,,,Concédée (autorisable),,2.3
+46040001,Moulin de Cabrerets,EXPL,46040,Cabrerets,HYDRO CELE SAULIAC,593110.0,6379270.0,0,Ouvrage fonctionnant au fil de l'eau,0.25,820674.0,16.0,,,,Autorisée et fondée en titre,2027-06-27,2.5
+46042001,Centrale de Valentre,EXPL,46042,Cahors,S.C.S. MOULIN DU PERIE,575182.0,6373230.0,0,Ouvrage fonctionnant au fil de l'eau,1.606,5258693.0,63.0,,,,Autorisée et fondée en titre,2056-06-11,2.6
+46045001,CAJARC,EXPL,46045,Cajarc,ELECTRICITE DE FRANCE,607090.0,6375970.0,0,Ouvrage fonctionnant au fil de l'eau,8.5,30804468.0,165.0,"0,020000",3.0,Kaplan,Concédée,2022-12-31,9.0
+46049001,Calvignac 1,EXPL,46049,Calvignac,ETABLISSEMENTS ROQUES FRERES,602954.0,6375370.0,0,Ouvrage fonctionnant au fil de l'eau,0.34,1645763.0,,,,,,,2.57
+46049002,Calvignac 2,EXPL,46049,Calvignac,ETABLISSEMENTS ROQUES FRERES,602583.0,6375470.0,0,Ouvrage fonctionnant au fil de l'eau,0.25,779859.0,,,,,,,2.57
+46049003,Calvignac 3,EXPL,46049,Calvignac,LEM,602926.0,6375360.0,0,Ouvrage fonctionnant au fil de l'eau,0.731,1975773.0,29.0,,,,Autorisée,2024-07-11,2.57
+46055002,Moulin d'Assier,EXPL,46055,Capdenac,S.A. ASSIER,628351.0,6386860.0,0,Ouvrage fonctionnant au fil de l'eau,3.0,7602330.0,,,,,Autorisée,,3.0
+46055003,Usine de Capdenac Port,EXPL,46055,Capdenac,SOCIETE HYDRO ELECTRIQUE DU MIDI,626263.0,6386790.0,0,Ouvrage fonctionnant au fil de l'eau,4.5,12407682.0,90.0,,4.0,Kaplan,Concédée,2034-12-31,5.5
+46071001,LAVAL DE CERE 2,EXPL,46311,Sousceyrac-en-Quercy,ELECTRICITE DE FRANCE,617346.0,6428780.0,0,Ouvrage fonctionnant par éclusées,96.0,230737744.0,43.9,"0,610000",2.0,Francis,Concédée,2043-12-31,266.8
+46088001,Moulin de Cessac,EXPL,46088,Douelle,SOCIETE ANONYME DU MOULIN DE CESSAC,569790.0,6376480.0,0,Ouvrage fonctionnant au fil de l'eau,0.565,3281133.0,26.0,,,,Autorisée et fondée en titre,2039-12-15,2.2
+46116001,Frontenac 1,EXPL,46116,Frontenac,ETABLISSEMENTS ROQUES FRERES,618778.0,6382870.0,0,Ouvrage fonctionnant au fil de l'eau,0.48,3000296.0,,,,,,,2.97
+46116002,Frontenac 2,EXPL,46116,Frontenac,LEM,618761.0,6382860.0,0,Ouvrage fonctionnant au fil de l'eau,0.9,4390453.0,,,,,,,2.92
+46117001,BRUGALE,EXPL,46117,Gagnac-sur-Cère,ELECTRICITE DE FRANCE,614582.0,6427470.0,0,Ouvrage fonctionnant par éclusées,5.1,10833625.0,52.5,"0,022000",7.0,Kaplan horizont. & bulbe à pâles mobiles,Concédée,2043-12-31,11.0
+46117002,Moulin du Port,EXPL,46117,Gagnac-sur-Cère,BESSE JEAN-FRANCOIS,611135.0,6427740.0,0,Ouvrage fonctionnant au fil de l'eau,,511959.0,,,,,,,1.8
+46117003,Centrale de Grenerie,EXPL,46117,Gagnac-sur-Cère,SAS CLP,612247.0,6428340.0,0,Ouvrage fonctionnant au fil de l'eau,,1037058.0,,,,,Fondée en titre,,1.7
+46159001,Centrale du Cayla,EXPL,46159,Latouille-Lentillac,STE EXPLOIT HYDRO-ELECTRIQUE GASTON,619193.5,6418034.5,0,Ouvrage fonctionnant au fil de l'eau,1.6,6130624.0,4.0,,,,Concédée (autorisable),,199.7
+46163001,Centrale de St Saury,EXPL,46163,Laval-de-Cère,SOCIETE HYDRO ELECTRIQUE BESSE,613129.0,6428760.0,0,Ouvrage fonctionnant au fil de l'eau,,1715160.0,,,,,,,2.7
+46177001,Moulin de Vailles,EXPL,46177,Loubressac,MAILLOT BRUNO,607030.0,6420690.0,0,Ouvrage fonctionnant au fil de l'eau,0.072,2708.0,,,,,,,2.1
+46182001,LUZECH,EXPL,46182,Luzech,ELECTRICITE DE FRANCE,563629.0,6377220.0,0,Ouvrage fonctionnant au fil de l'eau,15.8,61118216.0,210.0,"0,026000",3.0,Kaplan,Concédée,2027-12-31,11.4
+46183001,MOULIN DE LA MERLIE,EXPL,46299,Sauliac-sur-Célé,HYDRO CELE SAULIAC,600424.0,6382390.0,0,Ouvrage fonctionnant au fil de l'eau,0.258,362713.0,,,,,,,2.2
+46183002,MOULIN DE MARCILHAC,EXPL,46183,Marcilhac-sur-Célé,SARL THAMIE & FILS,602485.0,6384460.0,0,Ouvrage fonctionnant au fil de l'eau,0.112,447961.0,,,,,,,2.2
+46191001,MERCUES 2,HORS,46191,Mercuès,ELECTRICITE DE FRANCE,571469.0,6378020.0,0,Ouvrage fonctionnant au fil de l'eau,0.8,3200000.0,20.0,,6.0,Kaplan horizont. & bulbe à pâles mobiles,Concédée,2035-12-31,3.55
+46191002,MERCUES 1,EXPL,46191,Mercuès,SOC HYDRAULIQUE ETUDES MISSIONS ASSIST,572167.0,6378620.0,0,Ouvrage fonctionnant au fil de l'eau,1.7,6907858.0,50.0,,6.0,Kaplan horizont. & bulbe à pâles mobiles,Concédée (autorisable),2035-12-31,3.55
+46198001,MONTBRUN,EXPL,46198,Montbrun,SOCIETE HYDRO ELECTRIQUE DU MIDI,613099.0,6378410.0,0,Ouvrage fonctionnant au fil de l'eau,2.6,6355073.0,70.0,,2.0,Kaplan,Concédée,2025-04-26,3.7
+46225001,MEYMES,EXPL,46225,Prayssac,SOCIETE HYDRO ELECTRIQUE DU MIDI,554789.0,6379870.0,0,Ouvrage fonctionnant au fil de l'eau,3.9,16045935.0,110.0,,3.0,Kaplan,Concédée,2003-01-01,3.7
+46225002,Centrale de Floiras,EXPL,46225,Prayssac,FLOIRAS ENERGIE ET COMPAGNIE,556530.0,6376060.0,0,Ouvrage fonctionnant au fil de l'eau,2.0,8352225.0,,,,,Concédée (autorisable),,3.4
+46231001,Centrale du Vieux Moulin,EXPL,46231,Puy-l'Évêque,SOCIETE D'EXPLOITATION HYDROELECTRIQUE DU MASSIF CENTRAL,551517.0,6380240.0,0,Ouvrage fonctionnant au fil de l'eau,,9717459.0,,,,,,,3.44
+46231002,Moulin de Grimard,EXPL,46231,Puy-l'Évêque,PRODUCTIONS DECREMPS,549950.0,6380680.0,0,Ouvrage fonctionnant au fil de l'eau,1.3,4826066.0,,,,,,,2.0
+46276001,Centrale de St Martin Labouval,EXPL,46276,Saint-Martin-Labouval,LESPIAU ET COMPAGNIE,597440.0,6374700.0,0,Ouvrage fonctionnant au fil de l'eau,1.24,6254573.0,40.0,,,,Concédée (autorisable),2026-12-31,3.0
+46286001,MARTINET,HORS,46286,Saint-Paul-de-Vern,ELECTRICITE DE FRANCE,616998.0,6418170.0,0,Ouvrage fonctionnant au fil de l'eau,0.228,,3.6,,2.0,Kaplan,,,6.0
+48195001,Centrale des Vignes,EXPL,48094,Massegros Causses Gorges,S.N.C. DU CAUSSE,718271.0,6353350.0,0,Ouvrage fonctionnant au fil de l'eau,0.458,1459115.0,,,,,,,2.7
+46315001,Centrale de Manaval,EXPL,46315,Teyssieu,SOCIETE ELECTRIQUE DE MANAVAL,617932.0,6423060.0,0,Ouvrage fonctionnant au fil de l'eau,0.495,682757.0,0.9,,,,Autorisée,2041-10-04,60.0
+46321001,Centrale de Touzac,EXPL,46321,Touzac,SOCIETE D'ELECTRICITE DE GUYENNE ET GASCOGNE,544991.0,6379760.0,0,Ouvrage fonctionnant au fil de l'eau,1.89,4526989.0,70.0,,,,Concédée (autorisable),,2.75
+47004001,Moulin St Joseph,EXPL,47004,Aiguillon,SOCIETE HYDROELECTRIQUE DU MOULIN ST JOSEPH,488289.0,6359830.0,0,Ouvrage fonctionnant au fil de l'eau,1.2,4042693.0,,,,,,,2.9
+47004002,Moulin de Pelagat,EXPL,47004,Aiguillon,SOCIETE D'ETUDE ET D'EXPLOITATIONS HYDRAULIQUES ET ELECTRIQUES,488156.0,6359970.0,0,Ouvrage fonctionnant au fil de l'eau,0.25,1968154.0,,,,,,,2.6
+47043001,Centrale de La Cellulose de Buzet,EXPL,47043,Buzet-sur-Baïse,HYDROFAB,484916.0,6355020.0,0,Ouvrage fonctionnant au fil de l'eau,0.35,652050.0,13.0,,,,Autorisée,,2.76
+47065001,Centrale de Clairac,EXPL,47065,Clairac,SOCIETE D'ELECTRICITE DE GUYENNE ET GASCOGNE,490954.0,6365510.0,0,Ouvrage fonctionnant au fil de l'eau,1.98,5883499.0,87.0,,,,Concédée (autorisable),,2.5
+47106001,Centrale de Fumel,EXPL,47106,Fumel,FUMEL ENERGIE,537987.0,6378940.0,0,Ouvrage fonctionnant au fil de l'eau,18.6,25157392.0,,,,,Concédée,,7.5
+47143001,Moulin de Lavardac,EXPL,47143,Lavardac,SOC HYDRO ELECTRIQUE D'ALBRET,484164.0,6346250.0,0,Ouvrage fonctionnant au fil de l'eau,,,,,,,,,
+47145001,Moulin de Layrac,EXPL,47145,Layrac,S.A.R.L. LAYRAC ENERGIE,512605.0,6335520.0,0,Ouvrage fonctionnant au fil de l'eau,,389267.0,8.5,,2.0,Francis,,,3.5
+47174001,Moulin de Vialere,EXPL,47174,Moncrabeau,DEGRAEVE HENDRIK KAREL LUK,489927.0,6331150.0,0,Ouvrage fonctionnant au fil de l'eau,,626741.0,,,,,,,2.78
+47283001,Moulin de St Vite,EXPL,47283,Saint-Vite,LE MOULIN DE SAINT-VITE,536116.0,6377270.0,0,Ouvrage fonctionnant au fil de l'eau,,1547553.0,,,,,,,2.73
+47306001,TEMPLE,EXPL,47306,Le Temple-sur-Lot,ELECTRICITE DE FRANCE,500674.0,6369030.0,0,Ouvrage fonctionnant au fil de l'eau,19.7,65786480.0,294.0,"0,024000",3.0,Kaplan,Concédée,2030-12-31,10.7
+47318001,Moulin de Vianne,EXPL,47318,Vianne,HYDRO ENERGIE,485976.0,6347710.0,0,Ouvrage fonctionnant au fil de l'eau,0.29,435675.0,,,,,,,2.44
+47323001,VILLENEUVE SUR LOT,EXPL,47323,Villeneuve-sur-Lot,ELECTRICITE DE FRANCE,518634.0,6369670.0,0,Ouvrage fonctionnant au fil de l'eau,28.9,93856680.0,280.0,"0,030000",2.0,Kaplan horizont. & bulbe à pâles mobiles,Concédée,2043-12-31,13.0
+48001001,Centrale de Vergne,EXPL,48001,Albaret-le-Comtal,ARCELORMITTAL MEDITERRANEE,708224.0,6418830.0,0,Ouvrage fonctionnant au fil de l'eau,17.995,36572056.0,,,,,Concédée,,144.0
+48016001,Le Villaret (Lot),HORS,48016,Balsièges,ENGELVIN TP RESEAUX,735279.0,6375750.0,0,Ouvrage fonctionnant au fil de l'eau,0.206,,,,,,,,1.75
+48022001,Centrale de La Vernede,EXPL,48050,Bédouès-Cocurès,SOCIETE ELECTRIQUE DE LA VERNEDE,752463.0,6361950.0,0,Ouvrage fonctionnant au fil de l'eau,1.483,3384831.0,4.5,,,,,,33.6
+48028001,Centrale de Ruas,EXPL,48028,Les Bondons,RUAS ELECTRICITE,752955.0,6364190.0,0,Ouvrage fonctionnant au fil de l'eau,0.65,1142364.0,0.472,,,,,,135.0
+48037001,Centrale de Chadenet,EXPL,48037,Chadenet,SOCIETE DES CENTRALES DU LAC GLACE,749095.0,6380750.0,0,Ouvrage fonctionnant au fil de l'eau,0.8,1741225.0,1.0,,,,,,82.0
+48049002,Le moulin du Villaret,EXPL,48099,Bourgs sur Colagne,LES CHUTES DU VILLARET,720468.0,6381150.0,0,Ouvrage fonctionnant au fil de l'eau,0.044,185594.0,,,,,,,7.5
+48073001,Centrale du Pont des Moulins,EXPL,48073,Les Hermaux,GASTON JEAN-PAUL ET YVETTE,711714.0,6375020.0,0,Ouvrage fonctionnant au fil de l'eau,0.441,1450298.0,,,,,,,32.0
+48073002,Centrale de Tronquettes,EXPL,48073,Les Hermaux,CENTRALE DES TRONQUETTES,712216.0,6376680.0,0,Ouvrage fonctionnant au fil de l'eau,1.342,1979663.0,,,,,,,113.0
+48088001,La Malène,EXPL,48088,La Malène,AU MOULIN DE LA MALENE,725826.0,6356050.0,0,Ouvrage fonctionnant au fil de l'eau,0.161,340553.0,,,,,,,2.2
+48090001,Centrale du Ranc,EXPL,48090,Le Malzieu-Ville,ARCELORMITTAL MEDITERRANEE,725338.0,6418300.0,0,Ouvrage fonctionnant au fil de l'eau,1.5,5169717.0,,,,,,,19.0
+48095001,Sirvens,EXPL,48095,Mende,ENGELVIN JL ET B,741951.0,6381470.0,0,Ouvrage fonctionnant au fil de l'eau,0.383,343229.0,6.5,,1.0,,Autorisée,2034-09-21,6.0
+48111001,Centrale d'Eygas,EXPL,48111,Pelouse,COMMUNE DE PELOUSE,749487.0,6383660.0,0,Ouvrage fonctionnant au fil de l'eau,0.464,1122302.0,,,,,,,86.0
+48111002,Varennes,EXPL,48111,Pelouse,CENTRALE DE LA MAUREILLE,746378.0,6383710.0,0,Ouvrage fonctionnant au fil de l'eau,0.158,280060.0,0.14,,,,,,115.5
+48116001,Gour de l'Oule,EXPL,48116,Pont de Montvert - Sud Mont Lozère,S.C.I. DU GOUR DE L'OULE,759404.0,6362920.0,0,Ouvrage fonctionnant au fil de l'eau,0.1,350000.0,0.44,,,,Autorisée,,18.0
+48128001,Pont de Basile,EXPL,48128,Rimeize,S.A.R.L. DU PRAT NAOU,727423.0,6408790.0,0,Ouvrage fonctionnant au fil de l'eau,0.361,598621.0,,,,,,,6.14
+48132001,Centrale des Faux,EXPL,48132,Saint-Alban-sur-Limagnole,FORCES MOTRICES DE LA LIMAGNOLE,733303.0,6411170.0,0,Ouvrage fonctionnant au fil de l'eau,0.13,584371.0,0.2,,,,,,65.0
+48133001,Centrale de Salhens,EXPL,48127,Monts-de-Randon,SOCIETE DES SALHENS,736827.0,6398600.0,0,Ouvrage fonctionnant au fil de l'eau,0.485,2205692.0,,,,,,,102.0
+48145001,Centrale du Crouzet,EXPL,48145,Saint-Denis-en-Margeride,HUGONNET SARL,735316.2,6403356.0,0,Ouvrage fonctionnant au fil de l'eau,0.3,718703.0,,,,,,,50.0
+48146001,Centrale de Prades,HORS,48146,Gorges du Tarn Causses,COMMUNE DE GORGES DU TARN CAUSSES,736302.0,6361470.0,0,Ouvrage fonctionnant au fil de l'eau,0.484,463664.0,,,,,Autorisée,,1.0
+48157001,St HELENE,EXPL,48157,Sainte-Hélène,SOC HYDRAULIQUE ETUDES MISSIONS ASSIST,748439.0,6380310.0,0,Ouvrage fonctionnant au fil de l'eau,0.6,2235911.0,1.8,,2.0,Hélice verticale,,2005-12-31,39.0
+48175001,Centrale de Nogaret,EXPL,48175,Saint-Pierre-de-Nogaret,GASTON,711574.0,6375750.0,0,Ouvrage fonctionnant au fil de l'eau,0.44,1095455.0,,,,,,,25.0
+48185001,Centrale des Salelles,EXPL,48185,Les Salelles,S.N.C. LES SALELLES,720459.0,6376870.0,0,Ouvrage fonctionnant au fil de l'eau,1.3,3108668.0,,,,,,,12.0
+63047001,LA BOURBOULE,EXPL,63047,La Bourboule,SOCIETE DE PRODUCTION ELECTRIQUE,678275.0,6499330.0,0,Ouvrage fonctionnant par éclusées,0.6,2076858.0,4.0,"0,042000",1.0,Francis,Autorisée,2034-10-16,20.0
+63397001,St SAUVES,EXPL,63397,Saint-Sauves-d'Auvergne,SOCIETE DE PRODUCTION ELECTRIQUE,676139.0,6500150.0,0,Ouvrage fonctionnant au fil de l'eau,0.3,510515.0,4.0,"0,021000",1.0,Francis double,Autorisée,2034-10-16,9.4
+64006001,LESCUN,EXPL,64006,Accous,ELECTRICITE DE FRANCE,405096.0,6211690.0,0,Ouvrage fonctionnant au fil de l'eau,14.6,66607000.0,7.2,"0,700000",2.0,Pelton,Concédée,2005-12-31,331.2
+64006002,EYGUN,EXPL,64006,Accous,ELECTRICITE DE FRANCE,405101.0,6211690.0,0,Ouvrage fonctionnant au fil de l'eau,10.5,47321312.0,5.2,"0,410000",2.0,Pelton,Concédée,2005-12-31,203.0
+64008001,Centrale d'Eromateguy,EXPL,64008,Ahaxe-Alciette-Bascassan,CARRIERES ET TRAVAUX DE NAVARRE,359719.0,6236740.0,0,Ouvrage fonctionnant au fil de l'eau,,891258.0,,,,,,,11.38
+64058001,Centrale d'Arthez d'Asson,EXPL,64058,Arthez-d'Asson,SOCIETE HYDRO ELECTRIQUE DU MIDI,435173.0,6226400.0,0,Ouvrage fonctionnant au fil de l'eau,1.47,2634384.0,,,,,Concédée (autorisable),,15.0
+64062001,Caü Amont,EXPL,64062,Arudy,LAPRADE ENERGIE S.A.S,419952.0,6229290.0,0,Ouvrage fonctionnant au fil de l'eau,2.126,6465093.0,22.0,,4.0,Hélice horizontale,Autorisée,2034-12-31,9.3
+64062002,Caü Aval,EXPL,64062,Arudy,FILATURE D'OSSAU,419664.0,6229230.0,0,Ouvrage fonctionnant au fil de l'eau,1.4,5755733.0,15.0,,2.0,Francis,Autorisée,2034-12-31,9.6
+64062003,Centrale des Tanneries,EXPL,64062,Arudy,CENTRALES D'ARUDY,421619.0,6229630.0,0,Ouvrage fonctionnant au fil de l'eau,0.201,2823238.0,7.2,,1.0,Kaplan,,,6.5
+64062004,Centrale du stade (amont),EXPL,64062,Arudy,CENTRALES D'ARUDY,421053.0,6228930.0,0,Ouvrage fonctionnant au fil de l'eau,0.201,,7.2,,1.0,Kaplan,,,3.7
+64064001,ASASP,EXPL,64064,Asasp-Arros,ELECTRICITE DE FRANCE,404862.0,6230080.0,0,Ouvrage fonctionnant au fil de l'eau,24.5,101208376.0,31.0,"0,250000",2.0,Francis,Concédée,2036-12-31,113.0
+64069001,ASTE BEON,EXPL,64069,Aste-Béon,SOCIETE HYDRO ELECTRIQUE DU MIDI,421169.78,6222744.0,0,Ouvrage fonctionnant au fil de l'eau,1.12,3749800.0,28.0,,2.0,Kaplan,,,4.0
+64082001,Moulin d'Auterrive,EXPL,64082,Auterrive,CHE AUTERIVE,376429.0,6271470.0,0,Ouvrage fonctionnant au fil de l'eau,0.5,884811.0,15.0,,1.0,Kaplan,,,4.2
+64085001,Centrale d'Aydius,EXPL,64085,Aydius,SOCIETE HYDROELECTRIQUE D'AYDIUS,411429.0,6217460.0,0,Ouvrage fonctionnant au fil de l'eau,3.248,,1.1,,1.0,Pelton,Autorisée,2025-06-20,301.0
+64087001,BAIGTS,EXPL,64087,Baigts-de-Béarn,ELECTRICITE DE FRANCE,389342.0,6275440.0,0,Ouvrage fonctionnant au fil de l'eau,7.0,34684812.0,90.0,"0,020000",3.0,Kaplan,Concédée,2042-12-31,10.5
+64087002,Centrale de Baigts (rive gauche ascenseur),EXPL,64087,Baigts-de-Béarn,ELECTRICITE DE FRANCE,389311.0,6275340.0,0,Ouvrage fonctionnant au fil de l'eau,0.905,,10.0,,1.0,Kaplan,,,9.2
+64092001,BANCA,EXPL,64092,Banca,ELECTRICITE DE FRANCE,342998.0,6234740.0,0,Ouvrage fonctionnant au fil de l'eau,3.0,13049125.0,4.5,"0,193000",3.0,Francis,Autorisée,1994-10-16,106.0
+64092002,Centrale des Anciennes Fonderies,EXPL,64092,Banca,SOCIETE SALMONICOLE CABILLON BANCA,343994.0,6235380.0,0,Ouvrage fonctionnant au fil de l'eau,,2269648.0,,,,,,,14.0
+64092003,Centrale Aira,EXPL,64092,Banca,SARL MINABERRY,343143.0,6234140.0,0,Ouvrage fonctionnant au fil de l'eau,,1157221.0,,,,,,,43.5
+64110001,Centrale de Listo,EXPL,64110,Béost,MOULIN DE LISTO,423534.0,6216350.0,0,Ouvrage fonctionnant au fil de l'eau,3.0,6894644.0,,,,,,,280.0
+64127001,CASTET,EXPL,64127,Bielle,SOCIETE HYDRO ELECTRIQUE DU MIDI,421317.0,6225640.0,0,Ouvrage fonctionnant par éclusées,1.84,6447110.0,28.0,"0,015000",2.0,Kaplan horizont. & bulbe à pâles mobiles,Concédée (autorisable),2012-12-31,6.5
+64127002,Centrale d'Aspeigt,EXPL,64127,Bielle,SARL DELORT SARTHOU,417437.0,6220020.0,0,Ouvrage fonctionnant au fil de l'eau,,1416866.0,,,,,,,261.0
+64127003,Centrale de Bourdiou,EXPL,64127,Bielle,SARL DELORT SARTHOU,417257.0,6220880.0,0,Ouvrage fonctionnant au fil de l'eau,,1522802.0,,,,,,,219.0
+64131001,Centrale de Biron Castetis,EXPL,64131,Biron,GOWATT,396782.0,6271140.0,0,Ouvrage fonctionnant au fil de l'eau,3.5,12349276.0,,,,,,,3.0
+64132001,Centrale du Coy,EXPL,64132,Bizanos,THEODORE HEID FILS FRERES ET COMPAGNIE,427565.5,6248783.0,0,Ouvrage fonctionnant au fil de l'eau,1.7,6661977.0,35.0,,,,Concédée (autorisable),,5.0
+64136001,BORCE,EXPL,64136,Borce,ELECTRICITE DE FRANCE,407533.0,6203680.0,0,Ouvrage fonctionnant au fil de l'eau,1.7,5330625.0,1.4,"0,295000",1.0,Francis,Concédée,1994-10-16,150.5
+64136002,FORGES d'ABEL,EXPL,64136,Borce,ELECTRICITE DE FRANCE,408448.0,6197420.0,0,Ouvrage fonctionnant par éclusées,5.8,13778000.0,4.5,"0,320000",1.0,Francis,Concédée,2044-12-31,161.3
+64136003,ESTAENS,EXPL,64136,Borce,ELECTRICITE DE FRANCE,407009.0,6197180.0,0,Ouvrage de type Lac,2.4,2286313.0,0.8,"0,930000",1.0,Pelton,,2013-12-31,482.6
+64136004,BARALET,EXPL,64136,Borce,ELECTRICITE DE FRANCE,408817.0,6204650.0,0,Ouvrage fonctionnant par éclusées,24.2,72388440.0,8.5,"0,740000",2.0,Francis double,Concédée,1994-10-16,330.1
+64157001,St CRICQ,EXPL,64157,Buzy,ELECTRICITE DE FRANCE,415979.0,6230980.0,0,Ouvrage fonctionnant au fil de l'eau,9.8,44463500.0,19.2,"0,146000",2.0,Francis,Concédée,2002-12-31,69.6
+64185001,Centrale de la Vallee d'Aspe,EXPL,64185,Cette-Eygun,SOCIETE HYDROELECTRIQUE DE LA VALLEE D'ASPE,407536.0,6210020.0,0,Ouvrage fonctionnant au fil de l'eau,2.561,7029192.0,0.473,,,,Autorisée,,462.0
+64187001,Centrale de Charritte de Bas,EXPL,64187,Charritte-de-Bas,ENERGIE HYDROELECTRIQUE DE CHARRITTE,385628.0,6251420.0,0,Ouvrage fonctionnant au fil de l'eau,,2120482.0,,,,,,,5.0
+64188001,Centrale de Barragary,EXPL,64188,Chéraute,ETABLISSEMENTS BEGUERIE,385402.0,6245590.0,0,Ouvrage fonctionnant au fil de l'eau,,1636427.0,,,,,Autorisée,,4.18
+81018002,ARTHES,HORS,81018,Arthès,ELECTRICITE DE FRANCE,637875.0,6318640.0,5,,,,,,,,,,
+64191001,Usine hydroélectrique de Coarraze,EXPL,64191,Coarraze,S.N.C. TOURNIER,436862.0,6235590.0,0,Ouvrage fonctionnant au fil de l'eau,0.32,1658400.0,,,,,,,3.4
+64201001,Dognen,EXPL,64201,Dognen,S.A.R.L. CHEDD,396230.0,6250000.0,0,Ouvrage fonctionnant au fil de l'eau,0.812,3257067.0,19.0,,1.0,Kaplan,,,3.2
+64204001,ASSOUSTE,EXPL,64204,Eaux-Bonnes,SOCIETE HYDRO ELECTRIQUE DU MIDI,422309.0,6214500.0,0,Ouvrage fonctionnant au fil de l'eau,1.8,4511681.0,3.1,,1.0,Francis,Concédée (autorisable),,58.0
+64204002,EAUX BONNES,EXPL,64204,Eaux-Bonnes,SOCIETE HYDRO ELECTRIQUE DU MIDI,423108.0,6214260.0,0,Ouvrage fonctionnant par éclusées,3.2,9727784.0,3.1,,1.0,Francis,Concédée,,122.0
+64204003,Centrale du Pont du Goua,EXPL,64204,Eaux-Bonnes,SARL TRIBOULY,426829.0,6212950.0,0,Ouvrage fonctionnant au fil de l'eau,,1558051.0,,,,,,,78.88
+64247001,Centrale de Libarrenx,EXPL,64247,Gotein-Libarrenx,ENERGIE HYDROELECTRIQUE DE SOULE,382723.0,6241780.0,0,Ouvrage fonctionnant au fil de l'eau,0.3,1302198.0,,,,,,,9.0
+64247002,Centrale de Gotein,EXPL,64247,Gotein-Libarrenx,SOC. HYDROELECTRIQUE DE GOTEIN,382619.0,6239050.0,0,Ouvrage fonctionnant au fil de l'eau,,998533.0,,,,,,,5.0
+64252001,Centrale de Gurmencon,EXPL,64252,Gurmençon,FORCES MOTRICES DE GURMENCON,407765.0,6234790.0,0,Ouvrage fonctionnant au fil de l'eau,2.63,8447763.0,26.0,,2.0,Francis double,Autorisée,2022-07-09,10.2
+64252002,SOEIX (groupe de restitution),EXPL,64252,Gurmençon,ELECTRICITE DE FRANCE,407907.0,6235610.0,0,Ouvrage fonctionnant au fil de l'eau,0.252,1300.0,3.45,"0,016000",1.0,Kaplan,Autorisée,2024-10-16,7.15
+64255001,HALSOU,EXPL,64255,Halsou,ELECTRICITE DE FRANCE,341219.0,6262850.0,0,Ouvrage fonctionnant au fil de l'eau,1.0,3436188.0,30.0,"0,008000",3.0,Francis,Autorisée,2003-12-31,6.8
+64270001,Centrale d'Igon,EXPL,64270,Igon,SEEMCO S.A.R.L.,436474.0,6234930.0,0,Ouvrage fonctionnant au fil de l'eau,0.16,900852.0,,,,,,,9.94
+64279001,ITXASSOU,EXPL,64279,Itxassou,ELECTRICITE DE FRANCE,343081.0,6257100.0,0,Ouvrage fonctionnant au fil de l'eau,0.7,1917250.0,22.0,"0,008000",2.0,Kaplan,Autorisée,1994-10-16,7.3
+64316001,OLHADOKO,EXPL,64316,Larrau,SOCIETE HYDRO ELECTRIQUE DU MIDI,379593.0,6220970.0,0,Ouvrage fonctionnant par éclusées,9.7,28183900.0,2.77,"1,020000",1.0,Pelton,Concédée,2036-01-01,427.4
+64320001,HOURAT,EXPL,64320,Laruns,SOCIETE HYDRO ELECTRIQUE DU MIDI,420191.0,6215400.0,0,Ouvrage fonctionnant par éclusées,49.5,144566416.0,23.0,"0,490000",2.0,Francis,Concédée,2012-12-31,212.26
+64320002,MIEGEBAT,EXPL,64320,Laruns,SOCIETE HYDRO ELECTRIQUE DU MIDI,418479.0,6209790.0,0,Ouvrage fonctionnant par éclusées,82.5,226671936.0,26.0,"0,880000",3.0,Pelton,Concédée,2012-12-31,398.5
+64320003,PONT DE CAMPS,EXPL,64320,Laruns,SOCIETE HYDRO ELECTRIQUE DU MIDI,422582.0,6202080.0,0,Ouvrage de type Lac,103.9,45340880.0,12.0,"1,640000",1.0,Pelton,Concédée,2012-12-31,739.65
+64320004,ARTOUSTE LAC,EXPL,64320,Laruns,SOCIETE HYDRO ELECTRIQUE DU MIDI,427272.0,6201620.0,0,Ouvrage de type Lac,3.8,659000.0,3.6,"0,135000",2.0,Francis,Concédée,2012-12-31,72.95
+64320005,ESPALUNGUE,EXPL,64320,Laruns,SOCIETE HYDRO ELECTRIQUE DU MIDI,421178.0,6215110.0,0,Ouvrage fonctionnant par éclusées,3.2,12377543.0,3.1,,1.0,Francis,Concédée,,106.2
+64320006,ARTOUSTE,EXPL,64320,Laruns,SOCIETE HYDRO ELECTRIQUE DU MIDI,421179.0,6204560.0,0,Ouvrage de type Lac,27.6,15176302.0,3.6,"1,640000",3.0,Pelton,Concédée,2012-12-31,763.84
+64320007,FABREGES,EXPL,64320,Laruns,SOCIETE HYDRO ELECTRIQUE DU MIDI,421204.0,6204510.0,0,Ouvrage de type Lac,9.7,25057536.0,9.0,"0,220000",1.0,Francis,Concédée,2012-12-31,109.0
+64320008,BIOUS,EXPL,64320,Laruns,SOCIETE HYDRO ELECTRIQUE DU MIDI,421153.0,6204530.0,0,Ouvrage de type Lac,11.0,37116712.0,4.0,"0,624000",1.0,Francis,Concédée,2012-12-31,276.25
+64320009,GETEU,EXPL,64320,Laruns,SOCIETE HYDRO ELECTRIQUE DU MIDI,420883.0,6218360.0,0,Ouvrage fonctionnant au fil de l'eau,12.7,29220394.0,26.0,"0,100000",2.0,Francis,Concédée,2012-12-31,50.74
+64330001,ESQUIT,EXPL,64330,Lées-Athas,ELECTRICITE DE FRANCE,405223.0,6213810.0,0,Ouvrage fonctionnant au fil de l'eau,5.88,20449312.0,15.0,"0,086000",3.0,Francis,Autorisée,1994-10-16,40.0
+64339001,Centrale de Lauture,EXPL,64339,Lestelle-Bétharram,DE LAUTURE SARL,439986.0,6229110.0,0,Ouvrage fonctionnant au fil de l'eau,,628884.0,,,,,Autorisée,,4.35
+64342001,LICQ ATHEREY,EXPL,64342,Licq-Athérey,SOCIETE HYDRO ELECTRIQUE DU MIDI,383244.0,6224210.0,0,Ouvrage fonctionnant par éclusées,8.75,38593512.0,8.0,"0,310000",2.0,Francis,Concédée,2069-12-31,143.68
+64342002,LARRAU,EXPL,64342,Licq-Athérey,SOCIETE HYDRO ELECTRIQUE DU MIDI,383198.0,6224260.0,0,Ouvrage fonctionnant au fil de l'eau,4.47,12340283.0,6.85,"0,146000",2.0,Francis,Autorisée,2061-12-31,66.55
+64342003,Moulin De Datto,EXPL,64342,Licq-Athérey,SOCIETE HYDRO ELECTRIQUE DU MIDI,384061.0,6226400.0,0,Ouvrage fonctionnant au fil de l'eau,0.5,878999.0,,,,,Autorisée,,5.2
+64351001,Centrale d'Issaux,EXPL,64351,Lourdios-Ichère,LABAY ENERGIE,399948.0,6222800.0,0,Ouvrage fonctionnant au fil de l'eau,1.27,4512863.0,,,,,,,162.0
+64353001,Ponsa,EXPL,64353,Louvie-Juzon,CENTRALE PONSA,421342.0,6226570.0,0,Ouvrage fonctionnant au fil de l'eau,0.265,1311762.0,8.65,,1.0,Kaplan,,,3.0
+64371001,Centrale de Mauleon,EXPL,64371,Mauléon-Licharre,ENERGIE HYDROELECTRIQUE DE SOULE,383887.0,6243370.0,0,Ouvrage fonctionnant au fil de l'eau,0.35,5343007.0,,,,,,,20.4
+64371002,Centrale de Gorre,EXPL,64371,Mauléon-Licharre,FORCES MOTRICES DU SAISON,384710.0,6244090.0,0,Ouvrage fonctionnant au fil de l'eau,1.27,1228642.0,,,,,,,3.3
+64386001,Centrale des Vignes (Mirepeix),EXPL,64386,Mirepeix,HYDRO LES VIGNES,435420.0,6238000.0,0,Ouvrage fonctionnant au fil de l'eau,0.65,4757279.0,,,,,,,9.0
+64386002,Usine de Mirepeix,EXPL,64386,Mirepeix,CHE MIREPEIX NAY,435402.0,6237370.0,0,Ouvrage fonctionnant au fil de l'eau,0.36,2441324.0,,,,,,,4.0
+64400001,Centrale Lacaze,EXPL,64400,Montaut,CAM HYDRO,438924.0,6231470.0,0,Ouvrage fonctionnant au fil de l'eau,0.43,3401556.0,,,,,,,10.18
+64400002,Centrale de Navarre,EXPL,64400,Montaut,CENTRALE NAVARRE,438789.0,6231480.0,0,Ouvrage fonctionnant au fil de l'eau,0.5,1762348.0,,,,,,,5.7
+64400003,Centrale de Montaut,EXPL,64400,Montaut,S.A. CALYPSO,439418.0,6229700.0,0,Ouvrage fonctionnant au fil de l'eau,2.5,11764708.0,,,,,,,6.4
+64409001,Centrale du Vert (centrale aval),EXPL,64409,Moumour,VERTELEC,402905.0,6242580.0,0,Ouvrage fonctionnant au fil de l'eau,0.215,850086.0,5.65,,2.0,Francis,,,5.2
+64409002,Centrale Moulin du Vert,EXPL,64409,Moumour,VERTELEC,402677.0,6242150.0,0,Ouvrage fonctionnant au fil de l'eau,0.26,1269890.0,4.0,,1.0,Kaplan,,,9.6
+64416001,Centrale de Masseys,EXPL,64416,Navarrenx,S.A.R.L. MASSEYS,394644.0,6254240.0,0,Ouvrage fonctionnant au fil de l'eau,1.005,2656979.0,21.0,,2.0,Kaplan,,,4.1
+64417001,Centrale de Nay,EXPL,64417,Nay,SOCIETE HYDRO ELECTRIQUE DU MIDI,435039.0,6236000.0,0,Ouvrage fonctionnant au fil de l'eau,0.36,1942298.0,,,,,,,3.4
+64417002,Centrale de SAMADET,EXPL,64145,Bourdettes,HYDRO LES VIGNES,434706.0,6237880.0,0,Ouvrage fonctionnant au fil de l'eau,0.17,974978.0,,,,,,,4.0
+64422001,SOEIX,EXPL,64422,Oloron-Sainte-Marie,ELECTRICITE DE FRANCE,407749.0,6235960.0,0,Ouvrage fonctionnant au fil de l'eau,2.4,8349500.0,34.8,"0,018000",2.0,Kaplan,Concédée,1994-10-16,9.0
+64422002,Ste MARIE,EXPL,64422,Oloron-Sainte-Marie,ELECTRICITE DE FRANCE,406463.0,6238810.0,0,Ouvrage fonctionnant au fil de l'eau,1.25,2167063.0,22.5,"0,008000",2.0,Kaplan,Autorisée,1994-10-16,4.8
+64422003,LEGUGNON,EXPL,64422,Oloron-Sainte-Marie,ELECTRICITE DE FRANCE,404542.0,6241170.0,0,Ouvrage fonctionnant au fil de l'eau,0.5,2583625.0,14.0,"0,010000",2.0,Francis double,Concédée,1999-12-31,5.0
+64422005,Usine hydroélectrique Dabadie,EXPL,64422,Oloron-Sainte-Marie,CENTRALE HYDROELECTRIQUE OSSAU OLORON,406976.0,6239130.0,0,Ouvrage fonctionnant au fil de l'eau,0.698,12121984.0,18.0,,1.0,Kaplan,Autorisée,2029-12-31,3.9
+64422006,Usine hydroélectrique d'Oloron Sainte Marie,EXPL,64422,Oloron-Sainte-Marie,S.A.R.L. POTTIER R. ET COMPAGNIE,406642.0,6239440.0,0,Ouvrage fonctionnant au fil de l'eau,0.329,1627988.0,8.0,,2.0,Francis,,,4.2
+64422007,Centrale de Lailhacar,EXPL,64422,Oloron-Sainte-Marie,LAILHACAR S.A.R.L.,407619.0,6238520.0,0,Ouvrage fonctionnant au fil de l'eau,0.99,3140134.0,21.0,,1.0,Kaplan,Autorisée,2055-07-05,4.8
+64422008,Centrale de Ste Claire,EXPL,64422,Oloron-Sainte-Marie,SARL DELORT SARTHOU,406616.0,6239340.0,0,Ouvrage fonctionnant au fil de l'eau,0.82,2810200.0,18.5,,2.0,Francis,,,5.0
+64422009,Centrale de Gays,EXPL,64551,Verdets,MOULIN DE GAYS,403001.0,6242760.0,0,Ouvrage fonctionnant au fil de l'eau,0.15,,7.8,,1.0,Kaplan,,,1.9
+64430001,CASTETARBES,EXPL,64430,Orthez,ELECTRICITE DE FRANCE,392738.0,6272800.0,0,Ouvrage fonctionnant au fil de l'eau,1.3,7858429.0,36.0,"0,010000",3.0,Francis,Autorisée,1994-10-16,8.2
+64430002,Usine d'Orthez,EXPL,64430,Orthez,SUO ENERGIE,394872.0,6272300.0,0,Ouvrage fonctionnant au fil de l'eau,4.2,9495792.0,,,,,,,4.8
+64443001,Centrale de Pardies,EXPL,64443,Pardies,SOCIETE HYDROELECTRIQUE ET IMMOBILIERE DU SUD,409246.0,6260700.0,0,Ouvrage fonctionnant au fil de l'eau,,20243046.0,,,,,,,5.85
+64445001,CENTRALE DU PONT D'ESPAGNE,EXPL,64445,Pau,CENTRALE DU PONT D'ESPAGNE,425203.0,6249730.0,0,Ouvrage fonctionnant au fil de l'eau,1.1,7668080.0,16.3,,,,Autorisée,,7.06
+64449001,Centrale Guerlain,EXPL,64449,Poey-d'Oloron,SOCIETE HYDROELECTRIQUE D'ENERGIE,401279.0,6246670.0,0,Ouvrage fonctionnant au fil de l'eau,1.24,5113497.0,80.0,,2.0,Kaplan,,,4.64
+64461001,PUYOO,EXPL,64461,Puyoô,ELECTRICITE DE FRANCE,383844.0,6276670.0,0,Ouvrage fonctionnant au fil de l'eau,0.7,3561375.0,23.3,"0,007000",3.0,Kaplan,Autorisée,1994-10-16,4.9
+64463001,Centrale Robert,EXPL,64463,Rébénacq,GONZALES MARIE THERESE CATHERINE,423890.94,6236285.0,0,Ouvrage fonctionnant au fil de l'eau,,1367740.0,,,,,,,10.0
+64475001,Ste ENGRACE,EXPL,64475,Sainte-Engrâce,SOCIETE HYDRO ELECTRIQUE DU MIDI,385968.0,6219230.0,0,Ouvrage fonctionnant par éclusées,1.04,3703344.0,10.0,"0,025000",1.0,Francis,Concédée,2069-12-31,13.0
+64475002,Laverna,EXPL,64475,Sainte-Engrâce,SOCIETE HYDRO ELECTRIQUE DU MIDI,390209.0,6216340.0,0,Ouvrage fonctionnant au fil de l'eau,3.9,10728411.0,,,,,,,530.5
+64477001,Centrale de Chantienia,EXPL,64477,Saint-Étienne-de-Baïgorry,INDARRA,348335.0,6243640.0,0,Ouvrage fonctionnant au fil de l'eau,0.25,796615.0,,,,,,,4.5
+64477002,Centrale de Laka,EXPL,64477,Saint-Étienne-de-Baïgorry,ITURBURUA HARIGNORDOQUY MARIE THERESE,344655.0,6237100.0,0,Ouvrage fonctionnant au fil de l'eau,0.13,605316.0,,,,,,,5.45
+64477003,Moulin d'Etchaux,EXPL,64477,Saint-Étienne-de-Baïgorry,SOCIETE HYDRO. DU MOULIN D'ETCHAUX,345891.0,6240090.0,0,Ouvrage fonctionnant au fil de l'eau,0.54,1304953.0,6.9,,,,,,8.0
+64485001,Usine de St Jean Pied de Port,EXPL,64485,Saint-Jean-Pied-de-Port,GALANT ENEKO,355176.0,6238540.0,0,Ouvrage fonctionnant au fil de l'eau,,485000.0,,,,,,,3.95
+64490001,Centrale de Berrhoko Eyherra,EXPL,64490,Saint-Martin-d'Arrossa,INDARRA,350296.0,6247560.0,0,Ouvrage fonctionnant au fil de l'eau,0.35,1393033.0,,,,,,,4.0
+64508001,Centrale de Saucède,EXPL,64508,Saucède,S.A.R.L. MICQ,400427.0,6247640.0,0,Ouvrage fonctionnant au fil de l'eau,0.25,1165709.0,9.0,,1.0,Kaplan,,,3.6
+64530001,Centrale de Susmiou,EXPL,64530,Susmiou,S.A.R.L. MASSEYS,394884.0,6253840.0,0,Ouvrage fonctionnant au fil de l'eau,0.5,,15.0,,1.0,Kaplan,Autorisée,,3.39
+64533001,Moulin Gameta,EXPL,64533,Tardets-Sorholus,LEGAUX MICHEL LUCIEN MARCEL,385751.0,6230910.0,0,Ouvrage fonctionnant au fil de l'eau,0.036,,1.5,,,,Autorisée,,3.5
+64537001,Centrale de Trois Villes,EXPL,64537,Trois-Villes,SOC. HYDROELECTRIQUE DE GOTEIN,384120.0,6232970.0,0,Ouvrage fonctionnant au fil de l'eau,,778233.0,,,,,,,5.0
+64547001,Moulin d'Arki,EXPL,64547,Ustaritz,SHEN - SOC HYDRO ELECTRIQUE DE LA NIVE,338819.0,6266370.0,0,Ouvrage fonctionnant au fil de l'eau,,1145354.0,,,,,,,2.2
+64547002,Moulin de Chopolo,EXPL,64547,Ustaritz,S.A.R.L. MOULIN DE CHOPOLO,339792.0,6264800.0,0,Ouvrage fonctionnant au fil de l'eau,,1599067.0,,,,,,,2.0
+65004001,AGOS VIDALOS,EXPL,65004,Agos-Vidalos,SOCIETE HYDRO ELECTRIQUE DU MIDI,449364.0,6219160.0,0,Ouvrage fonctionnant au fil de l'eau,1.36,4671043.0,34.0,,1.0,Kaplan,Autorisée,2065-12-31,4.07
+65017001,OULE,EXPL,65017,Aragnouet,SOCIETE HYDRO ELECTRIQUE DU MIDI,471219.0,6195750.0,0,Ouvrage de type Lac,1.76,2703151.0,5.1,,1.0,Francis,Concédée,1994-10-16,44.75
+65017002,FABIAN,EXPL,65017,Aragnouet,ELECTRICITE DE FRANCE,473137.0,6191590.0,0,Ouvrage fonctionnant au fil de l'eau,18.4,51046124.0,8.0,"0,682000",2.0,Pelton,Concédée,2030-12-31,292.5
+65017003,EGET,EXPL,65017,Aragnouet,SOCIETE HYDRO ELECTRIQUE DU MIDI,475712.0,6191880.0,0,Ouvrage de type Lac,33.1,85394056.0,5.1,"1,730000",1.0,Pelton,Concédée,1994-10-16,749.69
+65017004,LES ECHARTS,EXPL,65017,Aragnouet,ELECTRICITE DE FRANCE,475687.0,6191850.0,0,Ouvrage fonctionnant au fil de l'eau,6.5,18848064.0,8.0,"0,225000",2.0,Francis,Concédée,2030-12-31,90.7
+65018001,Centrale d'Arbeost,EXPL,65018,Arbéost,SOC. AMENAGEMENT FORCES HYDROELECTRIQUES DE L'OUZOM A ARBEOST,431349.0,6215810.0,0,Ouvrage fonctionnant au fil de l'eau,2.295,11041924.0,0.9,,,,Concédée,,355.0
+65029001,NOUAUX,EXPL,65029,Arras-en-Lavedan,ELECTRICITE DE FRANCE,443349.0,6214310.0,0,Ouvrage fonctionnant au fil de l'eau,19.0,72993688.0,12.2,"0,439000",2.0,Francis,Concédée,2032-12-31,191.5
+65031001,BORDERES,EXPL,65031,Arreau,ELECTRICITE DE FRANCE,484561.0,6203610.0,0,Ouvrage fonctionnant au fil de l'eau,10.0,38208876.0,7.6,"0,345000",2.0,Francis,Concédée,1992-04-17,177.2
+65031002,Centrale d'Arreau,EXPL,65031,Arreau,MOUNIQ JEAN,484022.0,6204190.0,0,Ouvrage fonctionnant au fil de l'eau,0.48,2259799.0,,,,,,,4.5
+65032001,TUCOY,EXPL,65032,Arrens-Marsous,ELECTRICITE DE FRANCE,433638.0,6206620.0,0,Ouvrage de type Lac,11.1,33174564.0,5.5,"0,522000",1.0,Pelton,Concédée,2033-12-31,240.0
+65032002,PLAN DU TECH,EXPL,65032,Arrens-Marsous,ELECTRICITE DE FRANCE,433762.0,6206760.0,0,Ouvrage de type Lac,2.5,6055000.0,5.5,"0,107000",1.0,Francis double,Concédée,2004-12-31,53.5
+65032003,MIGOELOU Basse chute,EXPL,65032,Arrens-Marsous,ELECTRICITE DE FRANCE,432418.0,6204030.0,0,Ouvrage fonctionnant au fil de l'eau,0.26,845563.0,1.0,"0,090000",2.0,Pelton,Concédée,2033-12-31,37.0
+65032004,ARRENS,EXPL,65032,Arrens-Marsous,ELECTRICITE DE FRANCE,437023.0,6210620.0,0,Ouvrage fonctionnant par éclusées,24.5,72165376.0,10.7,"0,660000",2.0,Pelton,Concédée,2035-12-31,299.6
+65032005,MIGOELOU Haute Chute,EXPL,65032,Arrens-Marsous,ELECTRICITE DE FRANCE,432347.0,6204040.0,0,Ouvrage de type Lac,33.9,27762064.0,5.3,"1,710000",2.0,Pelton,Concédée,2033-12-31,780.5
+65045001,AUCUN,EXPL,65045,Aucun,ELECTRICITE DE FRANCE,439747.0,6212870.0,0,Ouvrage fonctionnant au fil de l'eau,6.1,19515000.0,12.1,"0,132000",2.0,Francis,Concédée,2031-12-31,69.5
+65059001,CHIROULET,EXPL,65059,Bagnères-de-Bigorre,ELECTRICITE DE FRANCE,462398.0,6211210.0,0,Ouvrage fonctionnant au fil de l'eau,2.0,8104438.0,1.6,"0,345000",2.0,Pelton,Autorisée,1994-10-16,216.9
+65059002,ARTIGUES Haute Chute,EXPL,65059,Bagnères-de-Bigorre,ELECTRICITE DE FRANCE,471516.0,6207150.0,0,Ouvrage de type Lac,21.4,12076563.0,3.3,"1,860000",2.0,Pelton,Concédée,2008-12-31,836.5
+65059003,ARTIGUES Basse Chute,EXPL,65059,Bagnères-de-Bigorre,ELECTRICITE DE FRANCE,471515.0,6207150.0,0,Ouvrage de type Lac,4.7,18496000.0,2.0,"0,750000",1.0,Pelton,Concédée,2008-12-31,352.7
+65059004,Centrale de Soulé,EXPL,65059,Bagnères-de-Bigorre,CENTRALE HYDROELECTRIQUE SOPYREL,467795.0,6223250.0,0,Ouvrage fonctionnant au fil de l'eau,0.145,961738.0,,,,,,,4.48
+65069001,Centrale de Bas-Mour,EXPL,65069,La Barthe-de-Neste,S.A.R.L. PONS ET FILS,486827.0,6222240.0,0,Ouvrage fonctionnant au fil de l'eau,0.948,2554600.0,11.05,,,,Autorisée,2052-03-07,9.0
+65075001,Centrale de Bazus,EXPL,65075,Bazus-Aure,S.A.R.L. HYDRO-ENERGIE,482637.0,6198670.0,0,Ouvrage fonctionnant au fil de l'eau,0.734,1311805.0,8.0,,,,Autorisée,2020-11-08,9.35
+65077001,LAC DES GAVES AMONT,EXPL,65077,Beaucens,SOCIETE HYDRO ELECTRIQUE DU MIDI,449306.0,6214030.0,0,Ouvrage fonctionnant au fil de l'eau,2.49,4863336.0,39.0,,1.0,Kaplan horizont. & bulbe à pâles mobiles,Autorisée,2067-12-31,6.5
+65078001,CAMPAN,EXPL,65078,Beaudéan,ELECTRICITE DE FRANCE,469331.0,6218430.0,0,Ouvrage fonctionnant au fil de l'eau,28.5,86242936.0,7.9,"0,948000",2.0,Pelton,Concédée,2029-12-13,415.8
+65078002,Centrale d'Ardalos,EXPL,65078,Beaudéan,SIVU DE L'AYA,463354.0,6212120.0,0,Ouvrage fonctionnant au fil de l'eau,1.138,3908053.0,,,,,,,290.0
+65078003,Centrale Moulin de Campan,EXPL,65123,Campan,L3L,469071.0,6218050.0,0,Ouvrage fonctionnant au fil de l'eau,0.138,,2.8,,,,Autorisée,,5.02
+65092001,BEYREDE,EXPL,65092,Beyrède-Jumet-Camous,ELECTRICITE DE FRANCE,486008.0,6209750.0,0,Ouvrage fonctionnant au fil de l'eau,9.5,45120124.0,25.0,"0,120000",2.0,Francis double,Concédée,1994-10-16,59.2
+65106001,Centrale de Bourisp,EXPL,65106,Bourisp,CIE GENERALE D'ENTREPRISES HYDROELECTRIQUES,482198.0,6195550.0,0,Ouvrage fonctionnant au fil de l'eau,2.0,8612192.0,1.0,,,,Autorisée,,270.0
+65108001,Centrale des Turons (Bours Bazet amont),EXPL,65108,Bours,HYDROCOP,463095.0,6245200.0,0,Ouvrage fonctionnant au fil de l'eau,,2042041.0,,,,,,,8.0
+65108002,Centrale de Pont de Bours (Bours Bazet aval),EXPL,65108,Bours,ADOUR ENERGIE,463141.0,6246400.0,0,Ouvrage fonctionnant au fil de l'eau,,2576599.0,,,,,,,8.7
+65116001,Centrale de Pene Taillade,EXPL,65116,Cadéac,SOC HYDRAULIQUE ETUDES MISSIONS ASSIST,483188.0,6202320.0,0,Ouvrage fonctionnant au fil de l'eau,0.877,2942275.0,12.7,,1.0,,Autorisée,2021-03-04,7.0
+65117001,St LARY,EXPL,65117,Cadeilhan-Trachère,ELECTRICITE DE FRANCE,480323.0,6194190.0,0,Ouvrage fonctionnant au fil de l'eau,21.0,79266376.0,14.0,"0,422000",2.0,Francis double,Concédée,1994-10-16,186.8
+65123001,GRIPP,EXPL,65123,Campan,ELECTRICITE DE FRANCE,472721.0,6208670.0,0,Ouvrage fonctionnant au fil de l'eau,5.4,16710063.0,4.1,"0,360000",2.0,Francis,Concédée,2036-12-31,160.2
+81204001,Ardorel,EXPL,81204,Payrin-Augmontel,JACQUES CROS ET COMPAGNIE,646374.0,6268710.0,0,Ouvrage fonctionnant au fil de l'eau,0.56,1395047.0,15.0,,2.0,Kaplan,,,4.2
+65127001,Centrale de la Baïse,EXPL,65127,Capvern,S.N.C. CENTRALE HYDROELECTRIQUE DE LA BAISE,483678.0,6227150.0,0,Ouvrage fonctionnant au fil de l'eau,0.386,2441188.0,0.85,,,,Autorisée,2039-05-21,60.0
+65138001,Centrale de Calypso,EXPL,65138,Cauterets,S.A. CALYPSO,447407.0,6207400.0,0,Ouvrage fonctionnant au fil de l'eau,3.3,19016154.0,,,,,,,70.0
+65138002,Centrale de Tournaro,EXPL,65138,Cauterets,EURL L.R.F.,445515.0,6204560.0,0,Ouvrage fonctionnant au fil de l'eau,0.25,1077197.0,,,,,,,6.0
+65141001,Centrale St Christeau,EXPL,65099,Bordères-Louron,S.A.R.L. SAINT CHRISTEAU,487960.0,6198630.0,0,Ouvrage fonctionnant au fil de l'eau,0.732,1460042.0,,,,,,,373.0
+65159001,Centrale du Moulin Marc,EXPL,65159,Escala,SARL HYDROMARC,489991.0,6223260.0,0,Ouvrage fonctionnant au fil de l'eau,0.525,955606.0,8.0,,,,Autorisée,,6.7
+65169001,Centrale d'Arrioussec,EXPL,65169,Estaing,S.I.V.O.M. DU LABAT DE BUN,437438.0,6205650.0,0,Ouvrage fonctionnant au fil de l'eau,1.05,3089638.0,0.36,,,,Autorisée,2012-05-18,315.0
+65173001,ESTERRE,EXPL,65173,Esterre,ELECTRICITE DE FRANCE,454903.0,6201980.0,0,Ouvrage fonctionnant au fil de l'eau,15.0,49954376.0,5.4,"0,770000",3.0,Pelton,Concédée,2011-12-31,367.1
+65177001,Moulin Lafitte,EXPL,65177,Fontrailles,E.U.R.L. DU MOULIN LAFFITTE,488688.0,6252890.0,0,Ouvrage fonctionnant au fil de l'eau,,559859.0,,,,,,,8.8
+65191001,Centrale de Palouma,EXPL,65191,Gazost,ENERGIE ELECTRIQUE DE PALOUMA,456881.0,6216790.0,0,Ouvrage fonctionnant au fil de l'eau,1.422,1852538.0,,,2.0,,Autorisée,2021-12-14,145.0
+65191002,Mortels (usine DETS INHERS Gazost),EXPL,65191,Gazost,SOCIETE DES FORCES HYDRAULIQUES DU NEES,455706.0,6218860.0,0,Ouvrage fonctionnant au fil de l'eau,3.2,6935806.0,,,,,,,138.0
+65192001,PRAGNERES RG,EXPL,65192,Gavarnie-Gèdre,ELECTRICITE DE FRANCE,455340.0,6195890.0,0,Ouvrage de type Lac,85.0,115216872.0,12.0,"1,990000",1.0,Pelton,Concédée,2036-12-31,929.1
+65192002,GEDRE,EXPL,65192,Gavarnie-Gèdre,ELECTRICITE DE FRANCE,455835.0,6191960.0,0,Ouvrage de type Lac,31.8,89499000.0,6.1,"1,460000",2.0,Pelton,Concédée,2042-12-31,656.5
+65192003,Centrale de Pont de Bert,EXPL,65192,Gavarnie-Gèdre,ETABLISSEMENTS RENE ESCANDE ET COMPAGNIE,455753.0,6191870.0,0,Ouvrage fonctionnant au fil de l'eau,2.41,16432529.0,,,,,Concédée (autorisable),,140.0
+65192004,PRAGNERES RD,EXPL,65192,Gavarnie-Gèdre,ELECTRICITE DE FRANCE,455340.0,6195890.0,0,Ouvrage de type Lac,185.0,89258000.0,19.0,"2,850000",2.0,Pelton,Concédée,,1255.0
+65195001,PONT D'ESTAGNOU,EXPL,65195,Génos,SOCIETE HYDRO ELECTRIQUE DU MIDI,487849.0,6193800.0,0,Ouvrage fonctionnant au fil de l'eau,0.76,2472885.0,4.8,,1.0,Francis,Autorisée,2057-12-31,16.4
+65195002,TRAMEZAYGUES CL,EXPL,65195,Génos,SOCIETE HYDRO ELECTRIQUE DU MIDI,487708.0,6186220.0,0,Ouvrage de type Lac,21.9,39413096.0,5.54,"0,500000",3.0,Pelton,Concédée,2004-12-31,460.0
+65195003,TRAMEZAYGUES LA PEZ,EXPL,65195,Génos,SOCIETE HYDRO ELECTRIQUE DU MIDI,487696.0,6186220.0,0,Ouvrage fonctionnant au fil de l'eau,6.0,12235798.0,1.98,"1,020000",2.0,Pelton,Concédée,2004-12-31,260.0
+65212001,GUCHEN,EXPL,65212,Guchen,ELECTRICITE DE FRANCE,481564.0,6199820.0,0,Ouvrage fonctionnant au fil de l'eau,5.7,15779938.0,1.5,"1,100000",2.0,Pelton,Concédée,2018-12-31,523.3
+65218001,Centrale de Rebouc,EXPL,65218,Hèches,CERBERE,485641.0,6214350.0,0,Ouvrage fonctionnant au fil de l'eau,1.0,2927030.0,,,,,,,4.8
+65218002,Micro Centrale de Heches,EXPL,65218,Hèches,DIET JEAN-PAUL,486106.0,6214870.0,0,Ouvrage fonctionnant au fil de l'eau,1.84,1177266.0,,,,,Concédée (autorisable),,3.8
+65267001,LAU BALAGNAS,EXPL,65267,Lau-Balagnas,ELECTRICITE DE FRANCE,447066.0,6215930.0,0,Ouvrage fonctionnant par éclusées,31.0,85403128.0,20.3,"0,423000",4.0,Francis,Concédée,2007-12-31,189.4
+65282001,AUBE,EXPL,65282,Loudenvielle,SOCIETE HYDRO ELECTRIQUE DU MIDI,488557.0,6189530.0,0,Ouvrage fonctionnant au fil de l'eau,2.19,4849593.0,0.8,"0,560000",1.0,Pelton,Autorisée,2060-12-31,279.5
+65282002,PONT DE PRAT,EXPL,65282,Loudenvielle,SOCIETE HYDRO ELECTRIQUE DU MIDI,487690.0,6186390.0,0,Ouvrage fonctionnant au fil de l'eau,0.8,1118607.0,5.0,"0,032000",1.0,Kaplan,Autorisée,2056-12-31,16.3
+65282003,LASSOULA,EXPL,65282,Loudenvielle,SOCIETE HYDRO ELECTRIQUE DU MIDI,488431.0,6183800.0,0,Ouvrage de type Lac,32.0,29828400.0,5.5,"1,040000",3.0,Pelton,Concédée,2004-12-31,486.0
+65282004,LOUDENVIELLE,EXPL,65282,Loudenvielle,ELECTRICITE DE FRANCE,487894.0,6190790.0,0,Ouvrage fonctionnant au fil de l'eau,7.8,30942188.0,4.5,"0,470000",2.0,Pelton,Concédée,1992-04-17,246.1
+65286001,Centrale des Oeuvres de la Grotte,EXPL,65286,Lourdes,ASSOCIATION DIOCESAINE DE TARBES  ET LOURDES,451488.0,6226950.0,0,Ouvrage fonctionnant au fil de l'eau,0.4,2581212.0,,,,,,,4.0
+65286002,Centrale de Vizens,EXPL,65286,Lourdes,COMPAGNIE DU FUNICULAIRE DU PIC DU GRAND JER DE LOURDES,449396.0,6226990.0,0,Ouvrage fonctionnant au fil de l'eau,1.463,3732938.0,,,3.0,,Autorisée,2036-07-02,3.73
+65286003,Centrale hydroélectrique Latour,EXPL,65286,Lourdes,COMPAGNIE DU FUNICULAIRE DU PIC DU GRAND JER DE LOURDES,451625.0,6225040.0,0,Ouvrage fonctionnant au fil de l'eau,,2562081.0,,,,,,,3.29
+65291001,Centrale de Marescot,EXPL,65291,Lugagnan,CENTRALE HYDROELECTRIQUE SOPYREL,452230.0,6223520.0,0,Ouvrage fonctionnant au fil de l'eau,0.138,573760.0,,,,,Autorisée et fondée en titre,,6.73
+65294001,Centrale de Lutilhous,EXPL,65294,Lutilhous,SOCIETE HYDRO-ELECTRIQUE DE CAPVERN LUTILHOUS,483183.0,6229150.0,0,Ouvrage fonctionnant au fil de l'eau,0.45,2551088.0,1.0,,,,Autorisée,2051-01-28,43.6
+65295001,LUZ 1,EXPL,65295,Luz-Saint-Sauveur,ELECTRICITE DE FRANCE,453594.0,6201430.0,0,Ouvrage fonctionnant au fil de l'eau,29.5,117240000.0,12.8,"0,650000",1.0,Francis,Concédée,2036-12-31,296.7
+65295003,Centrale de L'Yse,EXPL,65295,Luz-Saint-Sauveur,COMMUNE DE LUZ SAINT SAUVEUR MICROCENTRALE DE L'YSE,454976.0,6201290.0,0,Ouvrage fonctionnant au fil de l'eau,3.0,6801590.0,,,,,,,593.0
+65295004,Chute de Lasariou,EXPL,65295,Luz-Saint-Sauveur,SOCIETE HYDRO ELECTRIQUE DU LASARIOU,454010.0,6198340.0,0,Ouvrage fonctionnant au fil de l'eau,1.635,5042327.0,,,,,,,555.0
+65305001,MAULEON BAROUSSE,EXPL,65305,Mauléon-Barousse,SOCIETE HYDRO ELECTRIQUE DU MIDI,501337.0,6209080.0,0,Ouvrage fonctionnant au fil de l'eau,1.81,3121057.0,1.6,,1.0,Francis,Autorisée,2057-12-31,115.8
+65305002,Centrale de Mauleon Barousse,EXPL,65305,Mauléon-Barousse,PEDELABORDE GERARD,501566.0,6210200.0,0,Ouvrage fonctionnant au fil de l'eau,,,,,,,,,6.0
+65320001,Centrale de Montgaillard,EXPL,65320,Montgaillard,JACQUES TARRENE INVESTISSEMENTS,464248.0,6230080.0,0,Ouvrage fonctionnant au fil de l'eau,1.003,2963263.0,10.5,,,,Autorisée,2029-09-21,9.65
+65360001,PEYROUSE,EXPL,65360,Peyrouse,ELECTRICITE DE FRANCE,445304.0,6227340.0,0,Ouvrage fonctionnant au fil de l'eau,0.9,4625813.0,30.0,"0,008000",3.0,Francis,Autorisée,1994-12-31,5.0
+65362001,Centrale de Meyabat,EXPL,65138,Cauterets,SOCIETE ELECTRO-METALLURGIQUE DE MEYABAT,447664.0,6209190.0,0,Ouvrage fonctionnant au fil de l'eau,0.67,800933.0,,,,,,,29.0
+65371001,LAC DES GAVES AVAL,EXPL,65371,Préchac,SOCIETE HYDRO ELECTRIQUE DU MIDI,449004.0,6215100.0,0,Ouvrage fonctionnant au fil de l'eau,1.54,4607954.0,35.0,,1.0,Kaplan,Autorisée,2067-12-31,4.5
+65386001,Centrale de Saint-Créac,EXPL,65386,Saint-Créac,LLABARRENA PRODUCTION HYDROELECTRIQUE,453023.0,6222860.0,0,Ouvrage fonctionnant au fil de l'eau,0.149,,2.3,,1.0,Francis,Fondée en titre,,6.68
+65388001,MAISON BLANCHE,EXPL,65388,Saint-Lary-Soulan,ELECTRICITE DE FRANCE,478900.0,6191800.0,0,Ouvrage fonctionnant par éclusées,7.5,19399812.0,3.2,"0,647000",1.0,Pelton,Concédée,1994-10-16,301.0
+65389001,Usine hydroélectrique de St Laurent de Neste,EXPL,65389,Saint-Laurent-de-Neste,NESTE HYDRO ENERGIE,495094.0,6222520.0,0,Ouvrage fonctionnant au fil de l'eau,0.23,915988.0,5.0,,,,Autorisée,,4.5
+65395001,Usine du bout du pont,EXPL,65395,Saint-Pé-de-Bigorre,TEDELEC,442207.0,6227670.0,0,Ouvrage fonctionnant au fil de l'eau,0.67,4209427.0,30.0,,,,Autorisée,,3.7
+65399001,PONT DE LA REINE,EXPL,65399,Saligos,ELECTRICITE DE FRANCE,451942.0,6205540.0,0,Ouvrage fonctionnant au fil de l'eau,14.1,55920868.0,23.5,"0,174000",2.0,Francis,Concédée,2054-12-31,77.8
+65407001,Moulin de Sarp,EXPL,65407,Sarp,SODECIBA,503458.0,6215680.0,0,Ouvrage fonctionnant au fil de l'eau,0.222,187480.0,,,,,,,5.67
+65411001,St SAUVEUR,EXPL,65411,Sassis,ELECTRICITE DE FRANCE,453601.0,6201470.0,0,Ouvrage fonctionnant au fil de l'eau,2.8,7598438.0,6.35,"0,125000",1.0,Francis,Concédée,2041-12-31,67.8
+65411002,LUZ 2,EXPL,65411,Sassis,ELECTRICITE DE FRANCE,453582.0,6201450.0,0,Ouvrage fonctionnant par éclusées,41.2,91734688.0,22.8,"0,532000",2.0,Francis,Concédée,2036-12-31,235.9
+65433001,Centrale de Soues,EXPL,65433,Soues,S.A.R.L. CALAS,463876.0,6238530.0,0,Ouvrage fonctionnant au fil de l'eau,0.24,1206996.0,,,,,Fondée en titre,,6.5
+65435001,SOULOM BASSE CHUTE,EXPL,65435,Soulom,SOCIETE HYDRO ELECTRIQUE DU MIDI,449328.0,6210800.0,0,Ouvrage fonctionnant au fil de l'eau,30.1,110066728.0,31.55,"0,285000",4.0,Francis,Concédée,,124.7
+65435002,SOULOM HAUTE CHUTE,EXPL,65435,Soulom,SOCIETE HYDRO ELECTRIQUE DU MIDI,449328.0,6210800.0,0,Ouvrage fonctionnant au fil de l'eau,22.0,91445000.0,9.0,"0,622000",2.0,Francis,Concédée,,262.55
+65435003,SOULOM RESTITUTION,EXPL,65435,Soulom,SOCIETE HYDRO ELECTRIQUE DU MIDI,449596.0,6211230.0,0,Ouvrage fonctionnant au fil de l'eau,1.05,3270645.0,40.0,,2.0,Kaplan horizont. & bulbe à pâles mobiles,Concédée,,3.17
+65452001,Moulin Curie,EXPL,65452,Trie-sur-Baïse,S.E. MICRO CENTRALE CURIE,486831.0,6250150.0,0,Ouvrage fonctionnant au fil de l'eau,,510426.0,,,,,,,5.8
+65452003,Moulin de l'Escaladieu,HORS,65452,Trie-sur-Baïse,LACOSTE HELENE,486816.5,6249031.0,0,Ouvrage fonctionnant au fil de l'eau,0.136,447433.0,,,,,,,5.15
+65455001,Moulin de Coupas,EXPL,65455,Tuzaguet,EURL DU MOULIN DE COUPAS,491184.0,6222800.0,0,Ouvrage fonctionnant au fil de l'eau,0.48,,,,,,,,9.0
+65456001,Centrale Chute Uglas,EXPL,65456,Uglas,UGLAWATT,492054.0,6231020.0,0,Ouvrage fonctionnant au fil de l'eau,0.865,3491087.0,0.9,,,,Autorisée,2023-03-07,98.0
+65467001,Centrale de Marcas,EXPL,65467,Vier-Bordes,STE EXPL. D'ENERGIE HYDRO ELECTRIQUE CENTRALE DU PRADET-CENTRALE DU MARCAS,450796.0,6215320.0,0,Ouvrage fonctionnant au fil de l'eau,0.44,697894.0,,,,,,,192.0
+65467002,Centrale de Pradet,EXPL,65467,Vier-Bordes,STE EXPL. D'ENERGIE HYDRO ELECTRIQUE CENTRALE DU PRADET-CENTRALE DU MARCAS,451641.0,6215470.0,0,Ouvrage fonctionnant au fil de l'eau,0.44,744602.0,,,,,,,271.0
+65473001,ISABY,EXPL,65473,Villelongue,SOCIETE HYDRO ELECTRIQUE DU MIDI,453751.0,6210480.0,0,Ouvrage fonctionnant au fil de l'eau,2.0,4276028.0,0.55,"0,910000",1.0,Pelton,Autorisée,2035-01-13,427.0
+65473002,Centrale des Couscouillets,EXPL,65473,Villelongue,ELECTRIQUE DES COUSCOUILLETS,449757.0,6211390.0,0,Ouvrage fonctionnant au fil de l'eau,1.805,5669737.0,32.0,,,Kaplan,,,5.75
+65473003,Centrale de Villelongue,EXPL,65473,Villelongue,FERROPEM,450739.0,6210990.0,0,Ouvrage fonctionnant au fil de l'eau,6.0,25323940.0,,,,,Concédée,,550.0
+81002001,Centrale des Souls,EXPL,81002,Aiguefonde,CENTRALE HYDROELECTRIQUE DES SOULS,643296.0,6266460.0,0,Ouvrage fonctionnant au fil de l'eau,0.343,658240.0,0.18,,,,Autorisée,2040-12-31,194.75
+81004001,Centrale du Chapitre,EXPL,81004,Albi,CENTRALE HYDROELECTRIQUE DU CHAPITRE S.A.R.L.,631377.0,6315040.0,0,Ouvrage fonctionnant au fil de l'eau,1.67,7515333.0,3.0,,,,,,3.24
+81005001,Centrale de Corbière,EXPL,81278,Sauveterre,SOCIETE HYDROELECTRIQUE ET FORESTIERE DE LA MONTAGNE NOIRE,663252.0,6261790.0,0,Ouvrage fonctionnant au fil de l'eau,1.802,2599392.0,0.515,,,,Autorisée,2035-10-21,358.52
+81010001,AMBIALET,EXPL,81010,Ambialet,ELECTRICITE DE FRANCE,650129.0,6316560.0,0,Ouvrage fonctionnant au fil de l'eau,3.6,14169000.0,75.0,"0,013000",2.0,Kaplan horizont. & bulbe à pâles mobiles,Concédée,2008-12-31,7.5
+81011001,Centrale d'Ambres Fontenau,EXPL,81140,Lavaur,ENERGIES SCE LAVAUR-PAYS DE COCAGNE,604887.0,6292420.0,0,Ouvrage fonctionnant au fil de l'eau,3.437,,58.0,,,,Autorisée,2053-06-25,6.04
+81018001,SAUT DE SABOT,EXPL,81018,Arthès,ELECTRICITE DE FRANCE,636863.0,6317540.0,0,Ouvrage fonctionnant au fil de l'eau,26.0,67604864.0,180.0,"0,044000",3.0,Kaplan,Concédée,2064-12-31,21.2
+81031001,LUZIERES,EXPL,81031,Le Bez,ELECTRICITE DE FRANCE,652879.0,6285270.0,0,Ouvrage fonctionnant par éclusées,19.3,68466064.0,19.3,"0,285000",2.0,Francis,Concédée,2033-12-31,135.0
+81034001,Centrale de Boissezon,EXPL,81034,Boissezon,S.A.R.L. HYDROELECTRIQUE DU THORE,650261.0,6275460.0,0,Ouvrage fonctionnant au fil de l'eau,0.37,451716.0,,,,,,,31.5
+81036001,BAOUS,EXPL,81036,Bout-du-Pont-de-Larn,ELECTRICITE DE FRANCE,653165.0,6267860.0,0,Ouvrage fonctionnant par éclusées,13.7,10158267.0,13.0,"0,040000",4.0,Francis,Concédée,2010-12-31,129.0
+81036002,Centrale du Baous,EXPL,81036,Bout-du-Pont-de-Larn,COMMUNE DE BOUT DU PONT DE LARN,652262.0,6267350.0,0,Ouvrage fonctionnant au fil de l'eau,0.96,1523538.0,10.0,,,,Autorisée,,9.8
+81036003,Centrale de Lagarrigue,EXPL,81036,Bout-du-Pont-de-Larn,S.A. COLOMBIE ET FILS,651267.0,6266820.0,0,Ouvrage fonctionnant au fil de l'eau,0.162,236014.0,,,,,Autorisée,,5.5
+81036004,Usine du Moulin Bas,EXPL,81209,Pont-de-Larn,S.A. COLOMBIE ET FILS,652206.0,6267380.0,0,Ouvrage fonctionnant au fil de l'eau,0.254,,4.9,,,,Autorisée,,3.7
+81037001,BRASSAC,EXPL,81037,Brassac,ELECTRICITE DE FRANCE,659579.0,6280750.0,0,Ouvrage fonctionnant par éclusées,22.5,51440800.0,20.0,"0,312000",2.0,Francis,Concédée,2033-12-31,140.5
+81037002,Centrale de Paradou,EXPL,81037,Brassac,SOCIETE DE PRODUCTION ELECTRIQUE,658956.0,6281800.0,0,Ouvrage fonctionnant au fil de l'eau,0.208,96413.0,,,,,,,2.5
+81038001,Centrale de Brens,EXPL,81038,Brens,HYDRO-ELECTRIQUE GESTION,611179.0,6311460.0,0,Ouvrage fonctionnant au fil de l'eau,1.56,2942014.0,6.0,,,,Concédée (autorisable),,3.4
+81039001,Moulin de Briatexte,EXPL,81039,Briatexte,BOYER CANTAYRE GILLETTE,611761.0,6295300.0,0,Ouvrage fonctionnant au fil de l'eau,0.15,513339.0,6.0,,,,Autorisée,,3.36
+81042001,Centrale des Salvages,EXPL,81042,Burlats,SOC. EXPL. DU BARRAGE DES SALVAGES,641577.0,6281660.0,0,Ouvrage fonctionnant au fil de l'eau,0.207,1979333.0,1.0,,,,,,3.2
+81042002,Usine hydroélectrique de la papeterie des Salvages,EXPL,81042,Burlats,HYDROELECTRIQUE DES SALVAGES,641863.0,6281650.0,0,Ouvrage fonctionnant au fil de l'eau,,,,,,,,,
+81053001,Centrale d'Esperieres,EXPL,81053,Cambounès,SOCIETE HYDROELECTRIQUE D'ESPERIERES,656331.0,6276630.0,0,Ouvrage fonctionnant au fil de l'eau,0.255,520537.0,0.26,,1.0,Pelton,,,100.0
+81055001,Centrale de Tirand-Verdeille,EXPL,81055,Les Cammazes,INSTITUTION DES EAUX DE LA MONTAGNE NOIRE,626735.0,6256960.0,0,Ouvrage fonctionnant au fil de l'eau,1.21,2366955.0,2.0,,,,,,64.0
+81065001,Moulins de Lacaze,EXPL,81065,Castres,SOCIETE DES MOULINS DE LACAZE,637725.0,6276860.0,0,Ouvrage fonctionnant au fil de l'eau,,2157118.0,,,,,,,3.8
+81065002,Usine de Melou,EXPL,81065,Castres,PROD'ELEC 81,636122.0,6276540.0,0,Ouvrage fonctionnant au fil de l'eau,,515096.0,,,,,Autorisée,,1.54
+81066001,Centrale de Caucalieres,EXPL,81066,Caucalières,GESTION INSTALL EXPLOIT PRODUCT ENERGI,644303.0,6269480.0,0,Ouvrage fonctionnant au fil de l'eau,0.486,1415217.0,15.0,,,,,,3.3
+81066002,Centrale de Cambou,EXPL,81066,Caucalières,S.A.R.L. D'EXPLOITATION DU CAMBOU,645296.0,6269380.0,0,Ouvrage fonctionnant au fil de l'eau,0.274,670236.0,12.0,,1.0,Kaplan,Autorisée,,2.33
+81070001,Centrale de Labastide,EXPL,81070,Coufouleux,S.N.C. HRC,597654.0,6303220.0,0,Ouvrage fonctionnant au fil de l'eau,0.467,1303267.0,17.0,,,,,,4.0
+81078001,Port de Salomon,EXPL,81078,Damiatte,S.N.C. HYDROELECTRIQUE DE PORT DE SALOMON,617516.3,6283882.0,0,Ouvrage fonctionnant au fil de l'eau,0.595,1987282.0,18.0,,,,Autorisée,2033-02-11,3.37
+81083001,Centrale de Malamort,EXPL,81083,Durfort,INSTITUTION DES EAUX DE LA MONTAGNE NOIRE,625529.0,6258990.0,0,Ouvrage fonctionnant au fil de l'eau,0.363,909607.0,,,,,,,72.0
+81086001,Centrale de la Balme,EXPL,81086,Espérausses,BARTHES Gilles,661309.0,6290180.0,0,Ouvrage fonctionnant au fil de l'eau,0.189,380865.0,1.0,,,,Autorisée,2041-01-27,19.31
+81092001,Moulin de Caty,EXPL,81092,Fiac,ENERGIE VERTE DE CATY,612486.0,6288670.0,0,Ouvrage fonctionnant au fil de l'eau,,1330454.0,,,,,,,2.5
+81092002,Moulin de Miech,EXPL,81092,Fiac,MOULIN DE FIAC SAS,610777.0,6288190.0,0,Ouvrage fonctionnant au fil de l'eau,0.476,2079062.0,18.0,,3.0,Francis,Autorisée,,2.7
+81092003,Centrale de Brazis,EXPL,81092,Fiac,ENERGIE VERTE DE FIAC,613915.0,6287240.0,0,Ouvrage fonctionnant au fil de l'eau,,1215013.0,,,,,,,2.21
+81098001,Centrale de Verdet,EXPL,81098,Fréjeville,DOR DE LASTOURS PIERRE,631877.0,6277920.0,0,Ouvrage fonctionnant au fil de l'eau,0.358,988915.0,10.5,,,,Autorisée,2044-10-23,3.48
+81099001,BOURELIE,EXPL,81099,Gaillac,ELECTRICITE DE FRANCE,613126.0,6311640.0,0,Ouvrage fonctionnant au fil de l'eau,5.3,23204528.0,89.0,"0,011000",3.0,Francis,Concédée,1998-12-31,7.0
+81099002,GAILLAC,EXPL,81099,Gaillac,SOCIETE DE PROMOTION DES ENERGIES RENOUVELABLES,611196.0,6311610.0,0,Ouvrage fonctionnant au fil de l'eau,0.4,1979936.0,24.2,"0,005000",2.0,Kaplan,Autorisée,2006-12-31,3.0
+81099003,Moulin St Sauveur,EXPL,81099,Gaillac,SOCIETE D'EXPLOITATION DU BARRAGE DE MONTANS,610196.0,6308280.0,0,Ouvrage fonctionnant au fil de l'eau,,2426178.0,,,,,,,2.1
+81103001,GIJOUNET,HORS,81103,Gijounet,SOC HYDRAULIQUE ETUDES MISSIONS ASSIST,669732.0,6289670.0,0,Ouvrage fonctionnant au fil de l'eau,0.155,600000.0,0.65,,1.0,,Autorisée,1994-10-16,42.0
+81103002,Centrale de Combe Fumade,EXPL,81103,Gijounet,DE COMBE-FUMADE,669025.0,6290210.0,0,Ouvrage fonctionnant au fil de l'eau,0.49,1165135.0,,,,,Autorisée,,38.0
+81104001,Moulin du Carla,EXPL,81104,Giroussens,SOCIETE HYDROELECTRIQUE DU MOULIN DE CARLA,604092.0,6294030.0,0,Ouvrage fonctionnant au fil de l'eau,0.372,648860.0,11.88,,,,Fondée en titre,,3.2
+81104002,Moulin de la Ramière,EXPL,81104,Giroussens,SARL DU MOULIN DE LA RAMIERE,605347.0,6294930.0,0,Ouvrage fonctionnant au fil de l'eau,0.323,324233.0,10.0,,,,,,3.29
+81105001,Moulin Neuf (Dadou),EXPL,81105,Graulhet,SOC HYDROELECTRIQUE DU MOULIN NEUF,614315.0,6297080.0,0,Ouvrage fonctionnant au fil de l'eau,0.229,735160.0,6.0,,,,Autorisée,2041-01-24,3.9
+81105002,Moulin de la Bressole,EXPL,81105,Graulhet,SAS DU MOULIN DE LA BRESSOLLE,618124.0,6297620.0,0,Ouvrage fonctionnant au fil de l'eau,0.4,,13.19,,,,Autorisée,,3.15
+81107001,Centrale de Guitalens,EXPL,81132,Guitalens-L'Albarède,PONTIER ENERGIE,622264.0,6283290.0,0,Ouvrage fonctionnant au fil de l'eau,0.471,936728.0,18.5,,,,Autorisée,2040-12-31,2.6
+81115001,Centrale de Vertignol,EXPL,81115,Labastide-Rouairoux,HYDRO VERTI,671861.4,6264774.5,0,Ouvrage fonctionnant au fil de l'eau,0.532,900614.0,,,,,Autorisée,,229.0
+81116001,Moulin Neuf (Agout),EXPL,81116,Labastide-Saint-Georges,LE MOULIN,606436.0,6290610.0,0,Ouvrage fonctionnant au fil de l'eau,0.769,2505031.0,,,,,,,
+81120001,LA RESSE,HORS,81120,Labruguière,ELECTRICITE DE FRANCE,641816.0,6265760.0,0,Ouvrage fonctionnant au fil de l'eau,0.133,200000.0,0.2,,2.0,Pelton,,,152.0
+81120002,Moulin d'Hauterive,EXPL,81065,Castres,GENERGIE,639349.0,6273550.0,0,Ouvrage fonctionnant au fil de l'eau,0.484,745421.0,14.1,,,,Autorisée,2033-01-10,3.5
+81120003,Centrale de Labourdasse,EXPL,81120,Labruguière,SOCIETE HYDROELECTRIQUE DE L'ILE,641134.0,6272190.0,0,Ouvrage fonctionnant au fil de l'eau,0.508,1357616.0,15.0,,,,,,3.45
+81120004,Centrale de Thore - Moulin de Labruguière,EXPL,81120,Labruguière,S.A.R.L. HYDROELECTRIQUE DU THORE,640752.0,6271390.0,0,Ouvrage fonctionnant au fil de l'eau,0.608,1132417.0,18.5,,2.0,Kaplan,Autorisée,2045-12-11,3.35
+81121001,Centrale d'Espinassotte,EXPL,81121,Lacabarède,SIVA VAYRETTE ET COMPAGNIE,666187.0,6261260.0,0,Ouvrage fonctionnant au fil de l'eau,1.058,1465953.0,1.5,,,,Autorisée,2040-12-31,71.92
+81125001,Centrale de La Potre,EXPL,81125,Lacaze,SAS DE LOURTIGUIE,660476.0,6293090.0,0,Ouvrage fonctionnant au fil de l'eau,0.28,584071.0,,,,,,,7.5
+81125002,Centrale de Gijou,EXPL,81125,Lacaze,BAISSE CLAUDINE,661732.0,6293590.0,0,Ouvrage fonctionnant au fil de l'eau,0.106,228297.0,,,,,,,3.6
+81128001,CARLA,EXPL,81128,Lacrouzette,ELECTRICITE DE FRANCE,645552.0,6283340.0,0,Ouvrage fonctionnant par éclusées,32.3,100247440.0,31.4,"0,300000",2.0,Francis,Concédée,2034-12-31,140.5
+81134001,LA RAVIEGE,EXPL,81134,Lamontélarié,ELECTRICITE DE FRANCE,667383.0,6277490.0,0,Ouvrage de type Lac,4.2,8644765.0,17.7,"0,063000",1.0,Kaplan,Concédée,2033-12-31,30.9
+81140001,Centrale de Lavaur 1 (St Alain),EXPL,81140,Lavaur,ENERGIES SCE LAVAUR-PAYS DE COCAGNE,605059.0,6289560.0,0,Ouvrage fonctionnant au fil de l'eau,0.8,2492368.0,,,,,,,3.0
+81140002,Centrale de Lavaur 2 (Le Carla),EXPL,81140,Lavaur,ENERGIES SCE LAVAUR-PAYS DE COCAGNE,605967.0,6288780.0,0,Ouvrage fonctionnant au fil de l'eau,2.2,5989871.0,40.0,,2.0,Kaplan,Concédée (autorisable),,5.5
+81140003,Centrale de Fontenau,EXPL,81140,Lavaur,ENERGIES SCE LAVAUR-PAYS DE COCAGNE,603428.0,6290860.0,0,Ouvrage fonctionnant au fil de l'eau,3.4,,58.0,,2.0,,Autorisée,2053-06-26,6.04
+81145001,LISLE SUR TARN,EXPL,81145,Lisle-sur-Tarn,ELECTRICITE DE FRANCE,604639.0,6306020.0,0,Ouvrage fonctionnant au fil de l'eau,0.7,3092353.0,32.2,"0,006000",2.0,Hélice verticale,Autorisée,2029-03-24,3.3
+81147001,Moulin à farine des Plégats,EXPL,81147,Lombers,ROQUELAURE PAULETTE ET ANNIE,631012.0,6300240.0,0,Ouvrage fonctionnant au fil de l'eau,0.021,,0.45,,1.0,,Fondée en titre,,4.8
+81163001,Centrale de Cousteilles,EXPL,81163,Mazamet,S.A. COLOMBIE ET FILS,650410.0,6262800.0,0,Ouvrage fonctionnant au fil de l'eau,,841803.0,,,,,,,34.0
+81163002,Moulin de la Resse,EXPL,81163,Mazamet,SOC HYDROELECT MOULIN DE LA RESSE,649868.0,6261980.0,0,Ouvrage fonctionnant au fil de l'eau,1.08,1602801.0,2.2,,,,Autorisée,2025-12-31,50.0
+81163003,Usine du Cros,EXPL,81163,Mazamet,ETABLISSEMENTS GILBERT JULIEN FILS,649244.0,6264140.0,0,Ouvrage fonctionnant au fil de l'eau,0.935,1930106.0,,,,,,,119.0
+81163004,Centrale de Rieumajou,EXPL,81163,Mazamet,S.A. COLOMBIE ET FILS,651736.0,6258580.0,0,Ouvrage fonctionnant au fil de l'eau,0.23,,,,,,,,63.0
+81163005,Usine hydroélectrique du Courtal,EXPL,81163,Mazamet,SOC AUSSILLONNAISE DE MECANIQUE,650607.0,6263250.0,0,Ouvrage fonctionnant au fil de l'eau,0.142,347064.0,,,,,Autorisée,2036-07-04,8.5
+81163006,Centrale de Madagascar,EXPL,81163,Mazamet,MADAGASCAR,650722.0,6261140.0,0,Ouvrage fonctionnant au fil de l'eau,0.11,285464.0,,,,,,,13.0
+81163007,Usine de la Mole,EXPL,81163,Mazamet,SARL HYDRO ELECTRIQUE DU PONT DE RAYNES,648207.0,6262720.0,0,Ouvrage fonctionnant au fil de l'eau,0.31,470376.0,,,,,,,126.0
+81163008,Centrale de Linoubre,EXPL,81163,Mazamet,S.A.R.L. PAJJY,648881.0,6263610.0,0,Ouvrage fonctionnant au fil de l'eau,0.178,287760.0,,,,,,,26.0
+81163009,Centrale des Passes,HORS,81163,Mazamet,ROUQUIER MAURICE,650390.0,6264330.0,0,Ouvrage fonctionnant au fil de l'eau,0.197,,,,,,,,
+81163010,L'Eclauze,EXPL,81163,Mazamet,S.A. COLOMBIE ET FILS,650683.0,6264020.0,0,Ouvrage fonctionnant au fil de l'eau,0.147,385955.0,,,,,,,21.0
+81163011,USINE DU MOULIN A PAPIER,EXPL,81163,Mazamet,ETS GASTON COLOMBIE ET CIE,649260.0,6264640.0,0,Ouvrage fonctionnant au fil de l'eau,0.255,,3.3,,1.0,Kaplan,Autorisée,2031-07-25,8.5
+81171001,Centrale de l'Ecluse de Lisle sur Tarn,EXPL,81171,Montans,SOC HYDRAULIQUE ETUDES MISSIONS ASSIST,604698.0,6306120.0,0,Ouvrage fonctionnant au fil de l'eau,,1152605.0,,,,,,,2.0
+81174001,St Amans,EXPL,81174,Montdragon,BIRBES BERNARD,628166.0,6297810.0,0,Ouvrage fonctionnant au fil de l'eau,0.178,381521.0,6.83,,,,,,
+81195001,Moulin de Naves,EXPL,81195,Navès,SOCIETE HYDROELECTRIQUE DES METAIRIES DE NAVES,637566.0,6275580.0,0,Ouvrage fonctionnant au fil de l'eau,0.64,1637582.0,3.0,,,,Autorisée,,4.0
+81196001,Centrale Maraval n°4,HORS,81196,Noailhac,S.A.R.L. MOULIN DE LA CHAPELAINIE,648967.7,6275003.5,0,Ouvrage fonctionnant au fil de l'eau,0.112,107826.0,,,,,,,5.0
+81201001,THURIES,EXPL,81201,Pampelonne,ELECTRICITE DE FRANCE,640361.0,6336670.0,0,Ouvrage fonctionnant par éclusées,6.52,7990824.0,22.0,"0,056000",4.0,Francis,Concédée,2039-10-31,30.7
+81203001,Centrale de Paulin,EXPL,81203,Paulinet,SAS GONERGY,651950.0,6306200.0,0,Ouvrage fonctionnant au fil de l'eau,0.494,1147481.0,1.0,,,,,,40.0
+81209001,BAOUS Aval,EXPL,81209,Pont-de-Larn,ELECTRICITE DE FRANCE,652529.0,6267440.0,0,Ouvrage fonctionnant par éclusées,13.7,22766268.0,13.0,"0,260000",4.0,Francis,Concédée,2010-12-31,8.8
+81209002,Usine Mairie - La Sarnarié,EXPL,81209,Pont-de-Larn,COMMUNE DE PONT DE LARN,655578.0,6269000.0,0,Ouvrage fonctionnant par éclusées,1.9,3739464.0,1.2,,1.0,Francis,Concédée (autorisable),2046-12-31,187.0
+81209003,Centrale du Gue de L'Arn,EXPL,81209,Pont-de-Larn,S.A. DES FILATURES ET TISSAGES JULES TOURNIER ET FILS,651194.0,6267240.0,0,Ouvrage fonctionnant au fil de l'eau,,757373.0,,,,,,,7.0
+81209004,Centrale de Montledier,EXPL,81209,Pont-de-Larn,SOCIETE HYDROELECTRIQUE DE MONTLEDIER,652957.0,6267730.0,0,Ouvrage fonctionnant au fil de l'eau,,2130750.0,,,,,,,16.0
+81209005,Centrale de Doul,EXPL,81209,Pont-de-Larn,SOCIETE HYDROELECTRIQUE DE LA JONQUIERE,651425.0,6268640.0,0,Ouvrage fonctionnant au fil de l'eau,0.145,148982.0,0.455,,,,Autorisée,,32.14
+81209006,Centrale de Calmette,EXPL,81209,Pont-de-Larn,USINE DES CALMETTES,651274.0,6269310.0,0,Ouvrage fonctionnant au fil de l'eau,0.389,90775.0,,,,,,,28.0
+81220001,RABASTENS,EXPL,81220,Rabastens,ELECTRICITE DE FRANCE,597540.0,6303260.0,0,Ouvrage fonctionnant au fil de l'eau,0.4,1900588.0,21.6,"0,005000",2.0,Kaplan,Autorisée,2030-03-09,2.7
+81220002,Centrale de St Gery,EXPL,81220,Rabastens,SOCIETE ELECTRIQUE DE ST GERY E.U.R.L.,600738.0,6305200.0,0,Ouvrage fonctionnant au fil de l'eau,,4162845.0,,,,,,,2.97
+81222001,Centrale de Peyrebrune,EXPL,81182,Montredon-Labessonnié,SOCIETE HYDRO ELECTRIQUE DE PEYREBRUNE,639048.0,6296220.0,0,Ouvrage fonctionnant au fil de l'eau,1.6,3161612.0,10.0,,,,Autorisée et fondée en titre,,16.34
+81224001,MOULIN DE RAYTARENS,EXPL,81224,Le Riols,PARO-ELEC,612999.0,6337740.0,0,Ouvrage fonctionnant au fil de l'eau,0.416,,20.2,,,VLH (Very Low Head Turbine),Autorisée et fondée en titre,2047-11-16,2.1
+81225001,RIVIERES,EXPL,81225,Rivières,ELECTRICITE DE FRANCE,616671.0,6312480.0,0,Ouvrage fonctionnant par éclusées,23.2,83719352.0,165.0,"0,044000",2.0,Kaplan,Concédée,2025-12-31,18.3
+81231001,Centrale de Rieubon,EXPL,81231,Rouairoux,SOCIETE HYDRO-ELECTRIQUE DU RIEUBON-SHER,664391.0,6264630.0,0,Ouvrage fonctionnant au fil de l'eau,,548114.0,,,,,,,77.0
+81231002,Fournials (Bouscayrac),EXPL,81231,Rouairoux,SOCIETE DE BOUSCAYRAC,661971.0,6265070.0,0,Ouvrage fonctionnant au fil de l'eau,0.147,300336.0,,,,,,,42.79
+81238001,Centrale du Mas Naffre,EXPL,81238,Saint-Amans-Soult,S.A.R.L. ALEXANDRE REMY LOUP,657303.0,6263500.0,0,Ouvrage fonctionnant au fil de l'eau,0.715,1607978.0,0.33,,1.0,Pelton,Autorisée,,220.0
+81238002,Guarrigues,EXPL,81238,Saint-Amans-Soult,HYDRO ELECT ROQUE FLEURY AMALRIC ASSEMAT,658562.0,6262860.0,0,Ouvrage fonctionnant au fil de l'eau,0.49,438087.0,,,,,,,210.0
+81239001,Valthoré,EXPL,81239,Saint-Amans-Valtoret,S.A. USINE DE VALTHORE,658964.0,6264600.0,0,Ouvrage fonctionnant au fil de l'eau,0.227,575553.0,,,,,,,7.0
+81239002,Touzeilles,EXPL,81239,Saint-Amans-Valtoret,SOCIETE DU MOULIN DE TOUZEILLES,658809.0,6264570.0,0,Ouvrage fonctionnant au fil de l'eau,0.197,360832.0,,,,,,,4.0
+81239003,Colombier,EXPL,81239,Saint-Amans-Valtoret,HYDRO-ELECTRIQUE DU COLOMBIE,656032.0,6265680.0,0,Ouvrage fonctionnant au fil de l'eau,0.354,636682.0,,,,,,,5.15
+81239004,Banquet,EXPL,81239,Saint-Amans-Valtoret,SOCIETE HYDRO ELECTRIQUE DU BANQUET MARTINET,657243.0,6268260.0,0,Ouvrage fonctionnant au fil de l'eau,1.53,1138592.0,,,,,,,39.0
+81241001,Centrale de Moulinotte,EXPL,81233,Terre-de-Bancalié,SOTRAMO,642213.0,6296950.0,0,Ouvrage fonctionnant au fil de l'eau,0.6,1220292.0,,,,,,,8.3
+81241002,Centrale de Peyrolles,EXPL,81233,Terre-de-Bancalié,SOCIETE DE PRODUCTION ELECTRIQUE CASTRAISE,643791.0,6296390.0,0,Ouvrage fonctionnant au fil de l'eau,,1265376.0,,,,,,,8.3
+81245001,Gramillié,HORS,81245,Saint-Christophe,CROS PIERRE,622548.0,6340450.0,0,Ouvrage fonctionnant au fil de l'eau,0.2,219000.0,8.0,,,,,2005-01-01,
+81248001,Le Moulin,EXPL,81248,Saint-Gauzens,SAINT GAUZENS,610848.0,6295210.0,0,Ouvrage fonctionnant au fil de l'eau,0.165,210856.0,6.0,,,,Autorisée,,2.8
+81248002,Moulin de St Pierre,EXPL,81248,Saint-Gauzens,ETABLISSEMENTS COUTRAS,608332.0,6295540.0,0,Ouvrage fonctionnant au fil de l'eau,0.353,260259.0,10.8,,,,Autorisée,,3.43
+81250001,Usine de Troteco,EXPL,81250,Saint-Genest-de-Contest,S.A. CALYPSO,630674.0,6298370.0,0,Ouvrage fonctionnant au fil de l'eau,0.35,1183676.0,,,,,,,5.0
+81255001,Centrale de St Jean de Rives,EXPL,81255,Saint-Jean-de-Rives,SOC HYDROELECT MOULIN DE LA RESSE,601309.0,6294720.0,0,Ouvrage fonctionnant au fil de l'eau,0.645,1513749.0,5.0,,,VLH (Very Low Head Turbine),Autorisée,,2.8
+81257001,LES AVALATS,EXPL,81257,Saint-Juéry,ELECTRICITE DE FRANCE,638939.0,6316230.0,0,Ouvrage fonctionnant au fil de l'eau,0.6,4144375.0,28.0,"0,004000",3.0,Francis,Autorisée,2030-10-16,3.5
+81258001,Moulin de la Pauquié,EXPL,81258,Saint-Julien-du-Puy,BIRBES EVELYNE,624431.0,6296960.0,0,Ouvrage fonctionnant au fil de l'eau,0.299,612972.0,,,,,,,2.6
+81260001,Centrale de Larqué,EXPL,81233,Terre-de-Bancalié,S.A.R.L. LAFELEC,638133.0,6296750.0,0,Ouvrage fonctionnant au fil de l'eau,0.459,677716.0,,,,,,,3.2
+81263001,Centrale de Vigneres - Parrinet,EXPL,81263,Saint-Martin-Laguépie,SAS DU PARRINET,616896.75,6339179.5,0,Ouvrage fonctionnant au fil de l'eau,0.49,1303660.0,20.0,,,,,,2.5
+81266001,Le Moulin de St Paul Cap de Joux,EXPL,81266,Saint-Paul-Cap-de-Joux,ENERGIE VERTE DE ST PAUL CAP DE JOUX,617415.0,6283880.0,0,Ouvrage fonctionnant au fil de l'eau,1.088,1979816.0,32.9,,2.0,Hélice verticale,Autorisée,,3.37
+81271001,CASTELLA,EXPL,81271,Saint-Sulpice-la-Pointe,SOCIETE HYDRO ELECTRIQUE DU MIDI,594388.0,6298330.0,0,Ouvrage fonctionnant au fil de l'eau,1.57,5474208.0,40.0,,1.0,Kaplan,Concédée (autorisable),2048-12-31,4.1
+81273001,Centrale de Saix,EXPL,81273,Saïx,ETABLISSEMENTS LAVAL ET LECAMUS,634104.0,6276280.0,0,Ouvrage fonctionnant au fil de l'eau,0.892,2448234.0,26.0,,1.0,Kaplan,,,3.5
+81273002,Centrale de La Gascarie,EXPL,81273,Saïx,ENERGIE VERTE DE SAIX,631940.0,6277900.0,0,Ouvrage fonctionnant au fil de l'eau,0.28,704420.0,10.0,,,,Autorisée,,2.86
+81278001,Centrale de Le Merle,EXPL,81278,Sauveterre,SOCIETE HYDRO ELECTRIQUE DU MERLE,665266.0,6261880.0,0,Ouvrage fonctionnant au fil de l'eau,0.893,1597438.0,1.4,,2.0,,Autorisée,,65.0
+81278002,Centrale de Camp de Soubre,EXPL,81278,Sauveterre,SOCIETE HYDROELECTRIQUE DU CAMP DE SOUBRE,665688.0,6261480.0,0,Ouvrage fonctionnant au fil de l'eau,0.75,1587143.0,,,,,,,64.0
+81286001,Moulin De Lalbarede,EXPL,81286,Serviès,SOCIETE LES MEUNIERES,622362.0,6283380.0,0,Ouvrage fonctionnant au fil de l'eau,0.318,967873.0,12.5,,,,Autorisée,2040-12-31,2.6
+81286002,Centrale de Servies,EXPL,81286,Serviès,CENTRALE HYDRO-ELECTRIQUE DE SERVIES,621251.0,6284920.0,0,Ouvrage fonctionnant au fil de l'eau,,3544103.0,,,,,,,3.0
+81288001,Centrale de Montel,EXPL,81288,Sorèze,INSTITUTION DES EAUX DE LA MONTAGNE NOIRE,622626.0,6259900.0,0,Ouvrage fonctionnant au fil de l'eau,0.77,1391525.0,,,,,,,123.0
+81292001,Pont de Tanus,EXPL,81292,Tanus,SICAE DU CARMAUSIN,644925.0,6335720.0,0,Ouvrage fonctionnant au fil de l'eau,,470213.0,,,,,,,3.94
+81299001,Moulin de Breils et du Moulinet,EXPL,81299,Teyssode,ENERGIE VERTE DE TEYSSODE,615528.0,6285160.0,0,Ouvrage fonctionnant au fil de l'eau,1.99,4609863.0,50.0,,2.0,Kaplan,Autorisée,,4.07
+81301001,Centrale de Rassisse,EXPL,81183,Mont-Roc,SYNDICAT MIXTE D'AMENAGEMENT HYDRAULIQUE DU DADOU,647584.06,6300747.5,0,Ouvrage fonctionnant au fil de l'eau,1.2,3874667.0,,,,,,,42.0
+81303001,Centrale de Trebas,EXPL,81303,Trébas,BIRSECK HYDRO,659766.0,6316520.0,0,Ouvrage fonctionnant au fil de l'eau,4.5,12039609.0,,,,,,,5.0
+81305001,Centrale de Vabre,HORS,81305,Vabre,S.A.R.L. SER JEA,653462.7,6288448.5,0,Ouvrage fonctionnant au fil de l'eau,0.195,429236.0,,,,,,,7.0
+81305002,Courrech,EXPL,81305,Vabre,COURRECH HYDRO,652808.0,6287700.0,0,Ouvrage fonctionnant au fil de l'eau,0.26,411253.0,,,,Kaplan,Autorisée,2046-07-19,3.0
+81315001,Centrale de Le Port (Tarn),EXPL,81315,Vielmur-sur-Agout,BLAVY ET MAURIES,626553.0,6280390.0,0,Ouvrage fonctionnant au fil de l'eau,0.876,3739387.0,25.0,,3.0,Francis,Autorisée,2045-09-25,3.57
+81321001,VINTROU,EXPL,81321,Le Vintrou,ELECTRICITE DE FRANCE,656153.0,6269060.0,0,Ouvrage de type Lac,32.3,65624500.0,15.4,"0,565000",4.0,Pelton,Concédée,2021-12-31,265.0
+81323001,Centrale de Viterbe,EXPL,81323,Viterbe,ENERGIE VERTE DE VITERBE,613824.0,6287260.0,0,Ouvrage fonctionnant au fil de l'eau,0.26,828306.0,12.0,,,,Autorisée,2033-01-07,2.21
+82002001,Moulin du Bias,EXPL,82002,Albias,CH. MOULIN DE BIAS,575662.0,6334010.0,0,Ouvrage fonctionnant au fil de l'eau,0.09,446053.0,,,,,Autorisée,,2.54
+82011001,LAGARDE,EXPL,82011,Barry-d'Islemade,ELECTRICITE DE FRANCE,562030.0,6331540.0,0,Ouvrage fonctionnant au fil de l'eau,0.6,2418438.0,40.0,"0,004000",4.0,Hélice horizontale,Autorisée,1994-10-16,2.2
+82018001,Moulin de Bioule,EXPL,82018,Bioule,S.A.R.L. GALAUP ET CIE,583061.0,6333290.0,0,Ouvrage fonctionnant au fil de l'eau,0.474,1303515.0,,,,,,,2.0
+82026001,Moulin des Bordes,EXPL,82026,Bruniquel,S.N.C. ESPEROU,591647.0,6331380.0,0,Ouvrage fonctionnant au fil de l'eau,,1455623.0,,,,,,,2.5
+82026002,Moulin des Istournels,EXPL,82026,Bruniquel,S.A.R.L. DU MOULIN DES ISTOURNELS,592808.0,6330380.0,0,Ouvrage fonctionnant au fil de l'eau,,1009197.0,,,,,,,2.5
+82026003,Les Forges de Caussanus,EXPL,82026,Bruniquel,ETABLISSEMENTS GHEERBRANT,593824.0,6330590.0,0,Ouvrage fonctionnant au fil de l'eau,,3069256.0,,,,,,,2.8
+82044001,Centrale de Claux et Corbarieu,EXPL,82044,Corbarieu,SOCIETE D'EXPLOITATION DE CENTRALE HYDRO ELECTRIQUE,568798.0,6316130.0,0,Ouvrage fonctionnant au fil de l'eau,1.351,9121751.0,22.0,,1.0,,Autorisée,2018-09-19,2.8
+82072001,GOLFECH,EXPL,82072,Golfech,ELECTRICITE DE FRANCE,528235.0,6336840.0,0,Ouvrage fonctionnant au fil de l'eau,94.0,291534240.0,650.0,"0,015000",4.0,Kaplan horizont. & bulbe à pâles mobiles,Concédée,2049-12-31,17.0
+82076001,Moulin de Loubejac,EXPL,82076,L'Honor-de-Cos,SOCIETE HYDROELECTRIQUE DE LOUBEJAC,567628.0,6333720.0,0,Ouvrage fonctionnant au fil de l'eau,0.293,833918.0,,,,,,,2.4
+82088001,CENTRALE HYDROELECTRIQUE DE CONTILLOU,EXPL,82088,Laguépie,S.A.R.L. LE MOULIN DE CONTILLOU,617926.0,6339940.0,0,Ouvrage fonctionnant au fil de l'eau,,569494.0,,,,,,,2.6
+82088002,LE MOULIN DU GUE,EXPL,82088,Laguépie,S.A.R.L. LE MOULIN DU GUE,617526.0,6338910.0,0,Ouvrage fonctionnant au fil de l'eau,0.485,530406.0,18.0,,,,,,2.75
+82101001,GOLFECH (Groupe de Restitution),EXPL,82101,Malause,ELECTRICITE DE FRANCE,538224.0,6333450.0,0,Ouvrage fonctionnant au fil de l'eau,0.5,4310125.0,,,,,,,8.6
+82112001,Centrale de Ste Livrade,EXPL,82112,Moissac,SCS SAINTE LIVRADE,552930.0,6336970.0,0,Ouvrage fonctionnant au fil de l'eau,2.218,6856434.0,,,,,,,2.4
+82121001,SAPIAC,EXPL,82121,Montauban,ELECTRICITE DE FRANCE,567610.0,6325020.0,0,Ouvrage fonctionnant au fil de l'eau,0.4,1280938.0,24.0,"0,004000",2.0,Hélice verticale,Fondée en titre,2008-12-31,2.5
+82121002,ALBAREDES,EXPL,82121,Montauban,ELECTRICITE DE FRANCE,566673.0,6326020.0,0,Ouvrage fonctionnant au fil de l'eau,0.5,2231188.0,34.6,"0,004000",2.0,Hélice verticale,Concédée (autorisable),2001-12-31,2.3
+82121003,Moulin de Palisse,EXPL,82121,Montauban,GLACIERE DE PALISSE,566910.0,6325950.0,0,Ouvrage fonctionnant au fil de l'eau,1.1,4734673.0,,,,,,,2.8
+82121004,Moulin d'Escudie,EXPL,82121,Montauban,SOCIETE HYDROELECTRIQUE DU MOULIN DE L'ESCUDIE,569703.0,6331880.0,0,Ouvrage fonctionnant au fil de l'eau,,1079736.0,,,,,,,2.2
+82125001,Usine de Montech,HORS,82125,Montech,SOCIETE D'EXPLOITATION DES ETABLISSEMENTS VARIN,557662.0,6320640.0,0,,,,,,,,,,1.0
+82132001,Moulin de Montricoux,EXPL,82132,Montricoux,SOC. MEUNIERE MONTRICOUX FAUCHER FRERES,589347.0,6331440.0,0,Ouvrage fonctionnant au fil de l'eau,0.103,299625.0,,,,,,,2.0
+82134001,Centrale Municipale,EXPL,82134,Nègrepelisse,COMMUNE DE NEGREPELISSE,581733.0,6332040.0,0,Ouvrage fonctionnant au fil de l'eau,1.68,2453537.0,,,,,,,3.9
+82150001,Centrale de Lamothe Saliens,EXPL,82150,Reyniès,SALIENS S.A.,573844.0,6313650.0,0,Ouvrage fonctionnant au fil de l'eau,1.3,6766717.0,,,,,Concédée (autorisable),,2.6
+82155001,Centrale des Ondes,EXPL,82155,Saint-Antonin-Noble-Val,VOLT-AVEYRON S.A.R.L.,598588.0,6339630.0,0,Ouvrage fonctionnant au fil de l'eau,0.37,1534497.0,,,,,,,3.0
+82187001,Centrale de Lexos haut,EXPL,82187,Varen,SOC. D'EXPLOITATION DU MOULIN DE LEXOS,611130.0,6338780.0,0,Ouvrage fonctionnant au fil de l'eau,,839919.0,,,,,,,2.2
+82187002,Centrale de Pailhas,EXPL,82187,Varen,SNC PAILHAS ENERGIE,610249.0,6338450.0,0,Ouvrage fonctionnant au fil de l'eau,0.4,1227580.0,,,,,,,2.0
+82195001,LAGARDE,EXPL,82195,Villemade,SOCIETE HYDRO ELECTRIQUE DU MIDI,562242.0,6331400.0,0,Ouvrage fonctionnant au fil de l'eau,1.47,2987981.0,44.0,,2.0,Kaplan,Concédée (autorisable),2020-12-31,2.57

@@ -1,0 +1,9 @@
+schema,uuid,id,type,isHarvested,title,abstract
+iso19139,8dc4d73e-7ccc-4c59-beea-99cc4b354dac,15859027,METADATA,n,Zones forfaitaires du DIRI AGRIAL de Le Lude dans la Sarthe,"En application de la circulaire DPPR/SEI2/FA-07-0066 du 4 mai 2007, le Préfet porte à la connaissance des maires les risques technologiques autour des installations classées pour la protection de l'environnement (ICPE).
+Cette information consiste en la définition des zones forfaitaires pour les silos.
+Les distances forfaitaires d'éloignement sont de deux types : Z1, la plus contraignante pour la maitrise de l'urbanisation et Z2. 
+Les dispositifs réglementaires de maitrise de l'urbanisation peuvent être consultés sur l'arrêté du 29/03/04."
+iso19139,2342935d-adae-4ee3-a0f2-a8667980d178,108205,METADATA,n,Risques technologiques et sites industriels en Pays de la Loire,"Synthèse des couches liées aux risques technologiques et aux sites industriels. La carte contient les lots suivants : ICPE (Silo, TAR, Carrière, IED, Seveso, Sites A,E et S), PPRT, Éolien et Canalisations."
+iso19139,aa8f7a7d-62b2-4a21-b3fb-b8687258f1db,1620050,METADATA,n,Service de téléchargement cartographique (WFS) de SIGLOIRE,L'ensemble des services WFS des données de la plateforme SIGLOIRE sont accessibles dans ce service.
+iso19139,df9e9940-feed-447d-abf9-dca7c2f656c5,15860967,METADATA,n,Zones forfaitaires du DIRI AGRIAL de Le Lude dans la Sarthe (service WFS),L'ensemble des services WFS des données de la plateforme SIGLOIRE sont accessibles dans ce service.
+iso19139,ff06b834-0185-43bc-abf4-d89186063bd5,1620049,METADATA,n,Service de visualisation cartographique (WMS) de SIGLOIRE.,L'ensemble des services WMS des données de la plateforme SIGLOIRE sont accessibles dans ce service. Les accès sont classés selon une arborescence thématique à 2 niveaux.
