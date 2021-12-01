@@ -1,9 +1,0 @@
-schema,uuid,id,type,isHarvested,title,abstract
-iso19139,7c35a62e-77e0-4b13-8fb5-e7de0a915bad,15792408,METADATA,n,Zones d'effets du DIRI Tissus d'Avesnières à Laval en Mayenne (service WFS),L'ensemble des services WFS des données de la plateforme SIGLOIRE sont accessibles dans ce service.
-iso19139,2342935d-adae-4ee3-a0f2-a8667980d178,108205,METADATA,n,Risques technologiques et sites industriels en Pays de la Loire,"Synthèse des couches liées aux risques technologiques et aux sites industriels. La carte contient les lots suivants : ICPE (Silo, TAR, Carrière, IED, Seveso, Sites A,E et S), PPRT, Éolien et Canalisations."
-iso19139,aa8f7a7d-62b2-4a21-b3fb-b8687258f1db,1620050,METADATA,n,Service de téléchargement cartographique (WFS) de SIGLOIRE,L'ensemble des services WFS des données de la plateforme SIGLOIRE sont accessibles dans ce service.
-iso19139,c9d8bd5c-0b61-4b5d-a142-aaf12bfebcc6,15790200,METADATA,n,Zones d'effets du DIRI Tissus d'Avesnières à Laval en Mayenne,"En application de la circulaire DPPR/SEI2/FA-07-0066 du 4 mai 2007, le Préfet porte à la connaissance des maires les risques technologiques autour des installations classées pour la protection de l'environnement (ICPE).
-Cette information consiste en la définition des zones d'effets en cas d'accident sur le site industriel et des limitations d'urbanisation. 
-Les effets peuvent être de type effets létaux significatifs (ELS), effets létaux (EL), effets irréversibles (EI) ou Bris de vitres (BV).
-Les probabilités d'occurence font référence aux définitions de l'arrêté du 29/09/05."
-iso19139,ff06b834-0185-43bc-abf4-d89186063bd5,1620049,METADATA,n,Service de visualisation cartographique (WMS) de SIGLOIRE.,L'ensemble des services WMS des données de la plateforme SIGLOIRE sont accessibles dans ce service. Les accès sont classés selon une arborescence thématique à 2 niveaux.
