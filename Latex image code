@@ -1,4 +1,7 @@
 Latex code for the images:
+
+single data source:
+
 \begin{figure*}
     \centering
 %svm
@@ -322,3 +325,277 @@ WB  80.95
     \caption{ Result of testing on single source}
     \label{singsource}
 \end{figure*}
+
+
+single domain:
+
+%svm
+%Recall
+\begin{figure*}[htbp]
+    \centering
+\pgfplotstableread{
+DS   Value   
+Economy 91.41           
+Health  97.27           
+Government  94.74
+Environment  98.81
+Society  93
+}\Recall
+
+%Precision
+\pgfplotstableread{
+DS   Value   
+Economy 77.10          
+Health 93.44           
+Government  65.97   
+Environment  67.48
+Society  76.23
+}\Precision
+
+%Fmeasure
+\pgfplotstableread{
+DS   Value   
+Economy 83.65           
+Health 95.32          
+Government  77.78   
+Environment  80.19
+Society  83.78
+}\Fmeasure
+
+\begin{tikzpicture}
+\pgfplotsset{
+    Recall/.style={
+        fill=RYB2,
+        draw=RYB2!50!black,   },
+        Precision/.style={
+        fill=RYB3,
+        draw=RYB3!50!black
+    },
+        Fmeasure/.style={
+        fill=RYB4,
+        draw=RYB4!50!black
+    }
+}
+
+  \begin{groupplot}[
+    group style={
+        columns=3,
+        group name=plots,
+        x descriptions at=edge bottom,
+        y descriptions at=edge left,
+    },
+    ylabel={[\%]},
+    ybar,  % We have to manually move the bars
+    ymin=0, ymax=100,
+    enlarge x limits=0.2,
+    width=0.3\linewidth,
+    height=0.3\linewidth,
+    xticklabels from table={\Recall}{DS},
+    x tick label style={rotate=90,anchor=east},
+    xtick=data, xtick pos=left, xticklabel style = {font=\footnotesize}, x label style={font=\large},
+    legend columns=2]
+
+    \nextgroupplot[xlabel=Recall, bar width=0.6, ymajorgrids=true,
+    grid style=dashed]
+    \addplot [Recall] table [x expr=\coordindex,y index=1] {\Recall};
+\addplot[red,sharp plot,dotted, very thick, update limits=false] 
+	coordinates {(-1,96.06) (9,96.06)};
+
+    \nextgroupplot[xlabel=Precision, bar width=0.6, ymajorgrids=true,
+    grid style=dashed, legend style={at={(0.15,-0.82)},anchor=south west}]
+    \addplot [Precision] table [x expr=\coordindex,y index=1] {\Precision}; 
+    \addplot[red,sharp plot,dotted, very thick, update limits=false] 
+	coordinates {(-1,75.78) (9,75.78)};
+    \nextgroupplot[xlabel=Fmeasure, bar width=0.6, ymajorgrids=true,
+    grid style=dashed]
+     \addplot [Fmeasure] table [x expr=\coordindex,y index=1] {\Fmeasure};
+  \addplot[red,sharp plot,dotted, very thick, update limits=false] 
+	coordinates {(-1,84.68) (9,84.68)};
+  \end{groupplot}
+ {\ref{grouplegend}};
+\end{tikzpicture}
+
+    \caption{ Result of testing on single domain}
+    \label{singdom}
+\end{figure*}
+
+%decision tree
+%recall
+\begin{figure*}[htbp]
+    \centering
+\pgfplotstableread{
+DS   Value   
+Economy 86.15           
+Health  92.27           
+Government  89.47 
+Environment  98.81
+Society  95
+}\Recall
+
+%precision
+\pgfplotstableread{
+DS   Value   
+Economy 88.60          
+Health 95.31           
+Government  83.22   
+Environment  73.45
+Society  83.33
+}\Precision
+
+%Fmeasure
+\pgfplotstableread{
+DS   Value   
+Economy 87.36           
+Health 93.76          
+Government  86.23   
+Environment  84.26
+Society  88.79
+}\Fmeasure
+
+\begin{tikzpicture}
+\pgfplotsset{
+    Recall/.style={
+        fill=RYB2,
+        draw=RYB2!50!black,   },
+        Precision/.style={
+        fill=RYB3,
+        draw=RYB3!50!black
+    },
+        Fmeasure/.style={
+        fill=RYB4,
+        draw=RYB4!50!black
+    }
+}
+
+  \begin{groupplot}[
+    group style={
+        columns=3,
+        group name=plots,
+        x descriptions at=edge bottom,
+        y descriptions at=edge left,
+    },
+    ylabel={[\%]},
+    ybar,  % We have to manually move the bars
+    ymin=0, ymax=100,
+    enlarge x limits=0.2,
+    width=0.3\linewidth,
+    height=0.3\linewidth,
+    xticklabels from table={\Recall}{DS},
+    x tick label style={rotate=90,anchor=east},
+    xtick=data, xtick pos=left, xticklabel style = {font=\footnotesize}, x label style={font=\large},
+    legend columns=2]
+
+    \nextgroupplot[xlabel=Recall, bar width=0.6, ymajorgrids=true,
+    grid style=dashed]
+    \addplot [Recall] table [x expr=\coordindex,y index=1] {\Recall};
+\addplot[red,sharp plot,dotted, very thick, update limits=false] 
+	coordinates {(-1,89.88) (9,89.88)};
+
+    \nextgroupplot[xlabel=Precision, bar width=0.6, ymajorgrids=true,
+    grid style=dashed, legend style={at={(0.15,-0.82)},anchor=south west}]
+    \addplot [Precision] table [x expr=\coordindex,y index=1] {\Precision}; 
+    \addplot[red,sharp plot,dotted, very thick, update limits=false] 
+	coordinates {(-1,87.39) (9,87.39)};
+    \nextgroupplot[xlabel=Fmeasure, bar width=0.6, ymajorgrids=true,
+    grid style=dashed]
+     \addplot [Fmeasure] table [x expr=\coordindex,y index=1] {\Fmeasure};
+  \addplot[red,sharp plot,dotted, very thick, update limits=false] 
+	coordinates {(-1,88.54) (9,88.54)};
+  \end{groupplot}
+ {\ref{grouplegend}};
+\end{tikzpicture}
+
+    \caption{ Result of testing on single domain}
+    \label{singdom}
+\end{figure*}
+
+%knn
+%recall
+\begin{figure*}[htbp]
+    \centering
+\pgfplotstableread{
+DS   Value   
+Economy 81.72           
+Health  87.27           
+Government  87.22 
+Environment  91.67
+Society  87
+}\Recall
+
+%precision
+\pgfplotstableread{
+DS   Value   
+Economy 83.10          
+Health 95.52           
+Government  76.82   
+Environment  70.64
+Society  85.29
+}\Precision
+
+%Fmeasure
+\pgfplotstableread{
+DS   Value   
+Economy 82.40           
+Health 91.21          
+Government  81.69   
+Environment  79.79
+Society  86.14
+}\Fmeasure
+
+\begin{tikzpicture}
+\pgfplotsset{
+    Recall/.style={
+        fill=RYB2,
+        draw=RYB2!50!black,   },
+        Precision/.style={
+        fill=RYB3,
+        draw=RYB3!50!black
+    },
+        Fmeasure/.style={
+        fill=RYB4,
+        draw=RYB4!50!black
+    }
+}
+
+  \begin{groupplot}[
+    group style={
+        columns=3,
+        group name=plots,
+        x descriptions at=edge bottom,
+        y descriptions at=edge left,
+    },
+    ylabel={[\%]},
+    ybar,  % We have to manually move the bars
+    ymin=0, ymax=100,
+    enlarge x limits=0.2,
+    width=0.3\linewidth,
+    height=0.3\linewidth,
+    xticklabels from table={\Recall}{DS},
+    x tick label style={rotate=90,anchor=east},
+    xtick=data, xtick pos=left, xticklabel style = {font=\footnotesize}, x label style={font=\large},
+    legend columns=2]
+
+    \nextgroupplot[xlabel=Recall, bar width=0.6, ymajorgrids=true,
+    grid style=dashed]
+    \addplot [Recall] table [x expr=\coordindex,y index=1] {\Recall};
+\addplot[red,sharp plot,dotted, very thick, update limits=false] 
+	coordinates {(-1,88.67) (9,88.67)};
+
+    \nextgroupplot[xlabel=Precision, bar width=0.6, ymajorgrids=true,
+    grid style=dashed, legend style={at={(0.15,-0.82)},anchor=south west}]
+    \addplot [Precision] table [x expr=\coordindex,y index=1] {\Precision}; 
+    \addplot[red,sharp plot,dotted, very thick, update limits=false] 
+	coordinates {(-1,84.71) (9,84.71)};
+    \nextgroupplot[xlabel=Fmeasure, bar width=0.6, ymajorgrids=true,
+    grid style=dashed]
+     \addplot [Fmeasure] table [x expr=\coordindex,y index=1] {\Fmeasure};
+  \addplot[red,sharp plot,dotted, very thick, update limits=false] 
+	coordinates {(-1,86.57) (9,86.57)};
+  \end{groupplot}
+ {\ref{grouplegend}};
+\end{tikzpicture}
+
+    \caption{ Result of testing on single domain}
+    \label{singdom}
+\end{figure*}
+
